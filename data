@@ -4,6 +4,29 @@
     "lat": 1.396071,
     "lng": 103.873012,
     "rating": 3,
-    "wait": 5
+    "wait": 5,
+
+    "address": "Yishun",
+    "phone": "-",
+
+    "imgs": ["https://via.placeholder.com/300"],
+
+    "openHours": {
+      "Mon": [800, 2000],
+      "Tue": [800, 2000],
+      "Wed": [800, 2000],
+      "Thu": [800, 2000],
+      "Fri": [800, 2000],
+      "Sat": [800, 2000],
+      "Sun": [800, 2000]
+    },
+
+    "cuisine": ["chinese food"],
+    "diet": "any",
+    "price": 1,
+    "tags": ["budget", "noodle"],
+    "foodType": "noodle",
+    "dish": ["prawn noodle"],
+    "diningSpot": "hawker"
   }
 ]
