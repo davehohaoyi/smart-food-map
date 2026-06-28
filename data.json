@@ -12,10 +12,10 @@
       "foodType": "noodle",
       "diet": "any",
       "price": 2,
-      "imgs":[
-      "https://blogger.googleusercontent.com/img/a/AVvXsEge-As2SnFOqXRFjT5LAuYn0TXzv7LcnrKicrRk24a1jNR5vz_djwtPHcUPNlhtrKPv7f_ruK7F2lSqVavJC_H_Hhq7HWl-g0pzRCSaTmWm1ljL2zkygozkAWiV3xe0rGpIiTRIDowUGLrYgiRWFhsnuaxz4jode-ZnRkPAnSQN6Chwlfeg9VUq5XwZnbM",
-      "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ",
-       ],
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEge-As2SnFOqXRFjT5LAuYn0TXzv7LcnrKicrRk24a1jNR5vz_djwtPHcUPNlhtrKPv7f_ruK7F2lSqVavJC_H_Hhq7HWl-g0pzRCSaTmWm1ljL2zkygozkAWiV3xe0rGpIiTRIDowUGLrYgiRWFhsnuaxz4jode-ZnRkPAnSQN6Chwlfeg9VUq5XwZnbM",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
+      ],
       "address": "235 Jalan Kayu, S(799459)",
       "phone": "8920 4175",
       "openHours": {
@@ -28,59 +28,3 @@
         "Sun": "closed"
       }
     },
-    {
-      "name": "Carrot Cubes",
-      "lat": 1.375677,
-      "lng": 103.900883,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "coffeeShop",
-      "cuisine": "chinese food",
-      "dish": "carrot cake",
-      "diet": "any",
-      "price": 2,
-      "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ",
-      "phone": "9188 7670",
-      "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
-      "facebook": "https://www.facebook.com/carrotcubes/",
-      "openHours": {
-        "Mon": "closed",
-        "Tue": ["07:00", "14:45"],
-        "Wed": ["07:00", "14:45"],
-        "Thu": ["07:00", "14:45"],
-        "Fri": ["07:00", "14:45"],
-        "Sat": ["10:30", "15:00"],
-        "Sun": ["10:30", "15:00"]
-      }
-    },
-    {
-      "name": "Chey Sua Carrot Cake, 青山菜头粿",
-      "lat": 1.3381,
-      "lng": 103.844727,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "hawker",
-      "cuisine": "chinese food",
-      "dish": "carrot cake",
-      "diet": "any",
-      "price": 2,
-      "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhJKI4BR0xR85geG73Zb1JXJpKXObJVspIbKDA9hUSFuda60xiuxHUZKxp6XvSrsC_gIMs1hyInD1MpZIkMnstQgj8zzDbfRcFHMBErfWsl5YBLmAo7Ke8LE1oFGddFJnf4dg1mGDeuqv7n7p1fT3y-thoQAM8UQQgMoxqz4eeDOLRwLJy4FGKLBHMmThE=w480-h640",
-      "phone": "9188 7670",
-      "address": "127 Toa Payoh Lor 1, Mkt & Food Centre, #02-30, S310127)",
-      "facebook": "https://www.facebook.com/p/Chey-Sua-Carrot-Cake-100057385842875/",
-      "openHours": {
-        "Mon": "closed",
-        "Tue": "closed",
-        "Wed": ["06:30", "13:00"],
-        "Thu": ["06:30", "13:00"],
-        "Fri": ["06:30", "13:00"],
-        "Sat": ["10:30", "15:00"],
-        "Sun": ["10:30", "15:00"]
-      }
-    }
-  ]
-}
-
-Check is the above correct?
-
-Fix all error, Write entire code
