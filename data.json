@@ -28,24 +28,26 @@
         "Sun": "closed"
       }
     },
+
     {
       "name": "Carrot Cubes",
-      "lat": 1.300215,
-      "lng": 103.845921,
+      "lat": 1.375677,
+      "lng": 103.900883,
       "rating": 4,
-      "wait": 10,
+      "wait": 5,
       "diningSpot": "Hawker",
       "cuisine": "Chinese Food",
-      "dish": "Chicken Rice",
-      "diet": "Any",
+      "dish": "Carrot Cake",
+      
+      "diet": "any",
       "price": 2,
       "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
       ],
       "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
       "phone": "9188 7670",
       "openHours": {
-        "Mon": ["07:00", "14:45"],
+        "Mon": "closed",
         "Tue": ["07:00", "14:45"],
         "Wed": ["07:00", "14:45"],
         "Thu": ["07:00", "14:45"],
