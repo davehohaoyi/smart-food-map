@@ -6,11 +6,11 @@
       "lng": 103.873012,
       "rating": 3,
       "wait": 5,
-      "diningSpot": "hawker",
-      "cuisine": "chinese food",
-      "dish": "prawn noodle",
-      "foodType": "noodle",
-      "diet": "any",
+      "diningSpot": "Hawker",
+      "cuisine": "Chinese Food",
+      "dish": "Prawn Noodle",
+      "foodType": "Noodle",
+      "diet": "Any",
       "price": 2,
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEge-As2SnFOqXRFjT5LAuYn0TXzv7LcnrKicrRk24a1jNR5vz_djwtPHcUPNlhtrKPv7f_ruK7F2lSqVavJC_H_Hhq7HWl-g0pzRCSaTmWm1ljL2zkygozkAWiV3xe0rGpIiTRIDowUGLrYgiRWFhsnuaxz4jode-ZnRkPAnSQN6Chwlfeg9VUq5XwZnbM",
@@ -29,30 +29,29 @@
       }
     },
     {
-      "name": "Ah Seng Chicken Rice",
+      "name": "Carrot Cubes",
       "lat": 1.300215,
       "lng": 103.845921,
       "rating": 4,
       "wait": 10,
-      "diningSpot": "hawker",
-      "cuisine": "chinese food",
-      "dish": "chicken rice",
-      "foodType": "rice",
-      "diet": "any",
-      "price": 3,
+      "diningSpot": "Hawker",
+      "cuisine": "Chinese Food",
+      "dish": "Chicken Rice",
+      "diet": "Any",
+      "price": 2,
       "imgs": [
-        "https://example.com/chicken-rice.jpg"
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
       ],
-      "address": "Blk 123 Tanjong Pagar Plaza, S(081007)",
-      "phone": "8123 4567",
+      "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
+      "phone": "9188 7670",
       "openHours": {
-        "Mon": ["10:00", "20:00"],
-        "Tue": ["10:00", "20:00"],
-        "Wed": ["10:00", "20:00"],
-        "Thu": ["10:00", "20:00"],
-        "Fri": ["10:00", "20:00"],
-        "Sat": ["10:00", "18:00"],
-        "Sun": "closed"
+        "Mon": ["07:00", "14:45"],
+        "Tue": ["07:00", "14:45"],
+        "Wed": ["07:00", "14:45"],
+        "Thu": ["07:00", "14:45"],
+        "Fri": ["07:00", "14:45"],
+        "Sat": ["07:00", "14:45"],
+        "Sun": ["07:00", "14:45"],
       }
     }
   ]
