@@ -38,8 +38,8 @@
       "diningSpot": "Hawker",
       "cuisine": "Chinese Food",
       "dish": "Carrot Cake",
-      
-      "diet": "any",
+      "foodType": "Rice Cake",
+      "diet": "Any",
       "price": 2,
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
@@ -53,7 +53,35 @@
         "Thu": ["07:00", "14:45"],
         "Fri": ["07:00", "14:45"],
         "Sat": ["07:00", "14:45"],
-        "Sun": ["07:00", "14:45"],
+        "Sun": ["07:00", "14:45"]
+      }
+    },
+
+    {
+      "name": "Chey Sua Carrot Cake, 青山菜头粿",
+      "lat": 1.338100,
+      "lng": 103.844727,
+      "rating": 4,
+      "wait": 5,
+      "diningSpot": "Hawker",
+      "cuisine": "Chinese Food",
+      "dish": "Carrot Cake",
+      "foodType": "Rice Cake",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
+      ],
+      "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
+      "phone": "9188 7670",
+      "openHours": {
+        "Mon": "closed",
+        "Tue": ["07:00", "14:45"],
+        "Wed": ["07:00", "14:45"],
+        "Thu": ["07:00", "14:45"],
+        "Fri": ["07:00", "14:45"],
+        "Sat": ["07:00", "14:45"],
+        "Sun": ["07:00", "14:45"]
       }
     }
   ]
