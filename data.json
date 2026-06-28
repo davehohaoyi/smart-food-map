@@ -12,6 +12,7 @@
       "foodType": "Noodle",
       "diet": "Any",
       "price": 2,
+      "tags": [
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgLu_rYgNLlhcib7Dhwk77vq4fUtAInH5taYQbdBbtPSYr1BfnGKXOmgn7nwdOMSxiop3RytktiyjXPO7TntoZKaQe4Z0V9yI3MQkclMHB-5AEjxFMqQtyPryDLw-bptvvvm1tNcXnF8mH6CyiOi3A9pKaMZdNWjArnqyW1p_NKqMj0G8ZbWP6OpiQgpyw",
         "https://blogger.googleusercontent.com/img/a/AVvXsEi1qvtyGn7Mnwj6jpxRIg9MdCMzmjg0i3B6yKqt0GGUCf5Q0rj3vg9DgL4BjgBBKRuvfq5SsqkGbBKOXrq4lSBNdAytqW5meMJTbsj0fACE3ppkrxaaG4wqFZed-zI7KTl9XitsTXTKUv-xsH5TkUACTtUE1jQPa5bIGjBSL9C209KrAaD0dewKP8JiKcI=w480-h640"
@@ -41,6 +42,10 @@
       "foodType": "Rice Cake",
       "diet": "Any",
       "price": 2,
+      "tags": [
+        "Local Favourite",
+        "Breakfast",
+        "Vegetarian Friendly"
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
       ],
@@ -69,6 +74,10 @@
       "foodType": "Rice Cake",
       "diet": "Any",
       "price": 2,
+      "tags": [
+        "Local Favourite",
+        "Breakfast",
+        "Vegetarian Friendly"
       "imgs": [
         "image1"
       ],
@@ -99,6 +108,10 @@
       "foodType": "-",
       "diet": "Any",
       "price": 3,
+      "tags": [
+        "Local Favourite",
+        "Breakfast",
+        "Vegetarian Friendly"
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgLu_rYgNLlhcib7Dhwk77vq4fUtAInH5taYQbdBbtPSYr1BfnGKXOmgn7nwdOMSxiop3RytktiyjXPO7TntoZKaQe4Z0V9yI3MQkclMHB-5AEjxFMqQtyPryDLw-bptvvvm1tNcXnF8mH6CyiOi3A9pKaMZdNWjArnqyW1p_NKqMj0G8ZbWP6OpiQgpyw",
         "https://blogger.googleusercontent.com/img/a/AVvXsEi1qvtyGn7Mnwj6jpxRIg9MdCMzmjg0i3B6yKqt0GGUCf5Q0rj3vg9DgL4BjgBBKRuvfq5SsqkGbBKOXrq4lSBNdAytqW5meMJTbsj0fACE3ppkrxaaG4wqFZed-zI7KTl9XitsTXTKUv-xsH5TkUACTtUE1jQPa5bIGjBSL9C209KrAaD0dewKP8JiKcI=w480-h640",
