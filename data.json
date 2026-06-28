@@ -1,81 +1,2129 @@
-{
-  "stalls": [
-    {
-      "name": "Blanco Prawn Noodle House",
-      "lat": 1.396071,
-      "lng": 103.873012,
-      "rating": 3,
-      "wait": 5,
-      "diningSpot": "hawker",
-      "cuisine": "Chinese Food",
-      "dish": "prawn noodle",
-      "foodType": "noodle",
-      "diet": "any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEge-As2SnFOqXRFjT5LAuYn0TXzv7LcnrKicrRk24a1jNR5vz_djwtPHcUPNlhtrKPv7f_ruK7F2lSqVavJC_H_Hhq7HWl-g0pzRCSaTmWm1ljL2zkygozkAWiV3xe0rGpIiTRIDowUGLrYgiRWFhsnuaxz4jode-ZnRkPAnSQN6Chwlfeg9VUq5XwZnbM",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
-      "address": "235 Jalan Kayu, S(799459)",
-      "phone": "8920 4175",
-      "openHours": {
-        "Mon": ["07:00", "16:00"],
-        "Tue": "closed",
-        "Wed": ["09:00", "21:00"],
-        "Thu": ["09:00", "21:00"],
-        "Fri": ["09:00", "21:00"],
-        "Sat": ["09:00", "21:00"],
-        "Sun": "closed"
-      }
-    },
-    {
-      "name": "Carrot Cubes",
-      "lat": 1.375677,
-      "lng": 103.900883,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "coffeeShop",
-      "cuisine": "Chinese Food",
-      "dish": "carrot cake",
-      "diet": "any",
-      "price": 2,
-      "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ",
-      "phone": "9188 7670",
-      "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
-      "facebook": "https://www.facebook.com/carrotcubes/",
-      "openHours": {
-        "Mon": "closed",
-        "Tue": ["07:00", "14:45"],
-        "Wed": ["07:00", "14:45"],
-        "Thu": ["07:00", "14:45"],
-        "Fri": ["07:00", "14:45"],
-        "Sat": ["10:30", "15:00"],
-        "Sun": ["10:30", "15:00"]
-      }
-    },
-    {
-      "name": "Chey Sua Carrot Cake, 青山菜头粿",
-      "lat": 1.3381,
-      "lng": 103.844727,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "hawker",
-      "cuisine": "Chinese Food",
-      "dish": "carrot cake",
-      "diet": "any",
-      "price": 2,
-      "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhJKI4BR0xR85geG73Zb1JXJpKXObJVspIbKDA9hUSFuda60xiuxHUZKxp6XvSrsC_gIMs1hyInD1MpZIkMnstQgj8zzDbfRcFHMBErfWsl5YBLmAo7Ke8LE1oFGddFJnf4dg1mGDeuqv7n7p1fT3y-thoQAM8UQQgMoxqz4eeDOLRwLJy4FGKLBHMmThE=w480-h640",
-      "phone": "9188 7670",
-      "address": "127 Toa Payoh Lor 1, Mkt & Food Centre, #02-30, S310127)",
-      "facebook": "https://www.facebook.com/p/Chey-Sua-Carrot-Cake-100057385842875/",
-      "openHours": {
-        "Mon": "closed",
-        "Tue": "closed",
-        "Wed": ["06:30", "13:00"],
-        "Thu": ["06:30", "13:00"],
-        "Fri": ["06:30", "13:00"],
-        "Sat": ["10:30", "15:00"],
-        "Sun": ["10:30", "15:00"]
+[
+  {
+    "name": "Blanco Prawn Noodle House",
+    "lat": 1.396071,
+    "lng": 103.873012,
+    "rating": 3,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "prawn noodle",
+    "foodType": "noodle",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEge-As2SnFOqXRFjT5LAuYn0TXzv7LcnrKicrRk24a1jNR5vz_djwtPHcUPNlhtrKPv7f_ruK7F2lSqVavJC_H_Hhq7HWl-g0pzRCSaTmWm1ljL2zkygozkAWiV3xe0rGpIiTRIDowUGLrYgiRWFhsnuaxz4jode-ZnRkPAnSQN6Chwlfeg9VUq5XwZnbM",
+    "address": "235 Jalan Kayu, S(799459)",
+    "phone": "8920 4175",
+    "openHours": {
+      "Mon": [
+        7,
+        16
+      ],
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        9,
+        21
+      ],
+      "Thu": [
+        9,
+        21
+      ],
+      "Fri": [
+        9,
+        21
+      ],
+      "Sat": [
+        9,
+        21
+      ],
+      "Sun": {
+        "closed": true
       }
     }
-  ]
-}
+  },
+  {
+    "name": "Carrot Cubes",
+    "lat": 1.375677,
+    "lng": 103.900883,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": "carrot cake",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ",
+    "phone": "9188 7670",
+    "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
+    "facebook": "https://www.facebook.com/carrotcubes/",
+    "openHours": {
+      "Mon": {
+        "closed": true
+      },
+      "Tue": [
+        7,
+        1445
+      ],
+      "Wed": [
+        7,
+        1445
+      ],
+      "Thu": [
+        7,
+        1445
+      ],
+      "Fri": [
+        7,
+        1445
+      ],
+      "Sat": [
+        7,
+        1445
+      ],
+      "Sun": [
+        7,
+        1445
+      ]
+    }
+  },
+  {
+    "name": "Chey Sua Carrot Cake, 青山菜头粿",
+    "lat": 1.3381,
+    "lng": 103.844727,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "carrot cake",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhJKI4BR0xR85geG73Zb1JXJpKXObJVspIbKDA9hUSFuda60xiuxHUZKxp6XvSrsC_gIMs1hyInD1MpZIkMnstQgj8zzDbfRcFHMBErfWsl5YBLmAo7Ke8LE1oFGddFJnf4dg1mGDeuqv7n7p1fT3y-thoQAM8UQQgMoxqz4eeDOLRwLJy4FGKLBHMmThE=w480-h640",
+    "phone": "9188 7670",
+    "address": "127 Toa Payoh Lor 1, Mkt & Food Cente, #2-30, S310127)",
+    "facebook": "https://www.facebook.com/p/Chey-Sua-Carrot-Cake-100057385842875/?locale=zh_CN",
+    "openHours": {
+      "Mon": {
+        "closed": true
+      },
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        630,
+        13
+      ],
+      "Thu": [
+        630,
+        13
+      ],
+      "Fri": [
+        630,
+        13
+      ],
+      "Sat": [
+        630,
+        13
+      ],
+      "Sun": [
+        630,
+        13
+      ]
+    }
+  },
+  {
+    "name": "Fresh Frog Porridge",
+    "lat": 1.312264,
+    "lng": 103.87654,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": "frog porridge",
+    "diet": "any",
+    "price": 3,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgLu_rYgNLlhcib7Dhwk77vq4fUtAInH5taYQbdBbtPSYr1BfnGKXOmgn7nwdOMSxiop3RytktiyjXPO7TntoZKaQe4Z0V9yI3MQkclMHB-5AEjxFMqQtyPryDLw-bptvvvm1tNcXnF8mH6CyiOi3A9pKaMZdNWjArnqyW1p_NKqMj0G8ZbWP6OpiQgpyw",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEi1qvtyGn7Mnwj6jpxRIg9MdCMzmjg0i3B6yKqt0GGUCf5Q0rj3vg9DgL4BjgBBKRuvfq5SsqkGbBKOXrq4lSBNdAytqW5meMJTbsj0fACE3ppkrxaaG4wqFZed-zI7KTl9XitsTXTKUv-xsH5TkUACTtUE1jQPa5bIGjBSL9C209KrAaD0dewKP8JiKcI=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEiH6rXXbxgdImaSG66-ahhU4GJiIjIlUUbRPk7Lra34OQxgDklLLzua_vdTJlOMMm2VMmNQBJndJsQ5C7gQC_WNQrwyhMuoyIco85Awhx2ZSIgNJB9LGDKiKtxuD8t_zJgXpuyJAP2yzCCpF9IMp556JZxxsx9Vchjoz1Zquoo2EvjPCG9nsxw7UWdJsw",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEg5mabYCqW2nDxqugb14ZjMIGGv5ZgNVbPM4McLBvX_dA4IYjOxrnEwhLWxiLuMEJLMm9-IJrZQgwhYlEWMRFp0xfKOS8UE_Aj3w0ewmEc4ZTSfxM6JIi-UOkxBvmAKAEX_YlDjR_8g3uPwxnzK139mJe7siIMdGzyc0KQu853BTshQcgh8jmWsLxDPbCc"
+    ],
+    "phone": "8136 9858",
+    "address": "235 Geylang Road, Lor 9, S(389294)",
+    "facebook": "https://www.facebook.com/geylanglor9/",
+    "website": "https://geylanglor9.com/",
+    "openHours": {
+      "Mon": [
+        1230,
+        345
+      ],
+      "Tue": [
+        1230,
+        345
+      ],
+      "Wed": [
+        1230,
+        345
+      ],
+      "Thu": [
+        1230,
+        345
+      ],
+      "Fri": [
+        1230,
+        345
+      ],
+      "Sat": [
+        1230,
+        345
+      ],
+      "Sun": [
+        1230,
+        345
+      ]
+    }
+  },
+  {
+    "name": "Gimee Face (Hougang)",
+    "lat": 1.372867,
+    "lng": 103.885765,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": "bak chor mee",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEj0Zpd2YfKywts-21jqJBdHwH73nkComO0HeSjh9FKDx9V2ojZ64LgGF2hKLZSCvkCguvdB7zuH_HgiG79QzPVI1qNRz9uCfC3a50gKmHSQG5KQ5QFLOs62x2fEwcvK5Xa6uC9pbjmeLyYO4rA9LVO1z0-AIOEBWzpldCox5auXHp6MJwQ49CSCQtS-V9E=w480-h640",
+    "phone": "-",
+    "address": "681 Hougang Avenue 8, Yi Huat Cafe & Eating House, S(530681)",
+    "facebook": "https://www.facebook.com/GimeeFace",
+    "openHours": {
+      "Mon": [
+        7,
+        16
+      ],
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        9,
+        21
+      ],
+      "Thu": [
+        9,
+        21
+      ],
+      "Fri": [
+        9,
+        21
+      ],
+      "Sat": [
+        9,
+        21
+      ],
+      "Sun": {
+        "closed": true
+      }
+    }
+  },
+  {
+    "name": "Famous Eunos Bak Chor Mee (Eunos)",
+    "lat": 1.320068,
+    "lng": 103.903586,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": "bak chor mee",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgozmjPO8vnM3oCRuaCg9E7dESv1m_BrF0g4OhpwrvvFA5VKiFZ_r_jyT_D-zlNa9Yyquau-R7_Xr3RPTaykw7X7DOBZie1hLJci4xiFjbrfvx36Z-MIQdeaNQMBphJtISgCWFawHHbJj5p53uopdOEVN0ohMtR6qAgNNJTcmOMO3AWIH0kk7iecZxTrTA",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgclyVjrUkpktgYz8AEVSAkO7gWORnzY1qWgZx-Cu8mrq94H1p0BUjN7HUhAeu5kpm3ErUNLTwMdUK6ki67Id5eRYqdF4IemEaRgdRwgObBEli_v9OlD0aZxqJdnbd5XRL_J_uQ63CnNl4lR94Xe7Kry_8RulGhcdkRtbfMam_Gv0s5CNprggouLfZ6Qs"
+    ],
+    "phone": "-",
+    "address": "7 Eunos Crescent, Hong Lee Coffee Shop, S(400007)",
+    "facebook": "https://www.facebook.com/famouseunosbakchormee/",
+    "openHours": {
+      "Mon": [
+        600,
+        1930
+      ],
+      "Tue": [
+        600,
+        1930
+      ],
+      "Wed": [
+        600,
+        1930
+      ],
+      "Thu": [
+        600,
+        1930
+      ],
+      "Fri": [
+        600,
+        1930
+      ],
+      "Sat": [
+        600,
+        1930
+      ],
+      "Sun": [
+        600,
+        1930
+      ]
+    }
+  },
+  {
+    "name": "Do & Me Chicken Cutlet",
+    "lat": 1.422716,
+    "lng": 103.840306,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "western food",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEi2nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk8pH8",
+    "address": "654 Yishun Ave 4, S(760654)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        11,
+        22
+      ],
+      "Tue": [
+        11,
+        22
+      ],
+      "Wed": [
+        11,
+        22
+      ],
+      "Thu": {
+        "closed": true
+      },
+      "Fri": [
+        11,
+        22
+      ],
+      "Sat": [
+        11,
+        22
+      ],
+      "Sun": [
+        11,
+        22
+      ]
+    }
+  },
+  {
+    "name": "Golden Rooster (Toa Payoh)",
+    "lat": 1.334564,
+    "lng": 103.849678,
+    "rating": 3,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "western food",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjeBtVAwLMDYgF2LXoxQvmLzzIKRzLkLPGDSX4Cl7pXXjTtrdjwJMwzGqhxzV1QLrnKyoNDOXDQvhaEFiepyTdCXCk6RXQUZB9-MAuJwnuyeRtyoYPJgAjeRU5pP1ZxlkSX4uX9bHdyK0fG9UmOobG8k_ti_d8rSW-9Z859dM5wE-t3tQ7l_DRSOCbrzEc",
+    "address": "78C Toa Payoh Central, #1-77, S(313078)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        1130,
+        100
+      ],
+      "Tue": [
+        1130,
+        100
+      ],
+      "Wed": [
+        1130,
+        100
+      ],
+      "Thu": [
+        1130,
+        100
+      ],
+      "Fri": [
+        1130,
+        100
+      ],
+      "Sat": [
+        1130,
+        100
+      ],
+      "Sun": [
+        1130,
+        100
+      ]
+    }
+  },
+  {
+    "name": "No 1 Western Food",
+    "lat": 1.297448,
+    "lng": 103.805623,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "western food",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjtqgGkQ-Nxk186XtTH9peEp-e7GjkTShenx5k-KoYTiYMxQp1eVv7dByu2cjzwupKJe9nnDarKvScfFglW7EZQ2fZeGQKOl-OM2hIwWho-2fww3ejU0KgCoqy38MSAd7q68f6vUE5dHrfMEOXVUnQ6k85MJBw3bpzsqIK31gC6P_5nrRBsYO7hX3df43w=w480-h640",
+    "address": "38A Margaret Dr, Margaret Dr Food Centre, #2-30, S(142038)",
+    "phone": "8474 3930",
+    "openHours": {
+      "Mon": [
+        11,
+        19
+      ],
+      "Tue": [
+        11,
+        19
+      ],
+      "Wed": {
+        "closed": true
+      },
+      "Thu": {
+        "closed": true
+      },
+      "Fri": [
+        11,
+        19
+      ],
+      "Sat": [
+        11,
+        19
+      ],
+      "Sun": [
+        11,
+        19
+      ]
+    }
+  },
+  {
+    "name": "Apollo Western Food",
+    "lat": 1.354101,
+    "lng": 103.890098,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "western food",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgNjWe4zwuPtN54jXGvvoa1eW7d5EPx2C1cvXNJLumokr2W2xo4Jh4qhKDwwVIktMYVKtYUFgxCvSKl3fLVewbRJAbETjPUbX7-WedZJRwNLAU2xDZMtbqQgZ5JFBGMllqrBkADIoNkKpPBmaTqzdOay2AmjqlAC8YPgtDi3XygcNNRDWnoczOWGUjRw=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEj763zIHphBlyb34rC9d2i3fWyNwc9aD6_wdil-hccGaXSiPoYV7CoNob5iWb2fTfjKD0CS5CTdtVJiL0uRnHeGmKAv-nKkpaX9paSFsQvo1xTpUmgKgK7_2EvXbE610y_wkAWCL1_9f8jLpJtppPxVNfawWTqxZycH7gK5WWQujSNIyiW3Vs_syvwkww4",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhLHpY6VRIbjQPkVkAgEqkA4fpm_t6WxFEPuu4g5OYtOdVTw2scybw-OEBlwSQpCxW2S8m5PBlmsozZR6z_gBe-9q1InHoAOU3qFpuCWByo5vVaL44I0C_mEbhNCbaFTultR3h1w-3OUH3DMGH_pRFTRG-wPgpC6ypjXKpCGJJoQ4b_FzYJ2dEgBPg_vRc=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEh2RK1YGdiZRUrUXZs1SYRAZxL33pPiAR4GiYYVLgdBak_AWrEt5RCPOwcBQYolAXrBKiaLALunpFUezdFhJB1pPNZrMX5Dy1JtVA9T_wgn6zQrbhUqd6XeiUew9K1JKN-CVDmo9c7hxmSGc531x_lJuPe8Z_ErENmi3lyaYUoOiTyg-oijIRNDNUiJkKA=w480-h640"
+    ],
+    "address": "105 Hougang Ave 1, Hainanese Village Ctr, #2-32, S530105)",
+    "phone": "-",
+    "openHours": {
+      "Mon": {
+        "closed": true
+      },
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        12,
+        2015
+      ],
+      "Thu": [
+        12,
+        2015
+      ],
+      "Fri": [
+        12,
+        2015
+      ],
+      "Sat": [
+        12,
+        2015
+      ],
+      "Sun": [
+        12,
+        2015
+      ]
+    }
+  },
+  {
+    "name": "Nic & Tom Eatery - 少年食堂",
+    "lat": 1.28162,
+    "lng": 103.844572,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "restaurant",
+    "cuisine": "western food",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiRuwPrK0l3p6VdB7Cv62VOL6i9vwdyBbwOr3apEZ9Ra6xatb6ylIqz0fClyNWdMuD4djTlH8BF6-dT2SUhyM0M-zzQY0cxQsfNcIAy4QNCFMZwud9tBSVXIL2bGkcnDXc2lKU3VJO5qCeZ2k1F2UC8g3_hj-nj1NdsrudBQsWn1Z78hjgslNcMkrRW4J8",
+    "address": "6 Sago Street, S(59011)",
+    "facebook": "https://www.facebook.com/nictomeatery",
+    "phone": "9138 9696",
+    "openHours": {
+      "Mon": [
+        1030,
+        2230
+      ],
+      "Tue": [
+        1030,
+        2230
+      ],
+      "Wed": [
+        1030,
+        2230
+      ],
+      "Thu": [
+        1030,
+        2230
+      ],
+      "Fri": [
+        1030,
+        2230
+      ],
+      "Sat": [
+        1030,
+        2230
+      ],
+      "Sun": [
+        1030,
+        2230
+      ]
+    }
+  },
+  {
+    "name": "Chindamani indian food Food Stall (Serangoon)",
+    "lat": 1.369785,
+    "lng": 103.873321,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "indian food",
+    "dish": "prata",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhWzJVqfzn2z2J6RYFQWoweoY6f-_LxklKVBBD5B_ZblH9XIDhXla5Wq-MSKjjtiS0FUzaX4CbS2ZV2aPHy3O3UQ3Y275stQfP8AsfKNBX7_aKZ7m2QX77Ao7CfcB30dOlxhu7tjI2tvJOn4ll6WWGcnxFLbDdFr-ocACyk9AKPzgWq4LnlUyM2Gz_Yc_k=w480-h640",
+    "address": "151A Serangoon North Ave 1, #1-81, S(551151)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        6,
+        21
+      ],
+      "Tue": [
+        6,
+        21
+      ],
+      "Wed": [
+        6,
+        21
+      ],
+      "Thu": [
+        6,
+        21
+      ],
+      "Fri": [
+        6,
+        21
+      ],
+      "Sat": [
+        6,
+        21
+      ],
+      "Sun": [
+        6,
+        21
+      ]
+    }
+  },
+  {
+    "name": "The Roti Prata House",
+    "lat": 1.353804,
+    "lng": 103.834196,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "indian",
+    "dish": "prata",
+    "diet": "any",
+    "price": 1,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEiplW6X2kjMpyxZ0L5tztRB4P9gZDBddMtikRGrA3mGXYdOxK8FuIyft-xZuwMUVvSMdNGiI8EZhY9c1po9YB_AKoDIOGfMsVi0XoUVgX5p4W7hb9HCJXi3CMQywfDMzJkyx2KijelMG4g8GbV7VrFVSihIGS72TGJLMIM5ORO-q6MDR4_Q7Fsv4EwYYGA=w480-h640",
+    "address": "246M Upper Thomson Rd, S(574370)",
+    "website": "https://therotipratahouse.sg/",
+    "phone": "9138 9696",
+    "openHours": {
+      "Mon": [
+        700,
+        200
+      ],
+      "Tue": [
+        700,
+        200
+      ],
+      "Wed": [
+        700,
+        200
+      ],
+      "Thu": [
+        700,
+        200
+      ],
+      "Fri": [
+        700,
+        200
+      ],
+      "Sat": [
+        700,
+        200
+      ],
+      "Sun": [
+        700,
+        200
+      ]
+    }
+  },
+  {
+    "name": "Springleaf Prata",
+    "lat": 1.31571,
+    "lng": 103.757656,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "indian",
+    "dish": "prata",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgGCd4o6sAfd-N-eHeUIe_hV0YM4I7xfq8vYWy3CHHTS5vAcAZ_wnsByhq7KuGgtSJ7Qb9OUQOwxnGwt_ro0gibGlOJXo4yIutaYH8NufGUFhvkK2EWhOH3JliqSgWSoAS5eu9sMUJy3SShQ4vnNiiJnOe882RH3U2_ICYuwx4fcbvb3CLDyQIFsMMAQA4=w480-h640",
+    "address": "1 W Coast Dr, 1-108/109, NEWest, S(128020)",
+    "website": "https://spplace.com/",
+    "phone": "6996 4962",
+    "openHours": {
+      "Mon": [
+        0,
+        2359
+      ],
+      "Tue": [
+        0,
+        2359
+      ],
+      "Wed": [
+        0,
+        2359
+      ],
+      "Thu": [
+        0,
+        2359
+      ],
+      "Fri": [
+        0,
+        2359
+      ],
+      "Sat": [
+        0,
+        2359
+      ],
+      "Sun": [
+        0,
+        2359
+      ]
+    }
+  },
+  {
+    "name": "Casuarina Prata",
+    "lat": 1.330386,
+    "lng": 103.875377,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "indian",
+    "dish": "prata",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgHOtZX1xhi6TKOVEgBWzSL2g-5ToAVfz2YTBh2jA8EtOdPYValtH-26_FwbVQQ21loCIIKgfzTFg4hU_aSppCYRapdisX0QF--1mxuhkctYxUNMZ1bS4UaGbj7ce9Bl71HmI4_I2kegMX9aUioJMgVqEMMbeYK7XfZO95fnPfN_CGjFJclQbHR100uAhs=w480-h640",
+    "address": "187 Macpherson Road S(348545)",
+    "website": "https://casuarinacatering.com/",
+    "phone": "6285 9001",
+    "openHours": {
+      "Mon": [
+        1000,
+        2300
+      ],
+      "Tue": [
+        1000,
+        2300
+      ],
+      "Wed": [
+        1000,
+        2300
+      ],
+      "Thu": [
+        1000,
+        2300
+      ],
+      "Fri": [
+        1000,
+        0
+      ],
+      "Sat": [
+        800,
+        0
+      ],
+      "Sun": [
+        800,
+        0
+      ]
+    }
+  },
+  {
+    "name": "Chong Pang Nasi Lemak",
+    "lat": 1.428008,
+    "lng": 103.827489,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": "nasi lemak",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX8_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
+    ],
+    "address": "447 Sembawang Rd, S(758404)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        [
+          0,
+          600
+        ],
+        [
+          1700,
+          2359
+        ]
+      ],
+      "Tue": [
+        [
+          0,
+          600
+        ],
+        [
+          1700,
+          2359
+        ]
+      ],
+      "Wed": [
+        [
+          0,
+          600
+        ],
+        [
+          1700,
+          2359
+        ]
+      ],
+      "Thu": [
+        [
+          0,
+          600
+        ],
+        [
+          1700,
+          2359
+        ]
+      ],
+      "Fri": [
+        [
+          0,
+          600
+        ],
+        [
+          1700,
+          2359
+        ]
+      ],
+      "Sat": [
+        [
+          0,
+          600
+        ],
+        [
+          1700,
+          2359
+        ]
+      ],
+      "Sun": [
+        [
+          0,
+          600
+        ],
+        [
+          1700,
+          2359
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Xiang Feng Nasi Lemak",
+    "lat": 1.345696,
+    "lng": 103.713077,
+    "rating": 10,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": "nasi lemak",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX8_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
+    ],
+    "address": "221B Boon Lay Pl, #1-126, S(642221)",
+    "phone": "9786 7919",
+    "facebook": "https://www.facebook.com/xiangfengnasilemak/",
+    "openHours": {
+      "Mon": [
+        730,
+        1430
+      ],
+      "Tue": [
+        730,
+        1430
+      ],
+      "Wed": [
+        730,
+        1430
+      ],
+      "Thu": [
+        730,
+        1430
+      ],
+      "Fri": [
+        730,
+        1430
+      ],
+      "Sat": {
+        "closed": true
+      },
+      "Sun": [
+        730,
+        1430
+      ]
+    }
+  },
+  {
+    "name": "Boon Lay Power Nasi Lemak",
+    "lat": 1.345696,
+    "lng": 103.713,
+    "rating": 10,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "malay food",
+    "dish": "nasi lemak",
+    "diet": "Halal",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b8eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgLce5es6cM66RI8i2gEpjWH6Q4MvNkNeAyforKWK9d2QJvHYuQ-A4zenxHrFn4yZrJYm8LIEQ-3ZKQJF8mXeDcKTUBG6HpKseFHQwek-9tQNvzGobcqHkQ7-C9D7-AM5fdQaajT2DvxOrGRA88quAMKQm30hLJZae-YTeSmFw5tZHz35mDvV1JUTzybhM=w480-h640"
+    ],
+    "address": "221B Boon Lay Pl, #1-106, S(642221)",
+    "phone": "9786 7919",
+    "facebook": "https://www.facebook.com/BLPNL/",
+    "openHours": {
+      "Mon": [
+        7,
+        330
+      ],
+      "Tue": [
+        7,
+        330
+      ],
+      "Wed": [
+        7,
+        330
+      ],
+      "Thu": [
+        7,
+        330
+      ],
+      "Fri": [
+        7,
+        330
+      ],
+      "Sat": [
+        7,
+        330
+      ],
+      "Sun": [
+        7,
+        330
+      ]
+    }
+  },
+  {
+    "name": "Tong Kee Chicken Rice",
+    "lat": 1.297448,
+    "lng": 103.80555,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "chicken rice",
+    "foodType": "rice",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEh9oSsrcJxbc7jktly1_uz7oqsJLLATKw81C6wz6fm_LdMXL9k9oO7b_rA0X-2N32-NEm1SPpyXQx2HIF_vl8WPLSA1hnAI15b8VNJA6Dg_rjImMVB5145fMcaef8-EmlYa7i0eOuwNKGHkhqJGp_3cJnjdrlJtukpk5Ph74UztgbaLyCGK0Z6gIzEUVXo=w480-h64",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEi_MwWmhLoi0jgRHElBSyPcz6xSLsFw_OZhd1pF1hWKveh7fKM3bczUWmWwhyzpww0KKZk_rItIk2DGI8GgR59PaHsGTiLBjfU_rqM_0FOYLtE9dbq8Z3dx8lKnDL7-zahjd-TozonVOs1S7JBeiAwKvzBc5T78h711SK9p3e0ftU9p7_1cr6ktPPyYW8",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgpigAbxWw9smK7HEvw-x5qANMt3jzhgR5rsPQvbpY1lR909xjSn7TuSRfjPEMGsRuxE0MYUSkWOF0bODCARLYegxkoWhXkCopdY2VvaVu70gOTOMdRHY5Y3u5wIejEH92Wz_oeXw1ruIno7y4bbJcLyy4IyzqYZZ1JH8natI0a-D3ix4uPvJdba9BKemY=w480-h640"
+    ],
+    "address": "38A Margaret Dr, Margaret Dr Food Centre, #1-36, S(142038)",
+    "phone": "8474 3930",
+    "openHours": {
+      "Mon": {
+        "closed": true
+      },
+      "Tue": [
+        1030,
+        1500
+      ],
+      "Wed": [
+        1030,
+        1500
+      ],
+      "Thu": [
+        1030,
+        1500
+      ],
+      "Fri": [
+        1030,
+        1500
+      ],
+      "Sat": [
+        1030,
+        1500
+      ],
+      "Sun": [
+        1030,
+        1500
+      ]
+    }
+  },
+  {
+    "name": "Delicious Boneless Chicken Rice",
+    "lat": 1.304743,
+    "lng": 103.901457,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "chicken rice",
+    "foodType": "rice",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEjWgQgdWDLoInE_RQy3gYua7rwjc1lXGa8ug7FlNtJdHslry6wwdUSfV_h-a-Ms17IQ-D2FDcb_EpxtEuGHGgTO12AK50SbzEpl1GKM-qR2AdCm57zyrfAU-O5YJx2SfwrcVheB-veW1MHMHCmbwWCPjHtmOh7InyGnQZFXmX4s5me1oMCIU8-0twYhI4Y",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEi5hYtsBu4iVr6BbxV6GYTJS2gXE94_BSkwccnx1lsAQJTuKRECoJ6Viwcnvy1WnlpUmNlROHZIm6wdMEsHxjjlPbwb8WKhmlSh3HAU5wOhXKa-4sOWEmXuUYuCDO6jPmiZk679mtiFE18QRjzI3F0bEBjNi0vKVkNE4ZJR5l0Tidvp_B91VQs8B7Sl-iU=w640-h480",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEirGlwQGXYjzA_v3k7jJdzajR8lxB491RUkt0TXxKDPq9qHDo0F_XGC9jl9zzhbb2M0wH8DJZs3d20Udxezxmca6zFSscqtrFhoImPbGzEcO2g532Kdo0Cf0PgV6nAsPY-xuVaZPAKrDGsog8fJQX8kPSgsiLA0ZmwhbBo2813tCAQCh8fZDeoPTspdz5k=w480-h640"
+    ],
+    "address": "865 Mountbatten Rd, Katong Shopping Centre, #B1-8587, S437844",
+    "phone": "9826 5197",
+    "openHours": {
+      "Mon": {
+        "closed": true
+      },
+      "Tue": [
+        1030,
+        1500
+      ],
+      "Wed": [
+        1030,
+        1500
+      ],
+      "Thu": [
+        1030,
+        1500
+      ],
+      "Fri": [
+        1030,
+        1500
+      ],
+      "Sat": [
+        1030,
+        1500
+      ],
+      "Sun": [
+        1030,
+        1500
+      ]
+    }
+  },
+  {
+    "name": "Hup Hong Chicken Rice",
+    "lat": 1.34344,
+    "lng": 103.738142,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "chicken rice",
+    "foodType": "rice",
+    "diet": "any",
+    "price": 1,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEi_Dyxeum6nqSv2QHyQSLxCaztSwHVM0V4_hVLmilpe2xm7QeXgQKw6HV1e-lkik2cfbwDPKXB0dXJeR_LbSIUy367ALa7rXi1j7EBSAovD1Rpe1y8ZFcl8HKSDq8ycS5rUNFe3j3VN14gt3CgLqSIjHEOkSwDDX8JA-vWTLeWHhJmxbIyTbPJYyVzcz2Y",
+    "address": "254 Jurong East St 24, Yuhua Village Market & Food Centre, #1-51, S(600254)",
+    "phone": "-",
+    "openHours": {
+      "Mon": {
+        "closed": true
+      },
+      "Tue": [
+        1030,
+        1730
+      ],
+      "Wed": [
+        1030,
+        1730
+      ],
+      "Thu": [
+        1030,
+        1730
+      ],
+      "Fri": [
+        1030,
+        1730
+      ],
+      "Sat": [
+        1030,
+        1730
+      ],
+      "Sun": [
+        1030,
+        1730
+      ]
+    }
+  },
+  {
+    "name": "Margaret Dr Sin Kee Chicken Rice",
+    "lat": 1.307296,
+    "lng": 103.79346,
+    "rating": 4,
+    "wait": 10,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "chicken rice",
+    "foodType": "rice",
+    "price": 1,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgwhrkKqBldReFxSHZhgtrb0Km6vM_3njDHEzAtxhYo4hPGQtNRVcbD7Ptl-9EaulAQIUo9DcTpUyew7krXqaPM2wz83d8ubeybYHX9viXltoP1sman3QzyPd3zGwz4d-BfASuH8TIvZ50wR6xe-DNtgcUczJ_NGOEhyXNfLrFNdKpX2Mji6geeEK3IJtw=w480-h640",
+    "address": "40 Holland Drive, #1-39, S(270040)",
+    "phone": "8428 7865",
+    "openHours": {
+      "Mon": {
+        "closed": true
+      },
+      "Tue": [
+        1100,
+        2000
+      ],
+      "Wed": [
+        1100,
+        2000
+      ],
+      "Thu": [
+        1100,
+        2000
+      ],
+      "Fri": [
+        1100,
+        2000
+      ],
+      "Sat": [
+        1100,
+        2000
+      ],
+      "Sun": [
+        1100,
+        2000
+      ]
+    }
+  },
+  {
+    "name": "Victor Famous Fried Chicken Wing Rice & Hainanese Chicken Rice",
+    "lat": 1.307283,
+    "lng": 103.855189,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": "chicken rice",
+    "foodType": "rice",
+    "diet": "any",
+    "price": 1,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEj8RBbuNvCjcpJJtceFlLKJov7KEs9iQ-ExfU2u6-xedhXW7sHxLsCEAsGmsPeVnavUs0DiBIqIAaLqMz4HaOkSyvbIe4iABTn0CLf6mIx9fT6u4dvd4ra1k9zTVNPsxfe_o0DxEQt8ss9rELI9W3rlf2jar45Qbkgz15blYtcLvzCdpel_e-CdXIctw0=w480-h640",
+    "address": "638 Veerasamy Rd, Yi He Eating House, #1-101, S(200638)",
+    "facebook": "https://www.facebook.com/VFCRiceOfficial/",
+    "phone": "6336 6083",
+    "openHours": {
+      "Mon": [
+        1130,
+        1800
+      ],
+      "Tue": [
+        1130,
+        1800
+      ],
+      "Wed": [
+        1130,
+        1800
+      ],
+      "Thu": [
+        1130,
+        1800
+      ],
+      "Fri": [
+        1130,
+        1800
+      ],
+      "Sat": [
+        1130,
+        1800
+      ],
+      "Sun": [
+        1130,
+        1800
+      ]
+    }
+  },
+  {
+    "name": "Zhen Zhen Hong Kong Soy Sauce Chicken",
+    "lat": 1.34344,
+    "lng": 103.738142,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": [
+      "chicken rice",
+      "Soy Sauce Chicken"
+    ],
+    "foodType": "rice",
+    "diet": "any",
+    "price": 1,
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhjInkvtOnub0FUUYDMEe2zIpM8hhoz_jX9Nk8dpE-6a0M-MUQD28ftlcvTioR9uR_6jry1t0KAYuAOPU9Ew_m-1g97hDrL6Yx8QLp4Rhw_xUfiZmNwpaMXsseNRVwuhOwOPVV6AkdtMp_AGnfpRzVCD4YC42ozHazM0UG2XMXj0ckCjuMup1wKhoAKS40/w480-h640/2022-1-24_12.23.21%20-%20Soy%20Sauce%20Chicken%20Noodle.jpg",
+    "address": "254 Jurong East St 24, Yuhua Village, #1-28, S(600254)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        600,
+        1200
+      ],
+      "Tue": [
+        600,
+        1200
+      ],
+      "Wed": {
+        "closed": true
+      },
+      "Thu": [
+        600,
+        1200
+      ],
+      "Fri": [
+        600,
+        1200
+      ],
+      "Sat": [
+        600,
+        1200
+      ],
+      "Sun": [
+        600,
+        1200
+      ]
+    }
+  },
+  {
+    "name": "925 Chicken Rice (Yishun)",
+    "lat": 1.428142,
+    "lng": 103.837371,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "coffee shop",
+    "cuisine": "chinese food",
+    "dish": "chicken rice",
+    "foodType": "rice",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEiK0X29zMyQ1NkAo6gy_o8dqRlK44Ag4E7nMTLxQvdqVrK6xJPF9DDU2C6E9oVpkNfbUb50hAXG15j_aRfE-OjJmMyQE1fl4ZWFwSlwsb8eS8rCD1fRlFiRehSec7aWktbZOuE9LL4BnKQpm3elOBHlIrct-jITWETDIQ42U1rXqARptQJFsU6BBRqeRA=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhgM6hJHnUvqVsZ4mg7uNA-e-Oh7ZhFRqWt-YxFBdREK0EMJ7g8b-FHbvx1MgkHhOecsVl5K_Wxv22aoMlskzHj7xkloGiMNIU96_8hmnVHMSLYAkXy-LOPlFuz1TR5qysku7QmQqp6OqeEstclYHqk8KNFXDtUgCsD4MVfkmfCaWhQpglHHPRqwTjbo1g=w480-h640"
+    ],
+    "address": "925 Yishun Central 1, #1-249, S(760925)",
+    "phone": "6924 7742",
+    "openHours": {
+      "Mon": [
+        1100,
+        2030
+      ],
+      "Tue": [
+        1100,
+        2030
+      ],
+      "Wed": [
+        1100,
+        2030
+      ],
+      "Thu": [
+        1100,
+        2030
+      ],
+      "Fri": [
+        1100,
+        2030
+      ],
+      "Sat": [
+        1100,
+        2030
+      ],
+      "Sun": [
+        1100,
+        2030
+      ]
+    }
+  },
+  {
+    "name": "925 Chicken Rice (Jurong Gateway Rd)",
+    "lat": 1.334297,
+    "lng": 103.739768,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "coffee shop",
+    "cuisine": "chinese food",
+    "dish": "chicken rice",
+    "foodType": "rice",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEiK0X29zMyQ1NkAo6gy_o8dqRlK44Ag4E7nMTLxQvdqVrK6xJPF9DDU2C6E9oVpkNfbUb50hAXG15j_aRfE-OjJmMyQE1fl4ZWFwSlwsb8eS8rCD1fRlFiRehSec7aWktbZOuE9LL4BnKQpm3elOBHlIrct-jITWETDIQ42U1rXqARptQJFsU6BBRqeRA=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhgM6hJHnUvqVsZ4mg7uNA-e-Oh7ZhFRqWt-YxFBdREK0EMJ7g8b-FHbvx1MgkHhOecsVl5K_Wxv22aoMlskzHj7xkloGiMNIU96_8hmnVHMSLYAkXy-LOPlFuz1TR5qysku7QmQqp6OqeEstclYHqk8KNFXDtUgCsD4MVfkmfCaWhQpglHHPRqwTjbo1g=w480-h640"
+    ],
+    "address": "132 Jurong Gateway Rd, #1-273, S(600132)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        1010,
+        2000
+      ],
+      "Tue": [
+        1010,
+        2000
+      ],
+      "Wed": [
+        1010,
+        2000
+      ],
+      "Thu": [
+        1010,
+        2000
+      ],
+      "Fri": [
+        1010,
+        2000
+      ],
+      "Sat": [
+        1010,
+        2000
+      ],
+      "Sun": [
+        1010,
+        2000
+      ]
+    }
+  },
+  {
+    "name": "Wah Kee Big Prawn Noodles, 華記大蝦麵",
+    "lat": 1.316123,
+    "lng": 103.850111,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "prawn noodle",
+    "foodType": "noodle",
+    "diet": "any",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjCQgIYUpTZnYPVS2E26hV8aB3dhj6HM_cdlrE-ViIM3CI988WjtdY8IiAO9WubqBOvsla_T4R3uyRXFTVziagLInDugnx8rNfpj41vLk4jx8b3fdiBfpbVoGyQuXRZnzWyHaZa_xqX_MX62hvUUuTaZ23OpJzi6wyZXfMJHNBgiqLPwmzQ9M2o-l9tsBg=w480-h640",
+    "address": "41A Cambridge Road, Pek Kio Mkt, #1-15, S211041)",
+    "phone": "9138 9696",
+    "openHours": {
+      "Mon": {
+        "closed": true
+      },
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        830,
+        1400
+      ],
+      "Thu": [
+        830,
+        1400
+      ],
+      "Fri": [
+        830,
+        1400
+      ],
+      "Sat": [
+        830,
+        1400
+      ],
+      "Sun": [
+        830,
+        1400
+      ]
+    }
+  },
+  {
+    "name": "Kallang Cantonese Live Prawn",
+    "lat": 1.308237,
+    "lng": 103.885888,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "prawn noodle",
+    "foodType": "noodle",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgTTRYiuvJw2n13F60XX-kjCvTtGux2nGo5y5TbsrbnTQ5zlpXWx5q2aWenFdKvzKc5Tedug31j1a__iTTCOPttJHSxnr1dLiyrjgkJem5hTerdCKZE3NAIL4rK58Rej_92QawK_zvcOggO_-EujQyKuwLRhgIzYEIm0htijnpvrVbCZvAXY_5iABD9FI",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEiM7zYiNGtSi__SDwSU94B6BFPCnZ1zG9cywg6BpORZsIquWopujxPbpnwh6sj2aRLfrF6tH8Ba1NqbKsA4Fn9js70QnagQqZfgCn9x_ezbLzjO4qmUOIPKQ7i2rB8tAqCL4RU2tUsg9TL1k2E4EzlF14A4AxcdX8O-PbnC-4gdLLZXV_UredmeowO-LeE=w480-h640"
+    ],
+    "openHours": {
+      "Mon": [
+        [
+          10,
+          1500
+        ],
+        [
+          1800,
+          23
+        ]
+      ],
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        [
+          10,
+          1500
+        ],
+        [
+          1800,
+          23
+        ]
+      ],
+      "Thu": [
+        [
+          10,
+          1500
+        ],
+        [
+          1800,
+          23
+        ]
+      ],
+      "Fri": [
+        [
+          10,
+          1500
+        ],
+        [
+          1800,
+          23
+        ]
+      ],
+      "Sat": [
+        [
+          10,
+          1500
+        ],
+        [
+          1800,
+          23
+        ]
+      ],
+      "Sun": [
+        [
+          10,
+          1500
+        ],
+        [
+          1800,
+          23
+        ]
+      ]
+    }
+  },
+  {
+    "name": "Kam Long Ah Zai Curry Fish Head",
+    "lat": 1.459187,
+    "lng": 103.764849,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": "curry fishhead",
+    "foodType": "rice",
+    "diet": "any",
+    "price": 1,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgOjMOKkyjUXTpMqV3Vn34Kzas8gJOuNwhi9mc46nsPdc3ZvwdhcTs7CHrhujObgsFxRh5LwitsWk0Xw6NMDiM7vyijmVFnkEvHemkYtauBmlPuWmI9P7z_cXTghIWl4VNLDhtQqPREO0IsElmMXf7s_8ztirixqWhXYNP-mPa2lIl4d6JotD7E8_pnzl8=w480-h640",
+    "address": "74, Jalan Wong Ah Fook, Bandar Johor Bahru, 80000",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        800,
+        1630
+      ],
+      "Tue": [
+        800,
+        1630
+      ],
+      "Wed": [
+        800,
+        1630
+      ],
+      "Thu": [
+        800,
+        1630
+      ],
+      "Fri": [
+        800,
+        1630
+      ],
+      "Sat": [
+        800,
+        1630
+      ],
+      "Sun": [
+        800,
+        1630
+      ]
+    }
+  },
+  {
+    "name": "Restoran Kak Kak, 佳佳点心茶楼 (Tim Sum)",
+    "lat": 1.480711,
+    "lng": 103.765531,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": [
+      "tim sum",
+      "porridge"
+    ],
+    "diet": "any",
+    "price": 1,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhmvSqnTz0s3PSmxDD4f3jjhe3BgwucZwEF7Ar5-drrKCiec1sasEFvRBvpiqplOPFuz_C7ZFlkqQBUfLo5KJ_3CKyXnAGxQJYq_WGKX-wYTf0TO2HaVmfU0_wd_w0EzNdYBoyu_z-HjNVV__B-Xayt6k9fJX0sWnOfvSa14rHkZVyh-o2TEfW7jawsYM=w480-h640",
+    "address": "9, Jalan Maju, Taman Maju Jaya, 80400 Johor Bahru, Johor, Malaysia",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        600,
+        1300
+      ],
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        600,
+        1300
+      ],
+      "Thu": [
+        600,
+        1300
+      ],
+      "Fri": [
+        600,
+        1300
+      ],
+      "Sat": [
+        600,
+        1300
+      ],
+      "Sun": [
+        600,
+        1300
+      ]
+    }
+  },
+  {
+    "name": "Soi 19 Thai Wanton Mee (Dairy Farm)",
+    "lat": 1.365533,
+    "lng": 103.774502,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "thai food",
+    "diet": "any",
+    "dish": "wanton mee",
+    "foodType": "noodle",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgyUUAL95EIsoYPvQecRq2nrjxNy-vf_KAsOb-6cZB_6G4xj1aHSHzhd6VFqvK4QGkSlR1xM5JRm8p-BI9mTxcoA4Pj6LQ19t1HIv2o4PvrPqJSg6GAe5YMilLw5NxpMeZZZfJMT2fwz5Xe7hJqrMbasxWGIj9GH4QEBrqwqthdB5L5NRvONG_X7rLxqk=w480-h640",
+    "address": "4 Dairy Farm Ln, #1-12 Dairy Farm Mall, Singapore 677622",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        900,
+        2000
+      ],
+      "Tue": [
+        900,
+        2000
+      ],
+      "Wed": [
+        900,
+        2000
+      ],
+      "Thu": [
+        900,
+        2000
+      ],
+      "Fri": [
+        900,
+        2000
+      ],
+      "Sat": [
+        900,
+        2000
+      ],
+      "Sun": [
+        900,
+        2000
+      ]
+    }
+  },
+  {
+    "name": "Restoran Ya Wang",
+    "lat": 1.459018,
+    "lng": 103.764498,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "diet": "any",
+    "dish": "duck rice",
+    "foodType": "rice",
+    "price": 1,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgZsn5nvsNoYXca0Ewz3bisPNpiTU9txCzdfFpVK4mcTjVOZJoChQfbt3756Ku6rAgta0OpaDZpqXG5WQbX7PIpzDD6guIOv4K4FL-4mrIwwGfMq0-VabUC-HrKnpMXf6J1s7ShGBUf_RGAbfBMCIROGDr5tBs-QcmXwNdfshD_2IrbhA5gSX2syn9pBU0",
+    "address": "44, Jalan Segget, Bandar Johor Bahru, 80000 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        800,
+        1800
+      ],
+      "Tue": [
+        800,
+        1800
+      ],
+      "Wed": {
+        "closed": true
+      },
+      "Thu": [
+        800,
+        1800
+      ],
+      "Fri": [
+        800,
+        1800
+      ],
+      "Sat": [
+        800,
+        1800
+      ],
+      "Sun": [
+        800,
+        1800
+      ]
+    }
+  },
+  {
+    "name": "Chuan Kee Duck Rice",
+    "lat": 1.432136,
+    "lng": 103.829444,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "diet": "any",
+    "dish": "duck rice",
+    "foodType": "rice",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEh4SzXI3vSGS8b6WjrQnE4ysJFrfta6reegh0WNEp8xw1svishvauGcQcbthSkJGPvGd60t7sDhpbGGEzh0q1zNng0fiNc7_wd9aaBRcMQZFwki6hoXAMTc1ebVV5mtsMR4_NmgWgh0xUQKLyhahMyGUDx5LW16VOvhmIsdh5CGCh5dQ_dS8GPLXL--D4I=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEj3-TfbNk4krGJCMSI0ig-9fQ_6CJPeXbAOwNKW5McM-H-_0aFIWvf4_9pAbuGV5MICxunJ43K37Jy5tMvsyCq-xu24saBS6-VHZPeFnk0E4DyXJ7ZcV46qlEna9FxJhjxbHlaagDXem_cj-_ekXQFW5iSMcHa1PI31mE2LpgNOHrPMpAC0A3MG2GAZQk"
+    ],
+    "address": "5 Yishun Ring Rd, #1-161 Chong Pang Food Centre, S(760105)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        900,
+        2000
+      ],
+      "Tue": [
+        900,
+        2000
+      ],
+      "Wed": [
+        900,
+        2000
+      ],
+      "Thu": [
+        900,
+        2000
+      ],
+      "Fri": [
+        900,
+        2000
+      ],
+      "Sat": {
+        "closed": true
+      },
+      "Sun": [
+        900,
+        2000
+      ]
+    }
+  },
+  {
+    "name": "Seng Steam Fish Restaurant",
+    "lat": 1.487916,
+    "lng": 103.774656,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "coffeeShop",
+    "cuisine": "chinese food",
+    "dish": [
+      "fried fish",
+      "steam fish"
+    ],
+    "diet": "any",
+    "foodType": "rice",
+    "price": 1,
+    "tags": [
+      "steam",
+      "healthy"
+    ],
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEivoTY72JrxlXq5Te_LaLSfO38SJdHyQwNXMpAjJwYwb72jE12E4H-MxlVPJUZvsVzd5CEeUVgCmBRRIU33j3DGdSpX6UjRvjAJjGlNGy24qppLUJoiS_8BlwkZXZR7ur1VfCKjSwH1JPvQt8x73uj6Khlt9eyVwolGfgOnUz5FsXiig7HmRri2Al67U"
+    ],
+    "address": "100, Jalan Kris, Taman Sri Tebrau, Johor Bahru",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        800,
+        1400
+      ],
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        800,
+        1400
+      ],
+      "Thu": [
+        800,
+        1400
+      ],
+      "Fri": [
+        800,
+        1400
+      ],
+      "Sat": [
+        800,
+        1400
+      ],
+      "Sun": [
+        800,
+        1400
+      ]
+    }
+  },
+  {
+    "name": "18 Zion Fried Kway Tiao",
+    "lat": 1.292469,
+    "lng": 103.83093,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "fried kway teow",
+    "diet": "any",
+    "foodType": "noodle",
+    "price": 1,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEiQsxvzUE0pbcSAPkmK2T6ma7FrcgPBSdgwUQyujTkAgeNdKIYntuvTZAoT6vWfxaWJxfVrod5xX2oWhkjOxf5KIgl1ZICYOLasFylYYAmvvtKhm3QZCJkI_GFpleopfYKxaVDlCtYrl9Ebyq2IfRcm5zpJrPZecYoKq2NlsYScUEA-F7iTk2Du3x8dj0"
+    ],
+    "address": "70 Zion Rd, #1-17, S(247792)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        1230,
+        2100
+      ],
+      "Tue": {
+        "closed": true
+      },
+      "Wed": [
+        1230,
+        2100
+      ],
+      "Thu": [
+        1230,
+        2100
+      ],
+      "Fri": [
+        1230,
+        2100
+      ],
+      "Sat": [
+        1230,
+        2100
+      ],
+      "Sun": [
+        1230,
+        2100
+      ]
+    }
+  },
+  {
+    "name": "1036 Live Seafood",
+    "lat": 1.453625,
+    "lng": 103.832909,
+    "rating": 3,
+    "wait": 5,
+    "diningSpot": "restaurant",
+    "cuisine": "chinese food",
+    "dish": "zhi char",
+    "diet": "any",
+    "foodType": "seafood",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEhSbIMQCfCAdh46K6sIPgtA7eSDZPc0tEWDYar-wh0L2EpF6_oHk_KslFQy9Rs4IOsZLEfQszN-mHCwaBv41mAchAjparKBgiAjPVHv0LvjW3vHMWS-M4A162GB7vIfvQg_PkbTqbXUFlxjej5ojkMC_vCcK6Fvmze0q_-z3E_adqGaRJAq9mhUl-M-WrI=w480-h640",
+    "address": "1036 Sembawang Rd, Singapore 758504",
+    "phone": "6555 1277",
+    "openHours": {
+      "Mon": [
+        730,
+        1130
+      ],
+      "Tue": [
+        730,
+        1130
+      ],
+      "Wed": [
+        730,
+        1130
+      ],
+      "Thu": [
+        730,
+        1130
+      ],
+      "Fri": [
+        730,
+        1130
+      ],
+      "Sat": [
+        730,
+        1130
+      ],
+      "Sun": [
+        730,
+        1130
+      ]
+    }
+  },
+  {
+    "name": "Sin Hoi Sai Seafood",
+    "lat": 1.284683,
+    "lng": 103.833998,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "restaurant",
+    "cuisine": "chinese food",
+    "dish": "zhi char",
+    "diet": "any",
+    "foodType": "seafood",
+    "price": 3,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEgrW0FstGwMg9VwODZ5brc8foRtwk-MIyYeOCE-KGAM3YDOXOBLJO41oxtGWnK7BQlh6fXgJ63HsXJrIc1AmZ3-vF76xK2RkxELASYcwi3T5BrkmFJXjI7CwvmejsGwonPP_Exs4DsIjtUfKLIirYPYB6_t66nlliO3Gu--iEedVW6VgPzE-gLLuWU9Dzc",
+    "address": "55 Tiong Bahru Rd, #1-59, S(160055)",
+    "phone": "6223 810",
+    "openHours": {
+      "Mon": [
+        1600,
+        300
+      ],
+      "Tue": [
+        1600,
+        300
+      ],
+      "Wed": [
+        1600,
+        300
+      ],
+      "Thu": [
+        1600,
+        300
+      ],
+      "Fri": [
+        1600,
+        300
+      ],
+      "Sat": [
+        1600,
+        300
+      ],
+      "Sun": [
+        1600,
+        300
+      ]
+    }
+  },
+  {
+    "name": "JB Tai Pai Tong Pte Ltd",
+    "lat": 1.435763,
+    "lng": 103.843241,
+    "rating": 5,
+    "wait": 5,
+    "diningSpot": "restaurant",
+    "cuisine": "chinese food",
+    "dish": "zhi char",
+    "diet": "any",
+    "foodType": "seafood",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEjVl1W_eWYPA9KrukE8CAGMUNGFTXQVWMdABskcnUphmjr6YFZBM_7QUHukpE11x8mZfU-PCqZZXvF5plrzHij7NsF4M9RCiZDXM0UiWhgBzIGtZGoLCmTRAcWmeKQoyXxpq5ij-lwYbN5I9SIv6mWzySQD9tA1mPOVFVQsTmSHSH4LqtYkUhJV5Z0XVds=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEiTLscQP1RCth2YmAjnrBMgy53kzi4uYlnS6P43oMAg2PJPjyuqcdYyGaqztYZ6OwmfWJ0Jp_OSn1DJj83iMKxBOev8qHfQzx5UUk1p5L7M1dSE4U1Szh9UUF-HQNaxFIEM5lQZbAdXxYHERU6Hb6_4GEGyqBGK31zeqZIZlV_3-nlFg4Vj7peyFVxRvow",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEjraHfAZXl6I7xJyZ1AMQ4LtIWolgPYyXy_VmyEkJZrd3WB_81jULTSV73qTQd1GnQLSomT1QsaSl38LhYHo6-0pwRtld330z1wJQ6Qny6hBx1bxQkWYmYddVBGpXM-JnHXnv1pGE47Bsz17je1oZigPVDyIifWnsP-bbeFa3sQp9-zBSQoYmNOq6ILdjc=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEg-TjK-FZ-CNpPnHrx2Uf6V70I69bP3aUmqF3cPsTbyAaYzm0mUzjcSRvjE_Z_0TKc2986iuKNKUd5lh14moml1bWnjQVhh0n5Dhii6q4ucbIHG1yXq17J7VCcJovVRbbBOUjijaV_ErqQpBxziyYzFFYeWFk7pcZinikMG0JVvxfoX177CwLB1iAOn71o",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgsLT4pezAcRx8xEu9DBLTJzDcHn26Wd8pNoCeUCdBVyqwnhCat5ZR5AfD9bkcMqsFQIkgfT3XXeEclWxQ0_NWLI9Is0qeA5o7lYAOoBRyL-vlgVDISsmFMSK_X-UL0pkWrEwZcevR_26vulP8pTIZofY3vtMLYEQVMc7UndbImAnBngyieHiq0fw7dI=w480-h640"
+    ],
+    "address": "2 Yishun Industrial Street 1, #1-12, S(768159)",
+    "phone": "9019 9638",
+    "facebook": "https://www.facebook.com/jbtaipaitong/",
+    "openHours": {
+      "Mon": [
+        1130,
+        930
+      ],
+      "Tue": [
+        1130,
+        930
+      ],
+      "Wed": [
+        1130,
+        930
+      ],
+      "Thu": [
+        1130,
+        930
+      ],
+      "Fri": [
+        1130,
+        930
+      ],
+      "Sat": [
+        1130,
+        930
+      ],
+      "Sun": [
+        1130,
+        930
+      ]
+    }
+  },
+  {
+    "name": "Maruhachi - Donburi & Curry (Edgefield Plain)",
+    "lat": 1.405658,
+    "lng": 103.912066,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "coffee shop",
+    "cuisine": "japanese food",
+    "diet": "any",
+    "foodType": "rice",
+    "price": 2,
+    "img": "https://blogger.googleusercontent.com/img/a/AVvXsEjl6rs72j6D_roaHPbUAhitCNiwIFXAlvIiNKw36Vu0wzng0KkgpH20G5AuYUqQl_6fj3bikqXmqbnyXyWRxsMLdwoz_MPtYyBhIujRrd34ivWUlJck6fHDMiZ861HPb_x7oQDoODbxOsP9pGBmKEQIlgzgOtKOD5W6Sju-57bdQK6zfhGFOMkW4BD1UQ=w640-h480",
+    "address": "671 Edgefield Plains, S(820671)",
+    "phone": "8775 3395",
+    "openHours": {
+      "Mon": [
+        1100,
+        2100
+      ],
+      "Tue": [
+        1100,
+        2100
+      ],
+      "Wed": [
+        1100,
+        2100
+      ],
+      "Thu": [
+        1100,
+        2100
+      ],
+      "Fri": [
+        1100,
+        2100
+      ],
+      "Sat": [
+        1100,
+        2100
+      ],
+      "Sun": [
+        1100,
+        2100
+      ]
+    }
+  },
+  {
+    "name": "Shi Le Yuan Kway Chap",
+    "lat": 1.288186,
+    "lng": 103.817212,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "coffee shop",
+    "cuisine": "chinese food",
+    "dish": "kway chap",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhL5BWVRR7c3GsYAoBV62NVxRcH5M36VH-EeeiK9bsyo7XaTXHgaBdOyJROCOSY1vnxL1CTIYZpCl0yrouedE7q7XPpGJld34AP6iwfoyCo45zATtITAJq6bGcrJC1uaw4z0_2PaEAltC30S43h46c3QRYeRRUn3DHtFRNBRxAf5-U65JvQRVAuzS8Eufg",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEggDm3MjoQOlza5Fp7wCKcTKvGdDDjmAaYJi0AUf4H5xDscY2xLc-wFk3jfQoCSUjvGO_QUht0PaqTsi497KK_MVZ2n4EWpHbWwWwokmQ6Sq7B-GX4PbSORRYcn9wLNyA4fkMkRn2OmQVLhzr7oVnzL7nE4wEAzcnPy_rwRcZ8zl_RmiV55UzQDawdGrso=w480-h640"
+    ],
+    "address": "85 Redhill Lane, Redhill Market & Food, #1-82, S(150085)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        1100,
+        2100
+      ],
+      "Tue": [
+        1100,
+        2100
+      ],
+      "Wed": [
+        1100,
+        2100
+      ],
+      "Thu": [
+        1100,
+        2100
+      ],
+      "Fri": [
+        1100,
+        2100
+      ],
+      "Sat": [
+        1100,
+        2100
+      ],
+      "Sun": [
+        1100,
+        2100
+      ]
+    }
+  },
+  {
+    "name": "Huat Kee Kway Chap",
+    "lat": 1.434514,
+    "lng": 103.831612,
+    "rating": 5,
+    "wait": 10,
+    "diningSpot": "coffee shop",
+    "cuisine": "chinese food",
+    "dish": "kway chap",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgWbPmtvjgUiQFJhA5Fr78tSRdO9Q-HUCU_ZCMXCNuuqe0lMTPaJwJymP7dtL5vKsaGgSVIoUkbNt202ntouZl0uYIMDuhaIe865wYMeCR-dprhowHmxrUjz6POGmgvPKEKHZMgsNA1VOvbpNFiWHAgVn3xcAfArpMX1U8R8fz2JslpDwbPwXd0bbayk0Y"
+    ],
+    "address": "123 Yishun St 11, #1-509, S(760123)",
+    "phone": "-",
+    "openHours": {
+      "Mon": [
+        600,
+        1300
+      ],
+      "Tue": [
+        600,
+        1300
+      ],
+      "Wed": {
+        "closed": true
+      },
+      "Thu": [
+        600,
+        1300
+      ],
+      "Fri": [
+        600,
+        1300
+      ],
+      "Sat": [
+        600,
+        1300
+      ],
+      "Sun": [
+        600,
+        1300
+      ]
+    }
+  },
+  {
+    "name": "Chris Kway Chap",
+    "lat": 1.327259,
+    "lng": 103.933146,
+    "rating": 3,
+    "wait": 30,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "kway chap",
+    "diet": "any",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEhSMjmWOgYHrrYBe0KzdyLw_0-dBQMwLyACnRd_aX-6qKzliSNmtIz0ibYkLHXo8o-px2VP8ZwtbTSH6fa13HjXv8DZshiXy-81rhXI_-8dfGDH4XDaR-m0xp-ycsfIiVnaUu8XeZsxbVNJJqQjoaglO-Pfm1aQahU_CWG9mJyUutEwyy45EIfUZTInE9E"
+    ],
+    "address": "216 Bedok North St 1, Mkt & Food Ctr, #1-80, S460216)",
+    "phone": "-",
+    "openHours": {
+      "Tue": {
+        "closed": true
+      },
+      "Wed": {
+        "closed": true
+      },
+      "Thu": [
+        830,
+        1330
+      ],
+      "Fri": [
+        830,
+        1330
+      ],
+      "Sat": [
+        830,
+        1330
+      ],
+      "Sun": [
+        830,
+        1330
+      ]
+    }
+  },
+  {
+    "name": "Tiong Bahru Lor Mee",
+    "lat": 1.308237,
+    "lng": 103.88582,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "hawker",
+    "cuisine": "chinese food",
+    "dish": "lor mee",
+    "diet": "any",
+    "foodType": "noodle",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEiRRJrwh9RLkoMX8SwE38JWLvdVgkv0V0ZZitKi5jE4H_4VsBVGHi4DUL4zY86qpABb1G3Jst92gdn7oZHbI0DbipDnPo5fjtpk8BycTi6G3AP_qJDgzTNmSwMsv4Hz5FAvxw1eFrbCn70QfhJp8O4nmiXvIrs8KetiUUOuVNjeM9QmyRKd2JL9nvZ88zM=w480-h640",
+      "https://blogger.googleusercontent.com/img/a/AVvXsEijQMRXF_ZBzFTbwlc0d7eGs_yRe7CdaOj719aahJAIEz0f7UIiz_Xgf7DT0qjRceGEYILC6fpQ4eWf3WjRAgCjGfzSzRfp5SX-d6q1MPYqS7ZmCfEFXOHDO9Y6VQFPe_JEC_Ve7YcPeb8r-6pVaDjmGtRVlYWtOzkTckKlKnAaHY7j6cV9yAi7R4vmxDY=w480-h640"
+    ],
+    "facebook": "https://www.facebook.com/tiongbahrulormee/",
+    "address": "51 Old Airport Road, #1-124, S(390051)",
+    "openHours": {
+      "Mon": [
+        900,
+        1400
+      ],
+      "Tue": {
+        "closed": true
+      },
+      "Wed": {
+        "closed": true
+      },
+      "Thu": [
+        900,
+        1400
+      ],
+      "Fri": [
+        900,
+        1400
+      ],
+      "Sat": [
+        900,
+        1400
+      ],
+      "Sun": [
+        900,
+        1400
+      ]
+    }
+  },
+  {
+    "name": "Flying Pig",
+    "lat": 1.302646,
+    "lng": 103.862215,
+    "rating": 4,
+    "wait": 5,
+    "diningSpot": "restaurant",
+    "cuisine": "thai food",
+    "dish": "fried rice",
+    "diet": "any",
+    "foodType": "rice",
+    "price": 2,
+    "imgs": [
+      "https://blogger.googleusercontent.com/img/a/AVvXsEgoKeLqM2nQC-79SwcV1ybUHHncwQ0mEZq42TUYi_VZ9zmsnxuifRwLUZQ7nhABM9smsFkIDoPoE2eSInqhQLvnTNTQEgwo0jgOH0F8g3L3B9tv31X8FvpLhtHbSIA8so1PmmWX7qEFdH1fZctD4-ouEpQNx9A1vw2xA7-cMeXAGbXyA79eCohxMy-Dje0=w480-h640"
+    ],
+    "facebook": "https://www.facebook.com/profile.php?id=100063456075264",
+    "openHours": {
+      "Mon": [
+        1130,
+        2130
+      ],
+      "Tue": [
+        1130,
+        2130
+      ],
+      "Wed": {
+        "closed": true
+      },
+      "Thu": [
+        1130,
+        2130
+      ],
+      "Fri": [
+        1130,
+        2130
+      ],
+      "Sat": [
+        1130,
+        2130
+      ],
+      "Sun": [
+        1130,
+        2130
+      ]
+    }
+  }
+]
