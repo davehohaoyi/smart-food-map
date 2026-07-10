@@ -111,8 +111,7 @@
       "diet": "Any",
       "price": 3,
       "tag":[
-        "local favourite",
-        "breakfast"
+        "dinner"
         ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgLu_rYgNLlhcib7Dhwk77vq4fUtAInH5taYQbdBbtPSYr1BfnGKXOmgn7nwdOMSxiop3RytktiyjXPO7TntoZKaQe4Z0V9yI3MQkclMHB-5AEjxFMqQtyPryDLw-bptvvvm1tNcXnF8mH6CyiOi3A9pKaMZdNWjArnqyW1p_NKqMj0G8ZbWP6OpiQgpyw",
@@ -120,12 +119,12 @@
         "https://blogger.googleusercontent.com/img/a/AVvXsEiH06rXXbxgdImaSG66-ahhU4GJiIjIlUUbRPk7Lra34OQxgDklLLzua_vdTJlOMMm2VMmNQBJndJsQ5C7gQC_WNQrwyhMuoyIco85Awhx2ZSIgNJB9LGDKiKtxuD8t_zJgXpuyJAP2yzCCpF9IMp556JZxxsx9Vchjoz1Zquoo2EvjPCG9nsxw7UWdJsw",
         "https://blogger.googleusercontent.com/img/a/AVvXsEg5mabYCqW2nDxqugb14ZjMIGGv5ZgNVbPM4McLBvX_dA4IYjOxrnEwhLWxiLuMEJLMm9-IJrZQgwhYlEWMRFp0xfKOS8UE_Aj3w0ewmEc4ZTSfxM6JIi-UOkxBvmAKAEX_YlDjR_8g3uPwxnzK139mJe7siIMdGzyc0KQu853BTshQcgh8jmWsLxDPbCc"
       ],
-      "address": "127 Toa Payoh Lor 1, Mkt & Food Centre, #02-30, S(310127)",
+      "address": 235 Geylang Road, Lor 9, S(389294)",
       "phone": "-",
       "openHours": {
         "Mon": "closed",
         "Tue": "closed",
-        "Wed": ["06:30", "13:00"],
+        "Wed": ["12:30", "03:45"],
         "Thu": ["06:30", "13:00"],
         "Fri": ["06:30", "13:00"],
         "Sat": ["06:30", "13:00"],
