@@ -134,6 +134,41 @@
         "Sat": ["12:30", "03:45"],
         "Sun": ["12:30", "03:45"]
       }
+    },
+    
+    
+    {
+      "name": "Gimee Face (Hougang)",
+      "lat": 1.372867,
+      "lng": 103.885765,
+      "rating": 4,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "bak chor mee",
+      "foodType": "noodle",
+      "diet": "Any",
+      "price": 1,
+      "facebook": "https://www.facebook.com/GimeeFace",
+      "tag":[
+        ""
+        ],
+      "imgs": [
+        "hhttps://blogger.googleusercontent.com/img/a/AVvXsEj0Zpd2YfKywts-21jqJBdHwH73nkComO0HeSjh9FKDx9V2ojZ64LgGF2hKLZSCvkCguvdB7zuH_HgiG79QzPVI1qNRz9uCfC3a50gKmHSQG5KQ5QFLOs62x2fEwcvK5Xa6uC9pbjmeLyYO4rA9LVO1z0-AIOEBWzpldCox5auXHp6MJwQ49CSCQtS-V9E=w480-h640"
+      ],
+      "address": "235 Geylang Road, Lor 9, S(389294)",
+      "phone": "-",
+      "openHours": {
+        "Mon": ["12:30", "03:45"],
+        "Tue": ["12:30", "03:45"],
+        "Wed": ["12:30", "03:45"],
+        "Thu": ["12:30", "03:45"],
+        "Fri": ["12:30", "03:45"],
+        "Sat": ["12:30", "03:45"],
+        "Sun": ["12:30", "03:45"]
+      }
     }
+    
+    
   ]
 }
