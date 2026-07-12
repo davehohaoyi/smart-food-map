@@ -12,6 +12,8 @@
       "foodType": "Noodle",
       "diet": "Any",
       "price": 2,
+      "website": "https://blancoprawnnoodle.com",
+      "facebook": "https://www.facebook.com/blancoprawnnoodle",
       "tag":[
         "local favourite"
         ],
