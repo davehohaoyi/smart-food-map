@@ -255,6 +255,34 @@
         "Sat": ["11:30", "01:00"],
         "Sun": ["11:30", "01:00"]
       }
+    },
+    
+    {
+      "name": "No 1 Western Food",
+      "lat": 1.297448,
+      "lng": 103.805623,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Hawker",
+      "cuisine": "Western Food",
+      "dish": "",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjtqgGkQ-Nxk186XtTH9peEp-e7GjkTShenx5k-KoYTiYMxQp1eVv7dByu2cjzwupKJe9nnDarKvScfFglW7EZQ2fZeGQKOl-OM2hIwWho-2fww3ejU0KgCoqy38MSAd7q68f6vUE5dHrfMEOXVUnQ6k85MJBw3bpzsqIK31gC6P_5nrRBsYO7hX3df43w=w480-h640"
+      ],
+      "address": "38A Margaret Dr, Margaret Dr Food Centre, #02-30, S(142038)",
+      "phone": "8474 3930",
+      "openHours": {
+        "Mon": ["11:00", "19:00"],
+        "Tue": ["11:00", "19:00"],
+        "Wed": "closed",
+        "Thu": "closed",
+        "Fri": ["11:00", "19:00"],
+        "Sat": ["11:00", "19:00"],
+        "Sun": ["11:00", "19:00"]
+      }
     }
     
     
