@@ -186,7 +186,38 @@
         ""
         ],
       "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgozmjPO8vnM3oCRuaCg9E7dESv1m_BrF0g4OhpwrvvFA5VKiFZ_r_jyT_D-zlNa9Yyquau-R7_Xr3RPTaykw7X7DOBZie1hLJci4xiFjbrfvx36Z-MIQdeaNQMBphJtISgCWFawHHbJj5p53uopdOEVN0ohMtR6qAgNNJTcmOMO3AWIH0kk7iecZxTrTA",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEi02nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk08pH8"
+      ],
+      "address": "654 Yishun Ave 4, S(760654)",
+      "phone": "-",
+      "openHours": {
+        "Mon": ["06:00", "19:30"],
+        "Tue": ["06:00", "19:30"],
+        "Wed": ["06:00", "19:30"],
+        "Thu": ["06:00", "19:30"],
+        "Fri": ["06:00", "19:30"],
+        "Sat": ["06:00", "19:30"],
+        "Sun": ["06:00", "19:30"]
+      }
+    },
+    
+    {
+      "name": "Do & Me Chicken Cutlet",
+      "lat": 1.422716,
+      "lng": 103.84030,
+      "rating": 4,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Western Food",
+      "dish": "",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "tag":[
+        ""
+        ],
+      "imgs": [
+        "hhttps://blogger.googleusercontent.com/img/a/AVvXsEi02nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk08pH8",
         "https://blogger.googleusercontent.com/img/a/AVvXsEgclyVjrUkpktgYz8AEVSAkO7gWORnzY1qWgZx-Cu8mrq094H1p0BUjN7HUhAeu5kpm3ErUNLTwMdUK6ki67Id5eRYqdF4IemEaRgdRwgObBEli_v9OlD0aZxqJdnbd5XRL_J_uQ63CnNl4lR94Xe7Kry_8RulGhcdkRtbfMam_Gv0s5CNprggouLfZ6Qs"
       ],
       "address": "7 Eunos Crescent, Hong Lee Coffee Shop, S(400007)",
