@@ -167,6 +167,39 @@
         "Sat": ["00:00", "23:59"],
         "Sun": ["00:00", "23:59"]
       }
+    },
+    
+    {
+      "name": "Famous Eunos Bak Chor Mee (Eunos)",
+      "lat": 1.320068,
+      "lng": 103.903586,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "bak chor mee",
+      "foodType": "noodle",
+      "diet": "Any",
+      "price": 2,
+      "facebook": "https://www.facebook.com/famouseunosbakchormee/",
+      "tag":[
+        ""
+        ],
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgozmjPO8vnM3oCRuaCg9E7dESv1m_BrF0g4OhpwrvvFA5VKiFZ_r_jyT_D-zlNa9Yyquau-R7_Xr3RPTaykw7X7DOBZie1hLJci4xiFjbrfvx36Z-MIQdeaNQMBphJtISgCWFawHHbJj5p53uopdOEVN0ohMtR6qAgNNJTcmOMO3AWIH0kk7iecZxTrTA",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgclyVjrUkpktgYz8AEVSAkO7gWORnzY1qWgZx-Cu8mrq094H1p0BUjN7HUhAeu5kpm3ErUNLTwMdUK6ki67Id5eRYqdF4IemEaRgdRwgObBEli_v9OlD0aZxqJdnbd5XRL_J_uQ63CnNl4lR94Xe7Kry_8RulGhcdkRtbfMam_Gv0s5CNprggouLfZ6Qs"
+      ],
+      "address": "7 Eunos Crescent, Hong Lee Coffee Shop, S(400007)",
+      "phone": "-",
+      "openHours": {
+        "Mon": ["06:00", "19:30"],
+        "Tue": ["06:00", "19:30"],
+        "Wed": ["06:00", "19:30"],
+        "Thu": ["06:00", "19:30"],
+        "Fri": ["06:00", "19:30"],
+        "Sat": ["06:00", "19:30"],
+        "Sun": ["06:00", "19:30"]
+      }
     }
     
     
