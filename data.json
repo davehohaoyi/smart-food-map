@@ -123,11 +123,11 @@
         "https://blogger.googleusercontent.com/img/a/AVvXsEiH06rXXbxgdImaSG66-ahhU4GJiIjIlUUbRPk7Lra34OQxgDklLLzua_vdTJlOMMm2VMmNQBJndJsQ5C7gQC_WNQrwyhMuoyIco85Awhx2ZSIgNJB9LGDKiKtxuD8t_zJgXpuyJAP2yzCCpF9IMp556JZxxsx9Vchjoz1Zquoo2EvjPCG9nsxw7UWdJsw",
         "https://blogger.googleusercontent.com/img/a/AVvXsEg5mabYCqW2nDxqugb14ZjMIGGv5ZgNVbPM4McLBvX_dA4IYjOxrnEwhLWxiLuMEJLMm9-IJrZQgwhYlEWMRFp0xfKOS8UE_Aj3w0ewmEc4ZTSfxM6JIi-UOkxBvmAKAEX_YlDjR_8g3uPwxnzK139mJe7siIMdGzyc0KQu853BTshQcgh8jmWsLxDPbCc"
       ],
-      "address": "235 Geylang Road, Lor 9, S(389294)",
+      "address": "491 Jurong West Ave 1, #01-173, Singapore 640491",
       "phone": "-",
       "openHours": {
         "Mon": ["12:30", "03:45"],
-        "Tue": ["12:30", "03:45"],
+        "Tue": "closed",
         "Wed": ["12:30", "03:45"],
         "Thu": ["12:30", "03:45"],
         "Fri": ["12:30", "03:45"],
@@ -148,24 +148,24 @@
       "dish": "bak chor mee",
       "foodType": "noodle",
       "diet": "Any",
-      "price": 1,
+      "price": 2,
       "facebook": "https://www.facebook.com/GimeeFace",
       "tag":[
         ""
         ],
       "imgs": [
-        "hhttps://blogger.googleusercontent.com/img/a/AVvXsEj0Zpd2YfKywts-21jqJBdHwH73nkComO0HeSjh9FKDx9V2ojZ64LgGF2hKLZSCvkCguvdB7zuH_HgiG79QzPVI1qNRz9uCfC3a50gKmHSQG5KQ5QFLOs62x2fEwcvK5Xa6uC9pbjmeLyYO4rA9LVO1z0-AIOEBWzpldCox5auXHp6MJwQ49CSCQtS-V9E=w480-h640"
+        "https://blogger.googleusercontent.com/img/a/AVvXsEj0Zpd2YfKywts-21jqJBdHwH73nkComO0HeSjh9FKDx9V2ojZ64LgGF2hKLZSCvkCguvdB7zuH_HgiG79QzPVI1qNRz9uCfC3a50gKmHSQG5KQ5QFLOs62x2fEwcvK5Xa6uC9pbjmeLyYO4rA9LVO1z0-AIOEBWzpldCox5auXHp6MJwQ49CSCQtS-V9E=w480-h64"
       ],
-      "address": "235 Geylang Road, Lor 9, S(389294)",
+      "address": "681 Hougang Avenue 8, Yi Huat Cafe & Eating House, S(530681)",
       "phone": "-",
       "openHours": {
-        "Mon": ["12:30", "03:45"],
-        "Tue": ["12:30", "03:45"],
-        "Wed": ["12:30", "03:45"],
-        "Thu": ["12:30", "03:45"],
-        "Fri": ["12:30", "03:45"],
-        "Sat": ["12:30", "03:45"],
-        "Sun": ["12:30", "03:45"]
+        "Mon": ["00:00", "23:59"],
+        "Tue": ["00:00", "23:59"],
+        "Wed": ["00:00", "23:59"],
+        "Thu": ["00:00", "23:59"],
+        "Fri": ["00:00", "23:59"],
+        "Sat": ["00:00", "23:59"],
+        "Sun": ["00:00", "23:59"]
       }
     }
     
