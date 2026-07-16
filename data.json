@@ -283,6 +283,37 @@
         "Sat": ["11:00", "19:00"],
         "Sun": ["11:00", "19:00"]
       }
+    },
+    
+    {
+      "name": "Apollo Western Food",
+      "lat": 1.354101,
+      "lng": 103.89009,
+      "rating": 4,
+      "wait": 5,
+      "diningSpot": "Hawker",
+      "cuisine": "Western Food",
+      "dish": "",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgNjWe4zwuPtN54jXGvvoa1eW7d5EPx2C1cvXNJLumokr2W02xo4Jh4qhKDwwVIktMYVKtYUFgxCvSKl3fLVewbRJAbETjPUbX07-WedZJRwNLAU2xDZMtbqQgZ5JFBGMllqrBkADIoNkKpPBmaTqzdOay2AmjqlAC8YPgtDi3XygcNNRDWnoczOWGUjRw=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEj763zIHphBlyb34rC9d2i3fWyNwc9aD6_wdil-hccGaXSiPoYV7CoNob5iWb2fTfjKD0CS5CTdtVJiL0uRnHeGmKAv-nKkpaX9paSFsQvo1xTpUmgKgK7_2EvXbE610y_wkAWCL1_9f8jLpJtppPxVNfawWTqxZycH7gK5WWQujSNIyiW3Vs_syvwkww4",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhLHpY6VRIbjQPkVkAgEqkA4fpm_t6WxFEPuu4g5OYtOdVTw2scybw-OEBlwSQpCxW2S8m5PBlmsozZR6z_gBe-9q1InHoAOU3qFpuCWByo5vVaL44I0C_mEbhNCbaFTultR3h1w-3OUH3DMGH_pRFTRG-wPgpC6ypjXKpCGJJoQ4b_FzYJ2dEgBPg_vRc=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEh2RK1YGdiZRUrUXZs1SYRAZxL33pPiAR4GiYYVLgdBak_AWrEt5RCPOwcBQYolAXrBKiaLALunpFUezdFhJB1pPNZrMX5Dy1JtVA9T_wgn6zQrbhUqd6XeiUew9K1JKN-CVDmo9c7hxmSGc531x_lJuPe8Z_ErENmi3lyaYUoOiTyg-oijIRNDNUiJkKA=w480-h640"
+      ],
+      "address": "105 Hougang Ave 1, Hainanese Village Ctr, #02-32, S530105)",
+      "phone": "-",
+      "openHours": {
+        "Mon": "closed",
+        "Tue": "closed",
+        "Wed": ["12:00", "20:15"],
+        "Thu": ["12:00", "20:15"],
+        "Fri": ["12:00", "20:15"],
+        "Sat": ["11:00", "19:00"],
+        "Sun": ["11:00", "19:00"]
+      }
     }
     
     
