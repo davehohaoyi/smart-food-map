@@ -364,13 +364,42 @@
       "phone": "-",
       "facebook": "https://www.facebook.com/profile.php?id=100063722283440&locale=en_GB#",
       "openHours": {
-        "Mon": "closed",
-        "Tue": "closed",
+        "Mon": ["06:00", "21:00"],
+        "Tue": ["06:00", "21:00"],
         "Wed": ["06:00", "21:00"],
         "Thu": ["06:00", "21:00"],
         "Fri": ["06:00", "21:00"],
         "Sat": ["06:00", "21:00"],
         "Sun": ["06:00", "21:00"]
+      }
+    },
+    
+    {
+      "name": "The Roti Prata House",
+      "lat": 1.353804,
+      "lng": 103.834196,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Indian Food",
+      "dish": "Prata",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiplW6X2kjMpyxZ0L5tztRB4P9gZDBddMtikRGrA3mGXYdOxK8FuIyft-xZuwMUVvSMdNGiI8EZhY9c1po9YB_AKoDIOGfMsVi0XoUVgX5p4W7hb9HCJXi3CMQywfDMzJkyx2KijelMG4g8GbV7VrFVSihIGS72TGJLMIM5ORO-q6MDR4_Q7Fsv4EwYYGA=w480-h640"
+      ],
+      "address": "246M Upper Thomson Rd, S(574370)",
+      "phone": "9138 9696",
+      "facebook": "https://therotipratahouse.sg/",
+      "openHours": {
+        "Mon": ["07:00", "02:00"],
+        "Tue": ["07:00", "02:00"],
+        "Wed": ["07:00", "02:00"],
+        "Thu": ["07:00", "02:00"],
+        "Fri": ["07:00", "02:00"],
+        "Sat": ["07:00", "02:00"],
+        "Sun": ["07:00", "02:00"]
       }
     }
     
