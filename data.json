@@ -343,6 +343,35 @@
         "Sat": ["10:30", "22:30"],
         "Sun": ["10:30", "22:30"]
       }
+    },
+    
+    {
+      "name": "Chindamani indian food Food Stall (Serangoon)",
+      "lat": 1.369785,
+      "lng": 103.873321,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Indian Food",
+      "dish": "Prata",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhWzJVqfzn2z2J6RYFQWoweoY6f-_LxklKVBBD5B_ZblH9XIDhXla5Wq-MSKjjtiS0FUzaX4CbS2ZV2aPHy3O3UQ3Y275stQfP8AsfKNBX7_aKZ7m2QX77Ao7CfcB30dOlxhu7tjI2tvJOn4ll6WWGcnxFLbDdFr-ocACyk9AKPzgWq4LnlUyM2Gz_Yc_k=w480-h640"
+      ],
+      "address": "151A Serangoon North Ave 1, #01-81, S(551151)",
+      "phone": "-",
+      "facebook": "https://www.facebook.com/profile.php?id=100063722283440&locale=en_GB#",
+      "openHours": {
+        "Mon": "closed",
+        "Tue": "closed",
+        "Wed": ["06:00", "21:00"],
+        "Thu": ["06:00", "21:00"],
+        "Fri": ["06:00", "21:00"],
+        "Sat": ["06:00", "21:00"],
+        "Sun": ["06:00", "21:00"]
+      }
     }
     
     
