@@ -463,6 +463,39 @@
         "Sat": ["08:00", "00:00"],
         "Sun": ["08:00", "00:00"]
       }
+    },
+    
+    {
+      "name": "Chong Pang Nasi Lemak",
+      "lat": 1.428008,
+      "lng": 103.827489,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Nasi Lemak",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX08_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
+      ],
+      "address": "447 Sembawang Rd, S(758404)",
+      "phone": "6285 9001",
+      "facebook": "https://casuarinacatering.com/",
+      "openHours": {
+        "Mon": [
+          ["00:00", "06:00"],
+          ["17:00", "23:59"]
+        ],
+        "Tue": ["10:00", "23:00"],
+        "Wed": ["10:00", "23:00"],
+        "Thu": ["10:00", "23:00"],
+        "Fri": ["10:00", "00:00"],
+        "Sat": ["08:00", "00:00"],
+        "Sun": ["08:00", "00:00"]
+      }
     }
     
     
