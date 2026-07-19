@@ -210,7 +210,10 @@
       "wait": 5,
       "diningSpot": "Coffee Shop",
       "cuisine": "Western Food",
-      "dish": "",
+      "dish": [
+        "Chicken Chop",
+        "Chicken Cutlet"
+      ],
       "foodType": "",
       "diet": "Any",
       "price": 2,
