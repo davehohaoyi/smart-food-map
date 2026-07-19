@@ -23,7 +23,7 @@
       "phone": "8920 4175",
       "openHours": {
         "Mon": ["07:00", "16:00"],
-        "Tue": "closed",
+        "Tue": "Closed",
         "Wed": ["07:00", "16:00"],
         "Thu": ["07:00", "16:00"],
         "Fri": ["07:00", "16:00"],
@@ -55,7 +55,7 @@
       "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
       "phone": "9188 7670",
       "openHours": {
-        "Mon": "closed",
+        "Mon": "Closed",
         "Tue": ["07:00", "14:45"],
         "Wed": ["07:00", "14:45"],
         "Thu": ["07:00", "14:45"],
@@ -88,8 +88,8 @@
       "address": "127 Toa Payoh Lor 1, Mkt & Food Cente, #02-30, S310127)",
       "phone": "-",
       "openHours": {
-        "Mon": "closed",
-        "Tue": "closed",
+        "Mon": "Closed",
+        "Tue": "Closed",
         "Wed": ["06:30", "13:00"],
         "Thu": ["06:30", "13:00"],
         "Fri": ["06:30", "13:00"],
@@ -127,7 +127,7 @@
       "phone": "-",
       "openHours": {
         "Mon": ["12:30", "03:45"],
-        "Tue": "closed",
+        "Tue": "Closed",
         "Wed": ["12:30", "03:45"],
         "Thu": ["12:30", "03:45"],
         "Fri": ["12:30", "03:45"],
@@ -226,7 +226,7 @@
         "Mon": ["11:00", "22:00"],
         "Tue": ["11:00", "22:00"],
         "Wed": ["11:00", "22:00"],
-        "Thu": "closed",
+        "Thu": "Closed",
         "Fri": ["11:00", "22:00"],
         "Sat": ["11:00", "22:00"],
         "Sun": ["11:00", "22:00"]
@@ -281,8 +281,8 @@
       "openHours": {
         "Mon": ["11:00", "19:00"],
         "Tue": ["11:00", "19:00"],
-        "Wed": "closed",
-        "Thu": "closed",
+        "Wed": "Closed",
+        "Thu": "Closed",
         "Fri": ["11:00", "19:00"],
         "Sat": ["11:00", "19:00"],
         "Sun": ["11:00", "19:00"]
@@ -310,8 +310,8 @@
       "address": "105 Hougang Ave 1, Hainanese Village Ctr, #02-32, S530105)",
       "phone": "-",
       "openHours": {
-        "Mon": "closed",
-        "Tue": "closed",
+        "Mon": "Closed",
+        "Tue": "Closed",
         "Wed": ["12:00", "20:15"],
         "Thu": ["12:00", "20:15"],
         "Fri": ["12:00", "20:15"],
@@ -339,8 +339,8 @@
       "phone": "9138 9696",
       "facebook": "https://www.facebook.com/nictomeatery",
       "openHours": {
-        "Mon": "closed",
-        "Tue": "closed",
+        "Mon": "Closed",
+        "Tue": "Closed",
         "Wed": ["10:30", "22:30"],
         "Thu": ["10:30", "22:30"],
         "Fri": ["10:30", "22:30"],
@@ -513,6 +513,36 @@
           ["00:00", "06:00"],
           ["17:00", "23:59"]
         ]
+      }
+    },
+    
+    {
+      "name": "Xiang Feng Nasi Lemak",
+      "lat": 1.345696,
+      "lng": 103.713077,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Hawker",
+      "cuisine": "Chinese Food",
+      "dish": "Nasi Lemak",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "ttps://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX08_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
+      ],
+      "address": "221B Boon Lay Pl, #01-126, S(642221)",
+      "phone": "9786 7919",
+      "facebook": "https://www.facebook.com/xiangfengnasilemak/",
+      "openHours": {
+        "Mon": ["07:30", "14:30"],
+        "Tue": ["07:30", "14:30"],
+        "Wed": ["07:30", "14:30"],
+        "Thu": ["07:30", "14:30"],
+        "Fri": ["07:30", "14:30"],
+        "Sat": "Closed",
+        "Sun": ["07:30", "14:30"]
       }
     }
     
