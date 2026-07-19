@@ -434,6 +434,35 @@
         "Sat": ["00:00", "23:59"],
         "Sun": ["00:00", "23:59"]
       }
+    },
+    
+    {
+      "name": "Casuarina Prata",
+      "lat": 1.330386,
+      "lng": 103.875377,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Indian Food",
+      "dish": "Prata",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgHOtZX1xhi6TKOVEgBWzSL2g-5ToAVfz2YTBh2jA8EtOdPYValtH-26_FwbVQQ21loCIIKgfzTFg4hU_aSppCYRapdisX0QF--1mxuhkctYxUNMZ1bS4UaGbj7ce9Bl71HmI4_I2kegMX9aUioJMgVqEMMbeYK7XfZO95fnPfN_CGjFJclQbHR100uAhs=w480-h640"
+      ],
+      "address": "187 Macpherson Road S(348545)",
+      "phone": "6285 9001",
+      "facebook": "https://casuarinacatering.com/",
+      "openHours": {
+        "Mon": ["10:00", "23:00"],
+        "Tue": ["10:00", "23:00"],
+        "Wed": ["10:00", "23:00"],
+        "Thu": ["10:00", "23:00"],
+        "Fri": ["10:00", "00:00"],
+        "Sat": ["08:00", "00:00"],
+        "Sun": ["08:00", "00:00"]
+      }
     }
     
     
