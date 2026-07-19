@@ -405,6 +405,35 @@
         "Sat": ["07:00", "02:00"],
         "Sun": ["07:00", "02:00"]
       }
+    },
+    
+    {
+      "name": "Springleaf Prata",
+      "lat": 1.315710,
+      "lng": 103.757656,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Indian Food",
+      "dish": "Prata",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgGCd4o6sAfd-N-eHeUIe_hV0YM4I7xfq8vYWy3CHHTS5vAcAZ_wnsByhq7KuGgtSJ7Qb9OUQOwxnGwt_ro0gibGlOJXo4yIutaYH8NufGUFhvkK2EWhOH3JliqSgWSoAS5eu9sMUJy3SShQ4vnNiiJnOe882RH3U2_ICYuwx4fcbvb3CLDyQIFsMMAQA4=w480-h640"
+      ],
+      "address": "1 West Coast Dr, 01-108/109, NEWest, S(128020)",
+      "phone": "6996 4962",
+      "facebook": "https://spplace.com/",
+      "openHours": {
+        "Mon": ["00:00", "23:59"],
+        "Tue": ["00:00", "23:59"],
+        "Wed": ["00:00", "23:59"],
+        "Thu": ["00:00", "23:59"],
+        "Fri": ["00:00", "23:59"],
+        "Sat": ["00:00", "23:59"],
+        "Sun": ["00:00", "23:59"]
+      }
     }
     
     
