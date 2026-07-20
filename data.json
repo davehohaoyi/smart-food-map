@@ -660,6 +660,34 @@
         "Sat": ["10:30", "17:30"],
         "Sun": ["10:30", "17:30"]
       }
+    },
+    
+    {
+      "name": "Margaret Dr Sin Kee Chicken Rice",
+      "lat": 1.307296,
+      "lng": 103.793460,
+      "rating": 4,
+      "wait": 10,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Chicken Rice",
+      "foodType": "Rice",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgwhrkKqBldReFxSHZhgtrb0Km6vM_3njDHEzAtxhYo4hPGQtNRVcbD7Ptl-9EaulAQIUo9DcTpUyew7krXqaPM2wz83d8ubeybYHX9viXltoP1sman3QzyPd3zGwz4d-BfASuH8TIvZ50wR6xe-DNtgcUczJ_NGOEhyXNfLrFNdKpX2Mji6geeEK3IJtw=w480-h640"
+      ],
+      "address": "40 Holland Drive, #01-39, S(270040)",
+      "phone": "8428 7865",
+      "openHours": {
+        "Mon": "Closed",
+        "Tue": ["11:00", "20:00"],
+        "Wed": ["11:00", "20:00"],
+        "Thu": ["11:00", "20:00"],
+        "Fri": ["11:00", "20:00"],
+        "Sat": ["11:00", "20:00"],
+        "Sun": ["11:00", "20:00"]
+      }
     }
     
   ]
