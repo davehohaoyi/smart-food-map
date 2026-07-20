@@ -595,15 +595,44 @@
       "phone": "8474 3930",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["10:30", "15:00"],
-        "Wed": ["10:30", "15:00"],
-        "Thu": ["10:30", "15:00"],
-        "Fri": ["10:30", "15:00"],
-        "Sat": ["10:30", "15:00"],
-        "Sun": ["10:30", "15:00"]
+        "Tue": "Closed",
+        "Wed": ["09:30", "19:00"],
+        "Thu": ["09:30", "19:00"],
+        "Fri": ["09:30", "19:00"],
+        "Sat": ["09:30", "19:00"],
+        "Sun": ["09:30", "19:00"]
+      }
+    },
+    
+    {
+      "name": "Delicious Boneless Chicken Rice",
+      "lat": 1.304743,
+      "lng": 103.901457,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Chicken Rice",
+      "foodType": "Rice",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjWgQgdWDLoInE_RQy3gYua7rwjc1lXGa8ug7FlNtJdHslry6wwdUSfV_h-a-Ms17IQ-D2FDcb_EpxtEuGHGgTO12AK50SbzEpl1GKM-qR2AdCm57zyrfAU-O5YJx2SfwrcVheB-veW1MHMHCmbwWCPjHtmOh7InyGnQZFXmX4s5me1oMCIU8-0twYhI4Y",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEi5hYtsBu4iVr6BbxV6GYTJS2gXE94_BSkwccnx1lsAQJTuKRECoJ6Viwcnvy1WnlpUmNlROHZIm6wdMEsHxjjlPbwb8WKhmlSh3HAU5wOhXKa-4sOWEmXuUYuCDO6jPmiZk679mtiFE18QRjzI3F0bEBjNi0vKVkNE4ZJR5l0Tidvp_B91VQs8B7Sl-iU=w640-h480",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEirGlwQGXYjzA_v3k7jJdzajR8lxB491RUkt0TXxKDPq9qHDo0F_XGC9jl9zzhbb2M0wH8DJZs3d20Udxezxmca6zFSscqtrFhoImPbGzEcO2g532Kdo0Cf0PgV6nAsPY-xuVaZPAKrDGsog8fJQX8kPSgsiLA0ZmwhbBo2813tCAQCh8fZDeoPTspdz5k=w480-h640"
+      ],
+      "address": "865 Mountbatten Rd, Katong Shopping Centre, #B1-8587, S437844",
+      "phone": "9826 5197",
+      "openHours": {
+        "Mon": "Closed",
+        "Tue": ["11:00", "19:00"],
+        "Wed": ["11:00", "19:00"],
+        "Thu": ["11:00", "19:00"],
+        "Fri": ["11:00", "19:00"],
+        "Sat": ["11:00", "19:00"],
+        "Sun": ["11:00", "19:00"]
       }
     }
-    
     
   ]
 }
