@@ -41,6 +41,7 @@
       "diningSpot": "Hawker",
       "cuisine": "Chinese Food",
       "dish": "Carrot Cake",
+      "foodType": "Rice Cake",
       "diet": "Any",
       "price": 2,
       "facebook": "https://www.facebook.com/carrotcubes/",
@@ -73,6 +74,7 @@
       "diningSpot": "Hawker",
       "cuisine": "Chinese Food",
       "dish": "Carrot Cake",
+      "foodType": "Rice Cake",
       "diet": "Any",
       "price": 2,
       "facebook": "https://www.facebook.com/p/Chey-Sua-Carrot-Cake-100057385842875/?locale=zh_CN",
@@ -107,7 +109,7 @@
       "diningSpot": "Coffee Shop",
       "cuisine": "Chinese Food",
       "dish": "Frog Porridge",
-      "foodType": "Porridge",
+      "foodType": "-",
       "diet": "Any",
       "price": 3,
       "website": "https://geylanglor9.com/",
@@ -239,9 +241,7 @@
       "wait": 5,
       "diningSpot": "Coffee Shop",
       "cuisine": "Western Food",
-      "dish": [
-        "Chicken Chop",
-        "Chicken Cutlet"
+      "dish": "",
       "foodType": "",
       "diet": "Any",
       "price": 2,
@@ -269,9 +269,7 @@
       "wait": 5,
       "diningSpot": "Hawker",
       "cuisine": "Western Food",
-      "dish": [
-        "Chicken Chop",
-        "Chicken Cutlet"
+      "dish": "",
       "foodType": "",
       "diet": "Any",
       "price": 2,
@@ -299,9 +297,7 @@
       "wait": 5,
       "diningSpot": "Hawker",
       "cuisine": "Western Food",
-      "dish": [
-        "Chicken Chop",
-        "Chicken Cutlet"
+      "dish": "",
       "foodType": "",
       "diet": "Any",
       "price": 2,
@@ -332,6 +328,7 @@
       "wait": 5,
       "diningSpot": "Restaurant",
       "cuisine": "Western Food",
+      "dish": "",
       "foodType": "",
       "diet": "Any",
       "price": 3,
@@ -558,7 +555,7 @@
       "cuisine": "Malay Food",
       "dish": "Nasi Lemak",
       "foodType": "Rice",
-      "diet": "Halal",
+      "diet": "Any",
       "price": 2,
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
@@ -596,16 +593,17 @@
         "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
         "https://blogger.googleusercontent.com/img/a/AVvXsEgLce5es6cM66RI8i2gEpjWH6Q4MvNkNeAyforKWK9d2QJvHYuQ-A4zenxHrFn4yZrJYm8LIEQ-3ZKQJF8mXeDcKTUBG6HpKseFHQwek-9tQNvzGobcqHkQ7-C9D7-AM5fdQaajT2DvxOrGRA88quAMKQm30hLJZae-YTeSmFw5tZHz35mDvV1JUTzybhM=w480-h640"
       ],
-      "address": "38A Margaret Dr, Margaret Dr Food Centre, #01-36, S(142038)",
-      "phone": "8474 3930",
+      "address": "221B Boon Lay Pl, #01-106, S(642221)",
+      "phone": "-",
+      "website": "https://powernasilemak.oddle.me/en_SG",
       "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
-        "Wed": ["09:30", "19:00"],
-        "Thu": ["09:30", "19:00"],
-        "Fri": ["09:30", "19:00"],
-        "Sat": ["09:30", "19:00"],
-        "Sun": ["09:30", "19:00"]
+        "Mon": ["07:00", "03:30"],
+        "Tue": ["07:00", "03:30"],
+        "Wed": ["07:00", "03:30"],
+        "Thu": ["07:00", "03:30"],
+        "Fri": ["07:00", "03:30"],
+        "Sat": ["07:00", "03:30"],
+        "Sun": ["07:00", "03:30"]
       }
     },
     
@@ -694,6 +692,7 @@
         "Sun": ["11:00", "20:00"]
       }
     }
+    
     
   ]
 }
