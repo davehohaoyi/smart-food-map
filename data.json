@@ -591,17 +591,16 @@
         "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
         "https://blogger.googleusercontent.com/img/a/AVvXsEgLce5es6cM66RI8i2gEpjWH6Q4MvNkNeAyforKWK9d2QJvHYuQ-A4zenxHrFn4yZrJYm8LIEQ-3ZKQJF8mXeDcKTUBG6HpKseFHQwek-9tQNvzGobcqHkQ7-C9D7-AM5fdQaajT2DvxOrGRA88quAMKQm30hLJZae-YTeSmFw5tZHz35mDvV1JUTzybhM=w480-h640"
       ],
-      "address": "221B Boon Lay Pl, #01-106, S(642221)",
-      "phone": "-",
-      "website": "https://powernasilemak.oddle.me/en_SG",
+      "address": "38A Margaret Dr, Margaret Dr Food Centre, #01-36, S(142038)",
+      "phone": "8474 3930",
       "openHours": {
-        "Mon": ["07:00", "03:30"],
-        "Tue": ["07:00", "03:30"],
-        "Wed": ["07:00", "03:30"],
-        "Thu": ["07:00", "03:30"],
-        "Fri": ["07:00", "03:30"],
-        "Sat": ["07:00", "03:30"],
-        "Sun": ["07:00", "03:30"]
+        "Mon": "Closed",
+        "Tue": ["10:30", "15:00"],
+        "Wed": ["10:30", "15:00"],
+        "Thu": ["10:30", "15:00"],
+        "Fri": ["10:30", "15:00"],
+        "Sat": ["10:30", "15:00"],
+        "Sun": ["10:30", "15:00"]
       }
     }
     
