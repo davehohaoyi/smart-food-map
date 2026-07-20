@@ -632,6 +632,34 @@
         "Sat": ["11:00", "19:00"],
         "Sun": ["11:00", "19:00"]
       }
+    },
+    
+    {
+      "name": "Hup Hong Chicken Rice",
+      "lat": 1.343440,
+      "lng": 103.738142,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Chicken Rice",
+      "foodType": "Rice",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEi_Dyxeum6nqSv2QHyQSLxCaztSwHVM0V4_hVLmilpe2xm7QeXgQKw6HV1e-lkik2cfbwDPKXB0dXJeR_LbSIUy367ALa7rXi1j7EBSAovD1Rpe1y8ZFcl8HKSDq8ycS5rUNFe3j3VN14gt3CgLqSIjHEOkSwDDX8JA-vWTLeWHhJmxbIyTbPJYyVzcz2Y"
+      ],
+      "address": "865254 Jurong East St 24, Yuhua Village Market & Food Centre, #01-51, S(600254)",
+      "phone": "-",
+      "openHours": {
+        "Mon": "Closed",
+        "Tue": ["10:30", "17:30"],
+        "Wed": ["10:30", "17:30"],
+        "Thu": ["10:30", "17:30"],
+        "Fri": ["10:30", "17:30"],
+        "Sat": ["10:30", "17:30"],
+        "Sun": ["10:30", "17:30"]
+      }
     }
     
   ]
