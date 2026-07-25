@@ -601,17 +601,16 @@
         "https://blogger.googleusercontent.com/img/a/AVvXsEiKm7iriq4Mc_HRkhtfShiWGY8JvjHLZtPqV_MiSFDIN466GSAYR28dzZzhHzUi1OYxtITuFOX6W0BaWCf2vd3VexKjp1Lq655Rx8GhdKBR232XVLRdtOjSEGA6RGzCY8aOsMM-PwxAvPyf1b3rlmBx41Rch_g5ZDjn6cEVf_g7V4ZfxbQVjwba8w_NZPU",
         "https://blogger.googleusercontent.com/img/a/AVvXsEiZIG8eOrngBT3DbkTJVoUaVlI5D9iWPX4HMuZMYF43VVjqF0Q7ZUTydDVEI6PPBm-N9h0vE5_JwQfrZbBGFxNBB5T-2gGIhnY-h_ADusahLFyyvnL0jTyi7kjcxoU9HZqm1jUUfBYpH3nLO2XslYUJTdbIgoeY5ivG-7NtRFssBjpugk8lHQZDEtVvQn0"
       ],
-      "address": "221B Boon Lay Pl, #01-106, S(642221)",
+      "address": "38A Margaret Dr, #01-36, Singapore 142038",
       "phone": "-",
-      "website": "https://powernasilemak.oddle.me/en_SG",
       "openHours": {
-        "Mon": ["07:00", "03:30"],
-        "Tue": ["07:00", "03:30"],
-        "Wed": ["07:00", "03:30"],
-        "Thu": ["07:00", "03:30"],
-        "Fri": ["07:00", "03:30"],
-        "Sat": ["07:00", "03:30"],
-        "Sun": ["07:00", "03:30"]
+        "Mon": "Closed",
+        "Tue": "Closed",
+        "Wed": ["09:30", "20:30"],
+        "Thu": ["09:30", "20:30"],
+        "Fri": ["09:30", "20:30"],
+        "Sat": ["09:30", "20:30"],
+        "Sun": ["09:30", "20:30"]
       }
     },
     
