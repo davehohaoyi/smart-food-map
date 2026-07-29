@@ -656,8 +656,8 @@
       "phone": "-",
       "website": "https://powernasilemak.oddle.me/en_SG",
       "openHours": {
-        "Mon": "Closed"
-        "Tue": "Closed"
+        "Mon": "Closed",
+        "Tue": "Closed",
         "Wed": ["09:30", "19:00"],
         "Thu": ["09:30", "19:00"],
         "Fri": ["09:30", "19:00"],
