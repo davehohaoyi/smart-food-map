@@ -884,6 +884,34 @@
     },
     
     {
+      "name": "Tiong Bahru Lor Mee",
+      "lat": 1.284329,
+      "lng": 103.832161,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Hawker",
+      "cuisine": "Chinese Food",
+      "dish": "Lor Mee",
+      "foodType": "Noodle",
+      "diet": "Any",
+      "price": 1,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEg-nJHFPRtO4Nvm6hHxx4mTWdP-EzT-0HyxfY_nybJpVpnyJFBHUWSwweHLaI7Kvx2ceSfmiJpGw6ucCLFIBoXVEgyOOC3Dr_FIJ0OBfgUutJTwBxvpiEhYLN8NZ7qAX2M4GfBvJ78GZyfGLqxnUDpGudDrFh91bae1oPFlP4ga_WeM8iEcJ5QUjtscU-Q=w480-h640"
+      ],
+      "address": "30 Seng Poh Rd, Tiong Bahru Market, #02-80, S(168898)",
+      "phone": "-",
+      "openHours": {
+        "Mon": "Closed",
+        "Tue": ["07:00", "13:45"],
+        "Wed": "Closed",
+        "Thu": ["07:00", "13:45"],
+        "Fri": ["07:00", "13:45"],
+        "Sat": ["07:00", "13:45"],
+        "Sun": ["07:00", "13:45"]
+      }
+    },
+    
+    {
       "name": "Chef Wang Fried Rice",
       "lat": 1.288079,
       "lng": 103.829560,
