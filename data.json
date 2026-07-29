@@ -881,6 +881,52 @@
         "Sat": ["07:00", "13:45"],
         "Sun": ["07:00", "13:45"]
       }
+    },
+    
+    {
+      "name": "Chef Wang Fried Rice",
+      "lat": 1.288079,
+      "lng": 103.829560,
+      "rating": 4,
+      "wait": 10,
+      "diningSpot": "Hawker",
+      "cuisine": "Chinese Food",
+      "dish": "Fried Rice",
+      "foodType": "Rice",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjpvjaYuz6zR7_6tVL0pJ9YCuFWBC0mSNz3phCvgCo8ITc7aljg0iEUGcc7ekndKIAXwWC1IWtVEBD_Qv8XIIzct-D3Wu3v60jz8JCDR_3gz2-n9bpReeS03dFx2uaZFFkhz4KFR1u8k7tUjEJfDOnPgssFVwwI32ay4p6Q06nMJ9ZXODX2v1wN4hSvDL8=w480-h640"
+      ],
+      "address": "8A Beo Crescent Mkt, Beo Crescent Market, #01-71, S169982",
+      "phone": "-",
+      "openHours": {
+        "Mon": [
+          ["10:00", "15:00"],
+          ["16:30", "21:00"]
+        "Tue": [
+          ["10:00", "15:00"],
+          ["16:30", "21:00"]
+        ],
+        "Wed": [
+          ["10:00", "15:00"],
+          ["16:30", "21:00"]
+        ],
+        "Thu": [
+          ["10:00", "15:00"],
+          ["16:30", "21:00"]
+        ],
+        "Fri": [
+          ["10:00", "15:00"],
+          ["16:30", "21:00"]
+        ],
+        "Sat": [
+          ["10:00", "15:00"],
+          ["16:30", "21:00"]
+        ],
+        "Sun": "Closed"
+        ]
+      }
     }
     
     
