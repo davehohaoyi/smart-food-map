@@ -773,6 +773,37 @@
           ["17:00", "21:30"]
         ]
       }
+    },
+    
+    {
+      "name": "178 Lor Mee",
+      "lat": 1.284329,
+      "lng": 103.832161,
+      "rating": 5,
+      "wait": 10,
+      "diningSpot": "Hawker",
+      "cuisine": "Chinese Food",
+      "dish": "Lor Mee",
+      "foodType": "Noodle",
+      "diet": "Any",
+      "price": 1,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEh8iIuqIeLupdzoAj8strcyELsWyw5wS9fAn3c3U_eSSv51pD_liCzrdA2sKkaYLKWkoSLYFj42eW7zTwK9i90dZgr5z-YNLKIpBjoNPMKB0qhaDMwiCABtwVIptecHwHuTUeVwuJ4bz-zcYDaU3tj1c1tflb4SutFFvjieFgsxXpJ0cNje7ocfRgfaDIg=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhGoWCnoY8kCIwbLAui5lVC89GhpKUkRhFL4n2GXGLJc2z0Un-vOW0wIhvTu7q3xsnQvb-v-IFaO4wRllX0s7aJBDIezxdts5Rg5apQzw4pFBq5HJWRw6QCrUPy-wRpmP1IesVT9IO1AYlIlme4C3vfejUE526Srmg81z4SuoLIMr7G1IsKB3URJS7z7o8=w480-h6400"
+      ],
+      "address": "30 Seng Poh Rd, Tiong Bahru Market, #02-23, S(168898)",
+      "phone": "-",
+      "openHours": {
+        "Mon": "Closed",
+        "Tue": ["07:00", "13:45"],
+        "Wed": "Closed",
+        "Thu": ["07:00", "13:45"],
+        "Fri": ["07:00", "13:45"],
+        "Sat": ["07:00", "13:45"],
+        "Sun": ["07:00", "13:45"]
+      }
     }
+    
+    
   ]
 }
