@@ -161,7 +161,10 @@
       "Carrot Cake",
       "Fried Kway Teow"
       ],
-      "foodType": "Rice Cake",
+      "foodType": [
+      "Rice",
+      "Soup"
+      ],
       "diet": "Any",
       "price": 2,
       "facebook": "https://www.facebook.com/carrotcubes/",
