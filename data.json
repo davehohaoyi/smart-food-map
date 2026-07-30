@@ -235,7 +235,6 @@
       "tag":[
         ""
         ],
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/07/famous-eunos-bak-chor-mee-eunos.html",
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgozmjPO8vnM3oCRuaCg9E7dESv1m_BrF0g4OhpwrvvFA5VKiFZ_r_jyT_D-zlNa9Yyquau-R7_Xr3RPTaykw7X7DOBZie1hLJci4xiFjbrfvx36Z-MIQdeaNQMBphJtISgCWFawHHbJj5p53uopdOEVN0ohMtR6qAgNNJTcmOMO3AWIH0kk7iecZxTrTA",
         "https://blogger.googleusercontent.com/img/a/AVvXsEgclyVjrUkpktgYz8AEVSAkO7gWORnzY1qWgZx-Cu8mrq094H1p0BUjN7HUhAeu5kpm3ErUNLTwMdUK6ki67Id5eRYqdF4IemEaRgdRwgObBEli_v9OlD0aZxqJdnbd5XRL_J_uQ63CnNl4lR94Xe7Kry_8RulGhcdkRtbfMam_Gv0s5CNprggouLfZ6Qs"
@@ -268,7 +267,6 @@
       "foodType": "",
       "diet": "Any",
       "price": 2,
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/07/do-me-chicken-cutlet.html",
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEi02nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk08pH8"
       ],
@@ -538,7 +536,6 @@
       "foodType": "Rice",
       "diet": "Any",
       "price": 2,
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/07/chong-pang-nasi-lemak-in-sembawang-with.html",
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX08_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
@@ -659,8 +656,8 @@
       "phone": "-",
       "website": "https://powernasilemak.oddle.me/en_SG",
       "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
+        "Mon": "Closed"
+        "Tue": "Closed"
         "Wed": ["09:30", "19:00"],
         "Thu": ["09:30", "19:00"],
         "Fri": ["09:30", "19:00"],
@@ -681,7 +678,6 @@
       "foodType": "Rice",
       "diet": "Any",
       "price": 2,
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/07/delicious-boneless-chicken-rice-in.html",
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEjWgQgdWDLoInE_RQy3gYua7rwjc1lXGa8ug7FlNtJdHslry6wwdUSfV_h-a-Ms17IQ-D2FDcb_EpxtEuGHGgTO12AK50SbzEpl1GKM-qR2AdCm57zyrfAU-O5YJx2SfwrcVheB-veW1MHMHCmbwWCPjHtmOh7InyGnQZFXmX4s5me1oMCIU8-0twYhI4Y",
         "https://blogger.googleusercontent.com/img/a/AVvXsEi5hYtsBu4iVr6BbxV6GYTJS2gXE94_BSkwccnx1lsAQJTuKRECoJ6Viwcnvy1WnlpUmNlROHZIm6wdMEsHxjjlPbwb8WKhmlSh3HAU5wOhXKa-4sOWEmXuUYuCDO6jPmiZk679mtiFE18QRjzI3F0bEBjNi0vKVkNE4ZJR5l0Tidvp_B91VQs8B7Sl-iU=w640-h480",
@@ -884,6 +880,37 @@
         "Fri": ["07:00", "13:45"],
         "Sat": ["07:00", "13:45"],
         "Sun": ["07:00", "13:45"]
+      }
+    },
+    
+    {
+      "name": "Feng Zhen Lor Mee",
+      "lat": 1.284329,
+      "lng": 103.832161,
+      "rating": 5,
+      "wait": 10,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Lor Mee",
+      "foodType": "Noodle",
+      "diet": "Any",
+      "price": 2,
+      "facebook": "https://www.facebook.com/yewteefengzhendevannair/",
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiLqt4mPnRgrnYGVt8-vrCXpKBTs6G8qheAAV9iBX7n8hmdSMVy8eVdhEHGUzloj3EI6jil8GECOg8XYkRV4Mw1I7x7aI8aiVAy7shTm36BsK0bE7ac7AahJLF9UXRkIciZjZiVsQtuiumK0AxAfwnWw4Ex2BAqDSEYjujQMTI-O8NoLAF_28USArNFJHo=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEg33HmiC1V9V7tdJRBQwAXXkuLgHKaOL4vU7XbVJRriFfy6X1C9vpF1B_OqEvKLfXqDB254mrmE0FJJi5_QaDZcuqwZMx2lLY5MD6fv3qc8kQcScXua10BvY3IBjYxaYBdEHcRcjtBcuz2MTHRMxbqdHHNNeClJpuw4qsljywEeMfV3zTpRlkzfmt4OVMQ=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiyd074b8zopYoZmNvbrzbPjtAWd38KBcgc2i4hNpali1WVF45rCnzcSksI59zQ5awtSodvSefbgCjf5WyUb9uLL-6PqFtxiq6xiC7bt6B1gFOCjc5dqoO9HgbLLbnmEgl1nmV4AVZ3brDPRMx1nRCA1qGGofV1sdf6EsXMIm3g0MvVTE6Q4MIk7HFpIuQ=w480-h640"
+      ],
+      "address": "80 Jurong East Street 21, Devan Nair Institute, #01-05, S(609607)",
+      "phone": "9450 8541",
+      "openHours": {
+        "Mon": ["07:30", "14:00"],
+        "Tue": ["07:30", "14:00"],
+        "Wed": "Closed",
+        "Thu": ["07:30", "14:00"],
+        "Fri": ["07:30", "14:00"],
+        "Sat": "Closed",
+        "Sun": "Closed",
       }
     },
     
