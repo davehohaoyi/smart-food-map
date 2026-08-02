@@ -58,6 +58,40 @@
       "phone": "8920 4175",
       "openHours": {
         "Mon": "Closed",
+        "Tue": ["16:30", "03:00"],
+        "Wed": ["16:30", "03:00"],
+        "Thu": ["16:30", "03:00"],
+        "Fri": ["16:30", "03:00"],
+        "Sat": ["16:30", "03:00"],
+        "Sun": ["16:30", "03:00"]
+      }
+    },
+    
+    {
+      "name": "Restoran Woon 59",
+      "country": "Singapore",
+      "lat": 1.292469,
+      "lng": 103.830930,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Abalone Noodle",
+      "foodType": "Noodle",
+      "diet": "Any",
+      "facebook": "https://www.facebook.com/carrotcubes/",
+      "price": 2,
+      "tag":[
+        "hidden gem",
+        "supper"
+      "moreInfo": "https://lifeengrg.blogspot.com/p/home.html#finance",
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhnL-bcen_eP2fwKZyHYYlr-T5l6OtHAYNO_bygpwM4SqVx0VUa6DEUCo91XcxF5fQQ1KIGPHAtrNxUHtNI_f0eoluTaNlcbW9TOFUKDg0N10_FmkQSZxV4NkQqznYpNZYR24oGdkmgkYxEGb2bT696Q0vEWnPOFDXwY0h_8VGJn5YOpOcswEdWKLNmy_U=w480-h640"
+      ],
+      "address": "14 Jalan Kelewang ,Taman Sri Terbau, Johor Bahru, Malaysia)",
+      "phone": "+60 13-559 9959",
+      "openHours": {
+        "Mon": "Closed",
         "Tue": [
           ["11:30", "15:00"],
           ["18:00", "21:30"]
