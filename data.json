@@ -700,6 +700,7 @@
     
     {
       "name": "Hainanese Delicacy",
+      "country": "Singapore",
       "lat": 1.307255,
       "lng": 103.833353,
       "rating": 5,
@@ -731,6 +732,7 @@
     
     {
       "name": "Delicious Boneless Chicken Rice",
+      "country": "Singapore",
       "lat": 1.304743,
       "lng": 103.901457,
       "rating": 5,
@@ -762,6 +764,7 @@
     
     {
       "name": "Hup Hong Chicken Rice",
+      "country": "Singapore",
       "lat": 1.343440,
       "lng": 103.738142,
       "rating": 5,
@@ -790,6 +793,7 @@
     
     {
       "name": "Margaret Dr Sin Kee Chicken Rice",
+      "country": "Singapore",
       "lat": 1.307296,
       "lng": 103.793460,
       "rating": 4,
@@ -818,6 +822,7 @@
     
     {
       "name": "Meng Kee Fried Kway Teow",
+      "country": "Singapore",
       "lat": 1.288079,
       "lng": 103.829560,
       "rating": 4,
@@ -846,6 +851,7 @@
     
     {
       "name": "18 Zion Rd Fried Kway Tiao",
+      "country": "Singapore",
       "lat": 1.292469,
       "lng": 103.830930,
       "rating": 4,
@@ -874,6 +880,7 @@
     
     {
       "name": "Tuan Yuan Pork Ribs Soup",
+      "country": "Singapore",
       "lat": 1.281780,
       "lng": 103.829136,
       "rating": 5,
@@ -920,6 +927,7 @@
     
     {
       "name": "178 Lor Mee",
+      "country": "Singapore",
       "lat": 1.284329,
       "lng": 103.832161,
       "rating": 5,
@@ -949,6 +957,7 @@
     
     {
       "name": "Feng Zhen Lor Mee",
+      "country": "Singapore",
       "lat": 1.335654,
       "lng": 103.744401,
       "rating": 5,
