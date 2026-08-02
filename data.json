@@ -700,32 +700,32 @@
     
     {
       "name": "Hainanese Delicacy",
-      "lat": 1.297458,
-      "lng": 103.804915,
+      "lat": 1.307255,
+      "lng": 103.833353,
       "rating": 5,
       "wait": 5,
-      "diningSpot": "Hawker",
+      "diningSpot": "Coffee Shop",
       "cuisine": "Chinese Food",
       "dish": "Chicken Rice",
       "foodType": "Rice",
       "diet": "Any",
       "price": 2,
       "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgLce5es6cM66RI8i2gEpjWH6Q4MvNkNeAyforKWK9d2QJvHYuQ-A4zenxHrFn4yZrJYm8LIEQ-3ZKQJF8mXeDcKTUBG6HpKseFHQwek-9tQNvzGobcqHkQ7-C9D7-AM5fdQaajT2DvxOrGRA88quAMKQm30hLJZae-YTeSmFw5tZHz35mDvV1JUTzybhM=w480-h640"
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgHqrCwxXt7pnQXTwGAR7521gGBHFL4UPkfxcbWRbV9RnuN7j9eTuU9ifJoOD8pcIBHG-nFm5k3c_MKI11w2sb-2i3de144tnR8whrEVvChIMiNkRIlZawYCl_HKHLEktOgkIAM_Im2rCwNMZbXrJtjfQXqT-I1tcjPTd75UePWkqO0cn_U1yos0FkBwxw=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgKIO2xjb_GX5q3d46XmPNAXkm0BFyxPJrn7A1jzHHLJKVVO3BRAZTj4kjRD9bwOo0BNoX0-d35R88zdGSnh8TPoqlE0WdJO4wqM_bRK7dItA6mpO5IwMeKxmGt3cuRBaqjZ3WqwxBudI_VAYrKxOw7zfEXVAyttiNJKz5Fbhpg_y8cx0_JQ0o-Cj4avdc=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgBg19SPYbTNxypRFCDfhsRxxMgqZ66nDD_9uqa1FEA6ifXL8PZmdU33n8gv2LAPT7xkPmEDtnzmBQCX7xEOAb4q5i1vZq7GLGr1wkppEfkCgOGVJIOdTsDJI1BsLROItRkYwEpiiHnjCFru6V9EcqkyG3OzGWD9hXKTiYiCW5FXJ2-Jwu-0bPqDOJ0IL8=w480-h640"
       ],
       "address": "14 Scotts Road, Far East Plaza, #05-116, S228213)",
-      "phone": "-",
-      "website": "https://powernasilemak.oddle.me/en_SG",
+      "phone": "6734 0639",
+      "facebook": "https://www.facebook.com/HainaneseDelicacySG/",
       "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
-        "Wed": ["09:30", "19:00"],
-        "Thu": ["09:30", "19:00"],
-        "Fri": ["09:30", "19:00"],
-        "Sat": ["09:30", "19:00"],
-        "Sun": ["09:30", "19:00"]
+        "Mon": ["11:00", "20:00"],
+        "Tue": ["11:00", "20:00"],
+        "Wed": ["11:00", "20:00"],
+        "Thu": ["11:00", "20:00"],
+        "Fri": ["11:00", "20:00"],
+        "Sat": ["11:00", "20:00"],
+        "Sun": ["11:00", "20:00"]
       }
     },
     
