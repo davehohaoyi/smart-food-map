@@ -317,6 +317,7 @@
     
     {
       "name": "Golden Rooster (Toa Payoh)",
+      "country": "Singapore",
       "lat": 1.334564,
       "lng": 103.849678,
       "rating": 3,
@@ -348,6 +349,7 @@
     
     {
       "name": "No 1 Western Food",
+      "country": "Singapore",
       "lat": 1.297458,
       "lng": 103.804915,
       "rating": 5,
@@ -379,6 +381,7 @@
     
     {
       "name": "Apollo Western Food",
+      "country": "Singapore",
       "lat": 1.354101,
       "lng": 103.89009,
       "rating": 4,
@@ -413,6 +416,7 @@
     
     {
       "name": "Nic & Tom Eatery - 少年食堂",
+      "country": "Singapore",
       "lat": 1.281620,
       "lng": 103.844572,
       "rating": 5,
@@ -471,6 +475,7 @@
     
     {
       "name": "The Roti Prata House",
+      "country": "Singapore",
       "lat": 1.353804,
       "lng": 103.834196,
       "rating": 5,
@@ -500,6 +505,7 @@
     
     {
       "name": "Springleaf Prata",
+      "country": "Singapore",
       "lat": 1.315710,
       "lng": 103.757656,
       "rating": 5,
@@ -529,6 +535,7 @@
     
     {
       "name": "Casuarina Prata",
+      "country": "Singapore",
       "lat": 1.330386,
       "lng": 103.875377,
       "rating": 5,
@@ -558,6 +565,7 @@
     
     {
       "name": "Chong Pang Nasi Lemak",
+      "country": "Singapore",
       "lat": 1.428008,
       "lng": 103.827489,
       "rating": 5,
@@ -608,6 +616,7 @@
     
     {
       "name": "Xiang Feng Nasi Lemak",
+      "country": "Singapore",
       "lat": 1.345696,
       "lng": 103.713077,
       "rating": 5,
@@ -638,6 +647,7 @@
     
     {
       "name": "Boon Lay Power Nasi Lemak",
+      "country": "Singapore",
       "lat": 1.345696,
       "lng": 103.71300,
       "rating": 5,
@@ -669,6 +679,7 @@
     
     {
       "name": "Tong Kee Chicken Rice",
+      "country": "Singapore",      
       "lat": 1.297458,
       "lng": 103.804915,
       "rating": 5,
