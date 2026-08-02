@@ -2,6 +2,7 @@
   "stalls": [
     {
       "name": "Blanco Prawn Noodle House",
+      "country": "Singapore",
       "lat": 1.396071,
       "lng": 103.873012,
       "rating": 3,
@@ -34,6 +35,7 @@
     
     {
       "name": "Zion Rd Big Prawn Noodle",
+      "country": "Singapore",
       "lat": 1.292469,
       "lng": 103.830930,
       "rating": 4,
@@ -85,6 +87,7 @@
 
     {
       "name": "Carrot Cubes",
+      "country": "Singapore",
       "lat": 1.375677,
       "lng": 103.900883,
       "rating": 4,
@@ -118,6 +121,7 @@
 
     {
       "name": "Chey Sua Carrot Cake, 青山菜头粿",
+      "country": "Singapore",
       "lat": 1.338100,
       "lng": 103.844727,
       "rating": 4,
@@ -151,6 +155,7 @@
     
     {
       "name": "Hai Nan Zai",
+      "country": "Singapore",
       "lat": 1.431841,
       "lng": 103.828153,
       "rating": 3,
@@ -186,6 +191,7 @@
 
     {
       "name": "Fresh Frog Porridge",
+      "country": "Singapore",
       "lat": 1.312264,
       "lng": 103.876540,
       "rating": 5,
@@ -222,6 +228,7 @@
     
     {
       "name": "Gimee Face (491 Jurong West Ave 1)",
+      "country": "Singapore",
       "lat": 1.349558,
       "lng": 103.726632,
       "rating": 4,
@@ -254,6 +261,7 @@
     
     {
       "name": "Famous Eunos Bak Chor Mee (Eunos)",
+      "country": "Singapore",
       "lat": 1.320068,
       "lng": 103.903586,
       "rating": 5,
@@ -285,6 +293,7 @@
     
     {
       "name": "Do & Me Chicken Cutlet",
+      "country": "Singapore",      
       "lat": 1.422716,
       "lng": 103.84030,
       "rating": 4,
