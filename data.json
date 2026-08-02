@@ -1050,6 +1050,37 @@
       ],
       "Sun": "Closed"
       }
-    }
+    },
+    
+    {
+      "name": "Kam Long Curry Fishhead",
+      "lat": 1.459187,
+      "lng": 103.764849,
+      "rating": 5,
+      "wait": 15,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Curry Fish Head",
+      "foodType": "Rice",
+      "diet": "Any",
+      "price": 1,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiL5kKjzSXAhH8W43E-MjeAKg7wExe16A7F270XGjXe_qZFUGy68TVPdFGzWj8Utm4DiuPt0bSSNFs2qsBiON5zDZIJc2yh9IhvjTPC02kCkVnLZYHTHGG1JZYMkiXzoSUoUYPpcyho4cELahmx8DiXhpFBrqhHfp8fTjZH8UVytBVe6KD_GF9maZ2prno",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEix-kh03giR95C6eTjgPhPJ5xlcWUcOLuigvoHk0tZKSZUbfEhqpwRkr3sQeP2uJfZ38j1QoQ1zpU07YRbp-70NlpGpMVc771LWAWIF8Ylx7GbEzI5FIV7D4mOPxzIeqitjPaJWdFBeNaIuHEeeeolSE7JeUIJ-DXs4HUH7kgbZuIgP1pxWUeS_wb0WpYk=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEgqiYVBcr7O7gEn--APZhjgGzlwoanp9ifKKg1SyNNTpROeV7quBj6vGvrhQt9ZSx6yYUNr7tAF4d0JcT_8ZdHvwqysQ-z_IyjAAF3JHmAx5pc4dEqAa_HmkxEbD8x4Sju-XW0JJ2dOYCSucVoSEblsgLWNnN97jI7SQWFYTGaf-PvfA3dEgrQWRkgfJNw=w480-h640"
+      ],
+      "address": "74, Jalan Wong Ah Fook, Bandar Johor Bahru, 80000",
+      "phone": "+60 10-667 8383",
+      "openHours": {
+        "Mon": ["08:30", "16:00"],
+        "Tue": ["08:30", "16:00"],
+        "Wed": ["08:30", "16:00"],
+        "Thu": ["08:30", "16:00"],
+        "Fri": ["08:30", "16:00"],
+        "Sat": ["08:30", "16:00"],
+        "Sun": ["08:30", "16:00"]
+      }
+    },
+    
   ]
 }
