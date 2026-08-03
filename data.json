@@ -246,16 +246,50 @@
         "https://blogger.googleusercontent.com/img/a/AVvXsEiH06rXXbxgdImaSG66-ahhU4GJiIjIlUUbRPk7Lra34OQxgDklLLzua_vdTJlOMMm2VMmNQBJndJsQ5C7gQC_WNQrwyhMuoyIco85Awhx2ZSIgNJB9LGDKiKtxuD8t_zJgXpuyJAP2yzCCpF9IMp556JZxxsx9Vchjoz1Zquoo2EvjPCG9nsxw7UWdJsw",
         "https://blogger.googleusercontent.com/img/a/AVvXsEg5mabYCqW2nDxqugb14ZjMIGGv5ZgNVbPM4McLBvX_dA4IYjOxrnEwhLWxiLuMEJLMm9-IJrZQgwhYlEWMRFp0xfKOS8UE_Aj3w0ewmEc4ZTSfxM6JIi-UOkxBvmAKAEX_YlDjR_8g3uPwxnzK139mJe7siIMdGzyc0KQu853BTshQcgh8jmWsLxDPbCc"
       ],
-      "address": "491 Jurong West Ave 1, #01-173, Singapore 640491",
+      "address": "235 Geylang Road, Lor 9, S(389294)",
       "phone": "-",
       "openHours": {
-        "Mon": ["12:30", "03:45"],
-        "Tue": "Closed",
-        "Wed": ["12:30", "03:45"],
-        "Thu": ["12:30", "03:45"],
-        "Fri": ["12:30", "03:45"],
-        "Sat": ["12:30", "03:45"],
-        "Sun": ["12:30", "03:45"]
+        "Mon": ["11:00", "04:00"],
+        "Tue": ["11:00", "04:00"],
+        "Wed": ["11:00", "04:00"],
+        "Thu": ["11:00", "04:00"],
+        "Fri": ["11:00", "04:00"],
+        "Sat": ["11:00", "04:00"],
+        "Sun": ["11:00", "04:00"],
+      }
+    },
+    
+    {
+      "name": "Fresh Frog Porridge",
+      "country": "Malaysia",
+      "lat": 1.485208,
+      "lng": 103.760759,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Frog Porridge",
+      "diet": "Any",
+      "price": 3,
+      "website": "https://geylanglor9.com/",
+      "facebook": "https://www.facebook.com/geylanglor9/",
+      "tag":[
+        "dinner"
+        ],
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjIHAGg0VNe6Dr391LfwDhtRw_1NPTHQkdvmSh2K_p6tjs4pibfGWfK7PqD29YbLRnNOSO9PgbYfvIqamoAxQKEOLXj3__tnT7JfeobR46cTKAi6oXPD91dXMtYfLh62styuktojf8f3ZG8lg0TJKhs4XKuKg6Su8sE0gMald19MmMOBcfQgybIT4EYdu0=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjgRi2dhqd6eiF-7XRkJOVdWwXMI7HHoXS9uu9jhcXzLzheX5mleNyuu00XOzhVEXPj3zCgQa0PuRTkZykRxSjnunnYB5BdoCwQpZbEzMSrOA1yEA6CRLE9zuuFM0B3HqJ1jxs5vWasGPFJw-9UFZY2PX3W7ZGraciwGbJTAHOPe2SHvpr0KurPDpKsvw4"
+      ],
+      "address": "12, Jalan Serigala Century Garden, 80250 Johor Bahru, Johor",
+      "phone": "-",
+      "openHours": {
+        "Mon": ["18:00", "04:00"],
+        "Tue": ["18:00", "04:00"],
+        "Wed": ["18:00", "04:00"],
+        "Thu": ["18:00", "04:00"],
+        "Fri": ["18:00", "04:00"],
+        "Sat": ["18:00", "04:00"],
+        "Sun": ["18:00", "04:00"]
       }
     },
     
