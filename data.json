@@ -1152,33 +1152,31 @@
     },
     
     {
-      "name": "Restoran Kak Kak, 佳佳点心茶楼 (Tim Sum)",
+      "name": "Restoran Kak Kak, 佳佳点心茶楼",
       "country": "Malaysia",
-      "lat": 1.459187,
-      "lng": 103.764849,
+      "lat": 1.480711,
+      "lng": 103.765531,
       "rating": 5,
-      "wait": 15,
+      "wait": 5,
       "diningSpot": "Coffee Shop",
       "cuisine": "Chinese Food",
-      "dish": "Curry Fish Head",
-      "foodType": "Rice",
+      "dish": "Tim Sum",
       "diet": "Any",
       "price": 1,
       "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiL5kKjzSXAhH8W43E-MjeAKg7wExe16A7F270XGjXe_qZFUGy68TVPdFGzWj8Utm4DiuPt0bSSNFs2qsBiON5zDZIJc2yh9IhvjTPC02kCkVnLZYHTHGG1JZYMkiXzoSUoUYPpcyho4cELahmx8DiXhpFBrqhHfp8fTjZH8UVytBVe6KD_GF9maZ2prno",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEix-kh03giR95C6eTjgPhPJ5xlcWUcOLuigvoHk0tZKSZUbfEhqpwRkr3sQeP2uJfZ38j1QoQ1zpU07YRbp-70NlpGpMVc771LWAWIF8Ylx7GbEzI5FIV7D4mOPxzIeqitjPaJWdFBeNaIuHEeeeolSE7JeUIJ-DXs4HUH7kgbZuIgP1pxWUeS_wb0WpYk=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgqiYVBcr7O7gEn--APZhjgGzlwoanp9ifKKg1SyNNTpROeV7quBj6vGvrhQt9ZSx6yYUNr7tAF4d0JcT_8ZdHvwqysQ-z_IyjAAF3JHmAx5pc4dEqAa_HmkxEbD8x4Sju-XW0JJ2dOYCSucVoSEblsgLWNnN97jI7SQWFYTGaf-PvfA3dEgrQWRkgfJNw=w480-h640"
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjOhuQstIvzeW5EaXwHoGjLxpp4rFdpxLDwZiQXeV9vq2PpkQz5sysZ1q9f8yJ-m65N_POP596s8Kplg4u1DIsZkjC-lYcc2XJsae5xe0RGBVAvEtEpyfa60vABPNmNIF6uVRc0FAnUCzlQ19-CilvqZN9d6K62_G7PUdhKmpZbTJyK-tc0OB93tx-yTcQ=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEi6RacAWKIA2cBKGMZM4RNJFSu24HguaoV4hDWLl-VKCR6Rxt1oQTKmJvd3geNzU_7AUEWvnW98q4a2y5PVdzKonfA2xK0X8y6zDgXPqUgO5cLvMmK2eMQYtWjY5bU6KGevFAXvfGjEsgvXICIBTqciaqK-W_RsoMRM5L-Qs50YVyzsofeDVcZ6TwriDJM"
       ],
-      "address": "74, Jalan Wong Ah Fook, Bandar Johor Bahru, 80000",
-      "phone": "+60 10-667 8383",
+      "address": "9, Jalan Maju, Taman Maju Jaya, 80400 Johor Bahru, Johor, Malaysia",
+      "phone": "+60 11-6518 9328",
       "openHours": {
-        "Mon": ["08:30", "16:00"],
-        "Tue": ["08:30", "16:00"],
-        "Wed": ["08:30", "16:00"],
-        "Thu": ["08:30", "16:00"],
-        "Fri": ["08:30", "16:00"],
-        "Sat": ["08:30", "16:00"],
-        "Sun": ["08:30", "16:00"]
+        "Mon": ["06:00", "13:00"],
+        "Tue": "Closed",
+        "Wed": ["06:00", "13:00"],
+        "Thu": ["06:00", "13:00"],
+        "Fri": ["06:00", "13:00"],
+        "Sat": ["06:00", "13:00"],
+        "Sun": ["06:00", "13:00"]
       }
     }
     
