@@ -491,35 +491,7 @@
       }
     },
     
-    {
-      "name": "Nic & Tom Eatery - 少年食堂",
-      "country": "Singapore",
-      "lat": 1.281620,
-      "lng": 103.844572,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Restaurant",
-      "cuisine": "Western Food",
-      "dish": "",
-      "foodType": "",
-      "diet": "Any",
-      "price": 3,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiRuwPrK0l3p6VdB7Cv62VOL6i9vwdyBbwOr3apEZ9Ra6xatb6ylIqz0fClyNWdMuD4djTlH8BF6-dT2SUhyM0M-zzQY0cxQsfNcIAy4QNCFMZwud9tBSVXIL2bGkcnDXc2lKU3VJO5qCeZ2k1F2UC8g3_hj-nj1NdsrudBQsWn1Z78hjgslNcMkrRW4J8"
-      ],
-      "address": "6 Sago Street, S(059011)",
-      "phone": "+65 9138 9696",
-      "facebook": "https://www.facebook.com/nictomeatery",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
-        "Wed": ["10:30", "22:30"],
-        "Thu": ["10:30", "22:30"],
-        "Fri": ["10:30", "22:30"],
-        "Sat": ["10:30", "22:30"],
-        "Sun": ["10:30", "22:30"]
-      }
-    },
+
     
     {
       "name": "Chindamani indian food Food Stall (Serangoon)",
@@ -1177,6 +1149,66 @@
         "Fri": ["06:00", "13:00"],
         "Sat": ["06:00", "13:00"],
         "Sun": ["06:00", "13:00"]
+      }
+    },
+    
+    {
+      "name": "Nic & Tom Eatery - 少年食堂",
+      "country": "Singapore",
+      "lat": 1.281620,
+      "lng": 103.844572,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Restaurant",
+      "cuisine": "Chinese Food",
+      "dish": "Cheese Bee Hoon",
+      "foodType": "",
+      "diet": "Any",
+      "price": 3,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiRuwPrK0l3p6VdB7Cv62VOL6i9vwdyBbwOr3apEZ9Ra6xatb6ylIqz0fClyNWdMuD4djTlH8BF6-dT2SUhyM0M-zzQY0cxQsfNcIAy4QNCFMZwud9tBSVXIL2bGkcnDXc2lKU3VJO5qCeZ2k1F2UC8g3_hj-nj1NdsrudBQsWn1Z78hjgslNcMkrRW4J8"
+      ],
+      "address": "6 Sago Street, S(059011)",
+      "phone": "+65 9138 9696",
+      "facebook": "https://www.facebook.com/nictomeatery",
+      "openHours": {
+        "Mon": "Closed",
+        "Tue": "Closed",
+        "Wed": ["10:30", "22:30"],
+        "Thu": ["10:30", "22:30"],
+        "Fri": ["10:30", "22:30"],
+        "Sat": ["10:30", "22:30"],
+        "Sun": ["10:30", "22:30"]
+      }
+    },
+    
+    {
+      "name": "Restoran Lee",
+      "country": "Malaysia",
+      "lat": 2.250465,
+      "lng": 102.288692,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Restaurant",
+      "cuisine": "Chinese Food",
+      "dish": "Cheese Bee Hoon",
+      "foodType": "",
+      "diet": "Any",
+      "price": 3,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiRuwPrK0l3p6VdB7Cv62VOL6i9vwdyBbwOr3apEZ9Ra6xatb6ylIqz0fClyNWdMuD4djTlH8BF6-dT2SUhyM0M-zzQY0cxQsfNcIAy4QNCFMZwud9tBSVXIL2bGkcnDXc2lKU3VJO5qCeZ2k1F2UC8g3_hj-nj1NdsrudBQsWn1Z78hjgslNcMkrRW4J8"
+      ],
+      "address": "28 & 30, Jalan Sri Ramo 3, Taman Muzattor Shah, Air Keroh, 75450",
+      "phone": "+606-231 6601",
+      "facebook": "https://www.facebook.com/nictomeatery",
+      "openHours": {
+        "Mon": "Closed",
+        "Tue": "Closed",
+        "Wed": ["10:30", "22:30"],
+        "Thu": ["10:30", "22:30"],
+        "Fri": ["10:30", "22:30"],
+        "Sat": ["10:30", "22:30"],
+        "Sun": ["10:30", "22:30"]
       }
     }
     
