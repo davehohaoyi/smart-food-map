@@ -92,6 +92,39 @@
       "phone": "+60 13-559 9959",
       "openHours": {
         "Mon": "Closed",
+        "Tue": ["00:00", "23:59"],
+        "Wed": ["00:00", "23:59"],
+        "Thu": ["00:00", "23:59"],
+        "Fri": ["00:00", "23:59"],
+        "Sat": ["00:00", "23:59"],
+        "Sun": ["00:00", "23:59"]
+      }
+    },
+    
+    {
+      "name": "Restoran Ah Piao",
+      "country": "Malaysia",
+      "lat": 1.486474,
+      "lng": 103.769335,
+      "rating": 4,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Abalone Noodle",
+      "foodType": "Noodle",
+      "diet": "Any",
+      "facebook": "https://www.facebook.com/ahpiawnoodlehouse/?_rdr",
+      "price": 2,
+      "tag":[
+        "supper"
+      ],
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiTtv7vhqhNbxiGNhvfcYqTGT12NkKL8iUT2ZE-PaEk4078UIBa1KfsbzQj5O3UQZmvAdh0i25JGUNw0l_eAUS_HNVYtoAYzmQgQdRPDpcGpior1t1qyuYCGqegOIsmxL7XPqvVscMUpUg34RjssxBUu3LXV8pX4-p9rIRmiZso2uecEM8U2P_S3_LN3mw"
+      ],
+      "address": "20, 12, Jalan Kelewang, Taman Sri Tebrau, 80050 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+      "phone": "+60 12-775 0995",
+      "openHours": {
+        "Mon": "Closed",
         "Tue": [
           ["11:30", "15:00"],
           ["18:00", "21:30"]
