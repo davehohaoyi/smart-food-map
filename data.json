@@ -1214,6 +1214,35 @@
         "Sat": ["10:30", "22:30"],
         "Sun": ["10:30", "22:30"]
       }
+    },
+    
+    {
+      "name": "Restoran Di Hwang Ya",
+      "country": "Malaysia",
+      "lat": 2.250465,
+      "lng": 102.288692,
+      "rating": 4,
+      "wait": 5,
+      "diningSpot": "Restaurant",
+      "cuisine": "Chinese Food",
+      "dish": "Duck Rice",
+      "foodType": "",
+      "diet": "Any",
+      "price": 3,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjWGPQ5gYTnPNMCqGXNPrmYNVrFNb4G7Q6SZ0BpElzNFSdmMJVEFHs4TRmzbWYiuFlNcahSTURCcvfbrmmTckcSxSdVHT75Gj-N7EZTS72igmTNEExIjjbTGi7d9KIciNKsuzvSCS0Hin-CrIsO_xYWlRF2ad-AqMTuDXR5D08woY-_VG85TGaR4gttLos=w480-h640
+      ],
+      "address": "KSL City Mall, 33, Jalan Seladang, L2-132, Johor Bahru 80250",
+      "phone": "-",
+      "openHours": {
+        "Mon": ["08:00", "18:00"],
+        "Tue": ["08:00", "18:00"],
+        "Wed": ["08:00", "18:00"],
+        "Thu": ["08:00", "18:00"],
+        "Fri": ["08:00", "18:00"],
+        "Sat": ["08:00", "18:00"],
+        "Sun": ["08:00", "18:00"]
+      }
     }
     
   ]
