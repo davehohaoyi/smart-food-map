@@ -239,6 +239,9 @@
       ],
       "diet": "Any",
       "price": 1,
+      "tag":[
+        "Michelin"
+        ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgq3hJ7vJRJ8J-IdlhRtk0-8zrJYu5dWjrTGN-caF17kiECv7C2bp_v2LocndAKC3wqGhsek3_aEwHicYA-Oqpmw7CcvfAzO3HEH7IRHMczt7D0eWtgIWL9j0KmRI4aRVGyFoB4MNOfL7L1kd5wN6DYgiLqL-L2OGVxFzRfLaG31w9PbR5frXjzM3nzAVo=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEihQg3b007bKSzu9iEuOiiZwriS3c_pdWobfBp9iWu5aqygZRvfsYcnsEonP0i6tDwRJgWJ1vA-q5756ndKQjcViIL1xBKicNQ8fJaZOd8ZdfSXqBs4U_sRPaVB5gXrnZX82u4whKMogKktcvy4NJE0XUx0_ppYYCKkM2JN24cTzMwnuWr660jpGy3dHEI"
