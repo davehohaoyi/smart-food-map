@@ -1276,6 +1276,36 @@
         "Sat": ["08:00", "18:00"],
         "Sun": ["08:00", "18:00"]
       }
+    },
+    
+    {
+      "name": "Yum Yum Thai Food",
+      "country": "Singapore",
+      "lat": 1.337949,
+      "lng": 103.757334,
+      "rating": 4,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Thai Food",
+      "dish": "Honey Chicken Rice",
+      "foodType": "",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhFwyzl_D6NXkQQGAhbcZ-gTiW6pUPfmVm-5E3IDlnXNsnVpmBlmxNINutPIHqTfENMu4gWr0fplFOEJ2ffmvKTzGupa-gjNPSdSXRZSQyFi24W9ryF0DGPrbRoPy9NGLDDkTgo3r78B2WQTj12IKEK4cJi_HcaeaZVPEdroZ2WHMjhtighiOdWQr1utJ4=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEi1L0wSFNKhgLAsFfjvwSr_n5KpRPwK-UlUcllWxRYxlfZRjd3WQfzXDCBVVzIX85mfPbBHFu4tAhpDbqenXbnPAmOyHMXCnFkK8R7fJJDCGA-Jqo_aqf1vFeCPcJ2YDfKpRjNTxPSAC5Xwp-fGQDwlaH7u2bXPdshHQmexGrStVuURp6cc8BeEKe41Fr8"
+      ],
+      "address": "51 Bukit Batok Cres, Unity Center, #02-01 & 02, S(658077)",
+      "phone": "8819 3724",
+      "openHours": {
+        "Mon": ["10:00", "20:00"],
+        "Tue": ["10:00", "20:00"],
+        "Wed": ["10:00", "20:00"],
+        "Thu": ["10:00", "20:00"],
+        "Fri": ["10:00", "20:00"],
+        "Sat": "Closed",
+        "Sun": "Closed"
+      }
     }
     
   ]
