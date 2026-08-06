@@ -572,6 +572,9 @@
       "foodType": "",
       "diet": "Any",
       "price": 2,
+      "tag":[
+        "Supper"
+        ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiplW6X2kjMpyxZ0L5tztRB4P9gZDBddMtikRGrA3mGXYdOxK8FuIyft-xZuwMUVvSMdNGiI8EZhY9c1po9YB_AKoDIOGfMsVi0XoUVgX5p4W7hb9HCJXi3CMQywfDMzJkyx2KijelMG4g8GbV7VrFVSihIGS72TGJLMIM5ORO-q6MDR4_Q7Fsv4EwYYGA=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEjEQrBhu83jkIVKBkOTNcbx5Jeiv3dGBiCcSYuMPTL5zIjEGVfbxO3s75t7IjGEj2qkIdxwIgJXJKG8KNLvTaVMINvMKdBP5T1IasLUussls6gQ-41zVJdhdartvs2fPhc4ALwq7bC-KSCX37uTfUoCH3LMfreABxz5eQ5ux2Ay97CJYnMTWI2_3WzhUZQ"
@@ -636,6 +639,9 @@
       "dish": "Prata",
       "foodType": "",
       "diet": "Any",
+      "tag":[
+        "Supper"
+        ],
       "price": 2,
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgHOtZX1xhi6TKOVEgBWzSL2g-5ToAVfz2YTBh2jA8EtOdPYValtH-26_FwbVQQ21loCIIKgfzTFg4hU_aSppCYRapdisX0QF--1mxuhkctYxUNMZ1bS4UaGbj7ce9Bl71HmI4_I2kegMX9aUioJMgVqEMMbeYK7XfZO95fnPfN_CGjFJclQbHR100uAhs=w480-h640"
@@ -667,6 +673,9 @@
       "foodType": "Rice",
       "diet": "Any",
       "price": 2,
+      "tag":[
+        "Supper"
+        ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX08_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
