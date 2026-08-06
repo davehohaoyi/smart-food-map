@@ -1212,6 +1212,9 @@
       "dish": "Tim Sum",
       "diet": "Any",
       "price": 1,
+      "tag":[
+        "Hidden Gem"
+        ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEjOhuQstIvzeW5EaXwHoGjLxpp4rFdpxLDwZiQXeV9vq2PpkQz5sysZ1q9f8yJ-m65N_POP596s8Kplg4u1DIsZkjC-lYcc2XJsae5xe0RGBVAvEtEpyfa60vABPNmNIF6uVRc0FAnUCzlQ19-CilvqZN9d6K62_G7PUdhKmpZbTJyK-tc0OB93tx-yTcQ=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEi6RacAWKIA2cBKGMZM4RNJFSu24HguaoV4hDWLl-VKCR6Rxt1oQTKmJvd3geNzU_7AUEWvnW98q4a2y5PVdzKonfA2xK0X8y6zDgXPqUgO5cLvMmK2eMQYtWjY5bU6KGevFAXvfGjEsgvXICIBTqciaqK-W_RsoMRM5L-Qs50YVyzsofeDVcZ6TwriDJM"
