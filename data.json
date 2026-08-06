@@ -936,6 +936,9 @@
       "foodType": "Rice",
       "diet": "Any",
       "price": 2,
+      "tag":[
+        "Michelin"
+        ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgwhrkKqBldReFxSHZhgtrb0Km6vM_3njDHEzAtxhYo4hPGQtNRVcbD7Ptl-9EaulAQIUo9DcTpUyew7krXqaPM2wz83d8ubeybYHX9viXltoP1sman3QzyPd3zGwz4d-BfASuH8TIvZ50wR6xe-DNtgcUczJ_NGOEhyXNfLrFNdKpX2Mji6geeEK3IJtw=w480-h640"
       ],
