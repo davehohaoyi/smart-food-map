@@ -603,6 +603,10 @@
       "foodType": "",
       "diet": "Any",
       "price": 2,
+      "tag":[
+        "Michelin",
+        "Supper"
+        ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgGCd4o6sAfd-N-eHeUIe_hV0YM4I7xfq8vYWy3CHHTS5vAcAZ_wnsByhq7KuGgtSJ7Qb9OUQOwxnGwt_ro0gibGlOJXo4yIutaYH8NufGUFhvkK2EWhOH3JliqSgWSoAS5eu9sMUJy3SShQ4vnNiiJnOe882RH3U2_ICYuwx4fcbvb3CLDyQIFsMMAQA4=w480-h640"
       ],
