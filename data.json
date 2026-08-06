@@ -793,6 +793,36 @@
     },
     
     {
+      "name": "Victor Famous Fried Chicken Wing Rice & Hainanese Chicken Rice",
+      "country": "Singapore",      
+      "lat": 1.307283,
+      "lng": 103.855189,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Coffee Shop",
+      "cuisine": "Chinese Food",
+      "dish": "Chicken Rice",
+      "foodType": "Rice",
+      "diet": "Any",
+      "price": 2,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiHTnlLQclMwHreCt39fa0En98llGnddh4VSpZURrdQwbe0jw7iV8VNjQ8ZvDduYdkW-qQH1NTzIYNS3w5iFA4YlVtZRWlLw9W02d_H0--44u_J21fwXdp3fZ1ZZoPSC0ufoP0lJWupLmvTip-H53n-INzfbdooKr-x-ZItCrGhEtAmhht5uh6V7NmVLkI=w480-h640",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjsfT14pTcyQvI3kc4HJmU7TR2LqzAlD9n-sAQrDQCnxg5HPLzM0CmovrKDG4WziXJSC8HSmqmMi08-80ZrC-jLnKc6FO4wf6tsNaDuDEw77KbZWfw2kAp0gsXfjMx_59SUsYy8iYZyOqsBJOCBzvqidBF2EQCVG32dwG3BcPlVR0HWv5Ut5cvYlXkXSEk=w480-h640"
+      ],
+      "address": "638 Veerasamy Rd, Yi He Eating House, #01-101, S(200638)",
+      "phone": "-",
+      "openHours": {
+        "Mon": ["11:30", "18:00"],
+        "Tue": ["11:30", "18:00"],
+        "Wed": ["11:30", "18:00"],
+        "Thu": ["11:30", "18:00"],
+        "Fri": ["11:30", "18:00"],
+        "Sat": ["11:30", "18:00"],
+        "Sun": ["11:30", "18:00"]
+      }
+    },
+    
+    {
       "name": "Hainanese Delicacy",
       "country": "Singapore",
       "lat": 1.307255,
@@ -1252,8 +1282,8 @@
     {
       "name": "Restoran Di Hwang Ya",
       "country": "Malaysia",
-      "lat": 1.485635,
-      "lng": 103.762410,
+      "lat": 2.250465,
+      "lng": 102.288692,
       "rating": 4,
       "wait": 5,
       "diningSpot": "Restaurant",
@@ -1275,36 +1305,6 @@
         "Fri": ["08:00", "18:00"],
         "Sat": ["08:00", "18:00"],
         "Sun": ["08:00", "18:00"]
-      }
-    },
-    
-    {
-      "name": "Yum Yum Thai Food",
-      "country": "Singapore",
-      "lat": 1.337949,
-      "lng": 103.757334,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Thai Food",
-      "dish": "Honey Chicken Rice",
-      "foodType": "",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhFwyzl_D6NXkQQGAhbcZ-gTiW6pUPfmVm-5E3IDlnXNsnVpmBlmxNINutPIHqTfENMu4gWr0fplFOEJ2ffmvKTzGupa-gjNPSdSXRZSQyFi24W9ryF0DGPrbRoPy9NGLDDkTgo3r78B2WQTj12IKEK4cJi_HcaeaZVPEdroZ2WHMjhtighiOdWQr1utJ4=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEi1L0wSFNKhgLAsFfjvwSr_n5KpRPwK-UlUcllWxRYxlfZRjd3WQfzXDCBVVzIX85mfPbBHFu4tAhpDbqenXbnPAmOyHMXCnFkK8R7fJJDCGA-Jqo_aqf1vFeCPcJ2YDfKpRjNTxPSAC5Xwp-fGQDwlaH7u2bXPdshHQmexGrStVuURp6cc8BeEKe41Fr8"
-      ],
-      "address": "51 Bukit Batok Cres, Unity Center, #02-01 & 02, S(658077)",
-      "phone": "8819 3724",
-      "openHours": {
-        "Mon": ["10:00", "20:00"],
-        "Tue": ["10:00", "20:00"],
-        "Wed": ["10:00", "20:00"],
-        "Thu": ["10:00", "20:00"],
-        "Fri": ["10:00", "20:00"],
-        "Sat": "Closed",
-        "Sun": "Closed"
       }
     }
     
