@@ -751,6 +751,41 @@
     },
     
     {
+      "name": "Ponggol Nasi Lemak",
+      "country": "Singapore",
+      "lat": 01.31343,
+      "lng": 103.85942,
+      "rating": 5,
+      "wait": 5,
+      "diningSpot": "Hawker",
+      "cuisine": "Chinese Food",
+      "dish": "Nasi Lemak",
+      "foodType": "Rice",
+      "diet": "Any",
+      "price": 3,
+      "imgs": [
+        "https://blogger.googleusercontent.com/img/a/AVvXsEj2ZneIGYWRLMMb7kE8FMYMab7Lv9rU17tMXsvERDg2vR8bZ3h1I2Lcl028eQ0jlCMRhZPI5T5myb_QUDh6OjRdQJ871pjtSRowrr9HGD-PymnMnmmE6eixi_Bu4PoonjOL9Snx_vHIkRiQKz4PesMGwBk1HND65fEXkSBNlxlZAZ53tOg67J_9wW0L_oQ=w640-h480",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEguz3jesd0OMaMEv0CiP7Sg0QlJhSydwAdm8_hnBQW_RoLLJaTxnEk-PFMVbsKPf8LJqsNPAPl_geUF1C-MeANoyzN6TfPJ5N4Iih1SsGP3HetJQoHwzNlZ-fKroj1QpQWq5xFzp6spn5ETXjfB1M0r58bpobT1-LYwYAL-n-MjcdX-LuixxY8Dyvzt908=w640-h480",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhddb31sdDGi88LFq6K-winyL5exwg-NENIIz6Kbz-EtMGNY9eCTqJXzbRY-pNDgJ7rSL8PVoubJuVWYUJ-PzgAhk4EF3JPaflHrqtTcR2vkUAP2LKEoD_8tUuTRsqNqIaEZdZ1vup5aNcL9leVbc-AH9g8GbZ8XpxlChoGsObThWmve0-L9HEBJF9Q7fk=w640-h480",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEhQxRl77fdxBSrNzUvXNE7d8EL8ZB5bDXZcdX2hhc_GuK8SLOcdDwKNHjgS10S-cddA1NI6DF65vo71KZuygVyo91QsUBFRLkjjbUQ-O4GDEBMG8gbPLko4iE7VVmpZw6hfZ2eRlCwJkXGBR86QQDmuH4zY6v4Qt8zFCwbc12qmncvsSTa2ZTKobUd4r9Q=w640-h480",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEiKsassz9iY4hw2pgCpQ-5X5jNj0YA8xi0J_VrgGUG1lDGp7vXqV31kVoC2AXLnYFLqTZGV5W4IngfdXyYeHS7DpMp0sVQDhzSac3a6Oy0RLBVeglnTJSNN1J0wr13cnQgJsv7Tc5KPosH9laPyl1UJ9m_T2d7j0op9jcRjAiBqIGptbWeNBjRj_ScxIuE=w640-h362",
+        "https://blogger.googleusercontent.com/img/a/AVvXsEjIcX6O0MvG_ZXpD5Wc3JNzSFe4xfL-Bh1dprghEkMCHULt9gtRQP6XhtZxQOUESyJXfnzBjZ3TZX4oS0WUS6qvh-adN3X3OaYfYJ8sMnnbTgl46iVWf4Ct1lAyVKHtKs7Kz5dcUnXUCctJYLKgDr5IWbeQpUPXs1w4-93rQszy_TjC6fS7rBVpYRLsXOc=w640-h368"
+      ],
+      "address": "371 Jln Besar, #01-01, Singapore 208998",
+      "phone": "+65 6293 0020",
+      "website": "https://www.ponggolnasilemak.com.sg/",
+      "openHours": {
+        "Mon": ["11:00", "21:00"],
+        "Tue": ["11:00", "21:00"],
+        "Wed": ["11:00", "21:00"],
+        "Thu": "Closed",
+        "Fri": ["11:00", "21:00"],
+        "Sat": ["11:00", "21:00"],
+        "Sun": ["11:00", "21:00"]
+      }
+    },
+    
+    {
       "name": "Boon Lay Power Nasi Lemak",
       "country": "Singapore",
       "lat": 1.345696,
