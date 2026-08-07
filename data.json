@@ -311,7 +311,7 @@
       "website": "https://geylanglor9.com/",
       "facebook": "https://www.facebook.com/geylanglor9/",
       "tag":[
-        "Dinner"
+        "Dinner",
         "Supper"
         ],
       "imgs": [
@@ -753,8 +753,8 @@
     {
       "name": "Ponggol Nasi Lemak",
       "country": "Singapore",
-      "lat": 01.31343,
-      "lng": 103.85942,
+      "lat": 1.312857,
+      "lng": 103.859696,
       "rating": 5,
       "wait": 5,
       "diningSpot": "Hawker",
