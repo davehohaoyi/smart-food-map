@@ -1,6 +1,7 @@
 {
   "stalls": [
     {
+      "FoodID": "BLANCO-PRAWN-NOODLE-HOUSE",
       "name": "Blanco Prawn Noodle House",
       "country": "Singapore",
       "lat": 1.396071,
@@ -13,9 +14,9 @@
       "foodType": "Noodle",
       "diet": "Any",
       "price": 2,
-      "tag":[
+      "tag": [
         "Local Favourite"
-        ],
+      ],
       "moreInfo": "https://lifeengrg.blogspot.com/2026/07/blanco-prawn-noodle-house.html",
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEge-As2SnFOqXRFjT5LAuYn0TXzv7LcnrKicrRk24a1jNR5vz_djwtPHcUPNlhtrKPv7f_ruK7F2lSqVavJC_H_Hhq7HWl-g0pzRCSaTmWm1ljL2zkygozkAWiV3xe0rGpIiTRIDowUGLrYgiRWFhsnuaxz4jode-ZnRkPAnSQN6Chwlfeg9VUq5XwZnbM"
@@ -23,21 +24,39 @@
       "address": "235 Jalan Kayu, S(799459)",
       "phone": "+65 8920 4175",
       "openHours": {
-        "Mon": ["07:00", "16:00"],
+        "Mon": [
+          "07:00",
+          "16:00"
+        ],
         "Tue": "Closed",
-        "Wed": ["07:00", "16:00"],
-        "Thu": ["07:00", "16:00"],
-        "Fri": ["07:00", "16:00"],
-        "Sat": ["07:00", "16:00"],
-        "Sun": ["07:00", "16:00"]
+        "Wed": [
+          "07:00",
+          "16:00"
+        ],
+        "Thu": [
+          "07:00",
+          "16:00"
+        ],
+        "Fri": [
+          "07:00",
+          "16:00"
+        ],
+        "Sat": [
+          "07:00",
+          "16:00"
+        ],
+        "Sun": [
+          "07:00",
+          "16:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "ZION-RD-BIG-PRAWN-NOODLE",
       "name": "Zion Rd Big Prawn Noodle",
       "country": "Singapore",
       "lat": 1.292469,
-      "lng": 103.830930,
+      "lng": 103.83093,
       "rating": 4,
       "wait": 10,
       "diningSpot": "Hawker",
@@ -46,9 +65,9 @@
       "foodType": "Noodle",
       "diet": "Any",
       "price": 3,
-      "tag":[
+      "tag": [
         "Michelin Guide"
-        ],
+      ],
       "moreInfo": "https://lifeengrg.blogspot.com/2026/08/zion-rd-big-prawn-noodle.html",
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEjRV5s7KcrVyvWaF57ZoAR3LSdWRtPugeY7XfgdNu9KTMRZcg30NEqa_PED-sdoDpGN9yNAwRJsvn2wO-wRoWByWs7Iz7cZ96PFk6WOVP-zlfXNJB6FWuIvWeGhAP2FKR8_QjwUycgsx8mXupJkNNULeMXacIDXuuxAHiq33hhtw7lZykY-eeUqYpdwrJ4=w480-h640",
@@ -58,16 +77,34 @@
       "phone": "+65 8920 4175",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["16:30", "03:00"],
-        "Wed": ["16:30", "03:00"],
-        "Thu": ["16:30", "03:00"],
-        "Fri": ["16:30", "03:00"],
-        "Sat": ["16:30", "03:00"],
-        "Sun": ["16:30", "03:00"]
+        "Tue": [
+          "16:30",
+          "03:00"
+        ],
+        "Wed": [
+          "16:30",
+          "03:00"
+        ],
+        "Thu": [
+          "16:30",
+          "03:00"
+        ],
+        "Fri": [
+          "16:30",
+          "03:00"
+        ],
+        "Sat": [
+          "16:30",
+          "03:00"
+        ],
+        "Sun": [
+          "16:30",
+          "03:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "RESTORAN-WOON-59",
       "name": "Restoran Woon 59",
       "country": "Malaysia",
       "lat": 1.486651,
@@ -81,7 +118,7 @@
       "diet": "Any",
       "facebook": "https://www.facebook.com/carrotcubes/",
       "price": 2,
-      "tag":[
+      "tag": [
         "Hidden Gem",
         "Supper"
       ],
@@ -92,16 +129,34 @@
       "phone": "+60 13-559 9959",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["00:00", "23:59"],
-        "Wed": ["00:00", "23:59"],
-        "Thu": ["00:00", "23:59"],
-        "Fri": ["00:00", "23:59"],
-        "Sat": ["00:00", "23:59"],
-        "Sun": ["00:00", "23:59"]
+        "Tue": [
+          "00:00",
+          "23:59"
+        ],
+        "Wed": [
+          "00:00",
+          "23:59"
+        ],
+        "Thu": [
+          "00:00",
+          "23:59"
+        ],
+        "Fri": [
+          "00:00",
+          "23:59"
+        ],
+        "Sat": [
+          "00:00",
+          "23:59"
+        ],
+        "Sun": [
+          "00:00",
+          "23:59"
+        ]
       }
     },
-    
     {
+      "FoodID": "RESTORAN-AH-PIAO",
       "name": "Restoran Ah Piao",
       "country": "Malaysia",
       "lat": 1.486474,
@@ -115,7 +170,7 @@
       "diet": "Any",
       "facebook": "https://www.facebook.com/ahpiawnoodlehouse/?_rdr",
       "price": 2,
-      "tag":[
+      "tag": [
         "Supper"
       ],
       "imgs": [
@@ -126,33 +181,69 @@
       "openHours": {
         "Mon": "Closed",
         "Tue": [
-          ["11:30", "15:00"],
-          ["18:00", "21:30"]
+          [
+            "11:30",
+            "15:00"
+          ],
+          [
+            "18:00",
+            "21:30"
+          ]
         ],
         "Wed": [
-          ["11:30", "15:00"],
-          ["18:00", "21:30"]
+          [
+            "11:30",
+            "15:00"
+          ],
+          [
+            "18:00",
+            "21:30"
+          ]
         ],
         "Thu": [
-          ["11:30", "15:00"],
-          ["18:00", "21:30"]
+          [
+            "11:30",
+            "15:00"
+          ],
+          [
+            "18:00",
+            "21:30"
+          ]
         ],
         "Fri": [
-          ["11:30", "15:00"],
-          ["18:00", "21:30"]
+          [
+            "11:30",
+            "15:00"
+          ],
+          [
+            "18:00",
+            "21:30"
+          ]
         ],
         "Sat": [
-          ["11:30", "15:00"],
-          ["18:00", "21:30"]
+          [
+            "11:30",
+            "15:00"
+          ],
+          [
+            "18:00",
+            "21:30"
+          ]
         ],
         "Sun": [
-          ["11:30", "15:00"],
-          ["18:00", "21:30"]
+          [
+            "11:30",
+            "15:00"
+          ],
+          [
+            "18:00",
+            "21:30"
+          ]
         ]
       }
     },
-
     {
+      "FoodID": "CARROT-CUBES",
       "name": "Carrot Cubes",
       "country": "Singapore",
       "lat": 1.375677,
@@ -166,10 +257,10 @@
       "diet": "Any",
       "price": 2,
       "facebook": "https://www.facebook.com/carrotcubes/",
-      "tag":[
+      "tag": [
         "Local Favourite",
         "Breakfast"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
       ],
@@ -177,19 +268,37 @@
       "phone": "+65 9188 7670",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["07:00", "14:45"],
-        "Wed": ["07:00", "14:45"],
-        "Thu": ["07:00", "14:45"],
-        "Fri": ["07:00", "14:45"],
-        "Sat": ["07:00", "14:45"],
-        "Sun": ["07:00", "14:45"]
+        "Tue": [
+          "07:00",
+          "14:45"
+        ],
+        "Wed": [
+          "07:00",
+          "14:45"
+        ],
+        "Thu": [
+          "07:00",
+          "14:45"
+        ],
+        "Fri": [
+          "07:00",
+          "14:45"
+        ],
+        "Sat": [
+          "07:00",
+          "14:45"
+        ],
+        "Sun": [
+          "07:00",
+          "14:45"
+        ]
       }
     },
-
     {
+      "FoodID": "CHEY-SUA-CARROT-CAKE",
       "name": "Chey Sua Carrot Cake, 青山菜头粿",
       "country": "Singapore",
-      "lat": 1.338100,
+      "lat": 1.3381,
       "lng": 103.844727,
       "rating": 4,
       "wait": 5,
@@ -200,10 +309,10 @@
       "diet": "Any",
       "price": 2,
       "facebook": "https://www.facebook.com/p/Chey-Sua-Carrot-Cake-100057385842875/?locale=zh_CN",
-      "tag":[
+      "tag": [
         "Michelin Guide",
         "Breakfast"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEguLEZ4-XQMjip8o9pTEMh9P_JIkLR7c7e0rqSj7_j5U3H9md7LwP1xnCLzGHyi71RtVlB1ZxQI1QssAWJxnysu5gb-hDJXG3-a3gXaq4sQ0sv8ppopdWMPbv42g2wPB7pztGip_WNeHXm7Ztec0JLkzT9rFccjaRYfoZ2usxv_RZfvUQj7ha2CBeXcnX8"
       ],
@@ -212,15 +321,30 @@
       "openHours": {
         "Mon": "Closed",
         "Tue": "Closed",
-        "Wed": ["06:30", "13:00"],
-        "Thu": ["06:30", "13:00"],
-        "Fri": ["06:30", "13:00"],
-        "Sat": ["06:30", "13:00"],
-        "Sun": ["06:30", "13:00"]
+        "Wed": [
+          "06:30",
+          "13:00"
+        ],
+        "Thu": [
+          "06:30",
+          "13:00"
+        ],
+        "Fri": [
+          "06:30",
+          "13:00"
+        ],
+        "Sat": [
+          "06:30",
+          "13:00"
+        ],
+        "Sun": [
+          "06:30",
+          "13:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "HAI-NAN-ZAI",
       "name": "Hai Nan Zai",
       "country": "Singapore",
       "lat": 1.431841,
@@ -230,18 +354,18 @@
       "diningSpot": "Hawker",
       "cuisine": "Chinese Food",
       "dish": [
-      "Carrot Cake",
-      "Fried Kway Teow"
+        "Carrot Cake",
+        "Fried Kway Teow"
       ],
       "foodType": [
-      "Rice Cake",
-      "Noodle"
+        "Rice Cake",
+        "Noodle"
       ],
       "diet": "Any",
       "price": 1,
-      "tag":[
+      "tag": [
         "Michelin Guide"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgq3hJ7vJRJ8J-IdlhRtk0-8zrJYu5dWjrTGN-caF17kiECv7C2bp_v2LocndAKC3wqGhsek3_aEwHicYA-Oqpmw7CcvfAzO3HEH7IRHMczt7D0eWtgIWL9j0KmRI4aRVGyFoB4MNOfL7L1kd5wN6DYgiLqL-L2OGVxFzRfLaG31w9PbR5frXjzM3nzAVo=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEihQg3b007bKSzu9iEuOiiZwriS3c_pdWobfBp9iWu5aqygZRvfsYcnsEonP0i6tDwRJgWJ1vA-q5756ndKQjcViIL1xBKicNQ8fJaZOd8ZdfSXqBs4U_sRPaVB5gXrnZX82u4whKMogKktcvy4NJE0XUx0_ppYYCKkM2JN24cTzMwnuWr660jpGy3dHEI"
@@ -249,21 +373,42 @@
       "address": "105 Yishun Ring Road, Chong Pang Market & Food Centre, #01-129, S(760105)",
       "phone": "-",
       "openHours": {
-        "Mon": ["08:30", "21:00"],
-        "Tue": ["08:30", "21:00"],
-        "Wed": ["08:30", "21:00"],
-        "Thu": ["08:30", "21:00"],
-        "Fri": ["08:30", "21:00"],
-        "Sat": ["08:30", "21:00"],
-        "Sun": ["08:30", "21:00"]
+        "Mon": [
+          "08:30",
+          "21:00"
+        ],
+        "Tue": [
+          "08:30",
+          "21:00"
+        ],
+        "Wed": [
+          "08:30",
+          "21:00"
+        ],
+        "Thu": [
+          "08:30",
+          "21:00"
+        ],
+        "Fri": [
+          "08:30",
+          "21:00"
+        ],
+        "Sat": [
+          "08:30",
+          "21:00"
+        ],
+        "Sun": [
+          "08:30",
+          "21:00"
+        ]
       }
     },
-
     {
+      "FoodID": "FRESH-FROG-PORRIDGE-GEYLANG",
       "name": "Fresh Frog Porridge",
       "country": "Singapore",
       "lat": 1.312264,
-      "lng": 103.876540,
+      "lng": 103.87654,
       "rating": 5,
       "wait": 5,
       "diningSpot": "Coffee Shop",
@@ -273,10 +418,10 @@
       "price": 3,
       "website": "https://geylanglor9.com/",
       "facebook": "https://www.facebook.com/geylanglor9/",
-      "tag":[
+      "tag": [
         "Dinner",
         "Supper"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgLu_rYgNLlhcib7Dhwk77vq4fUtAInH5taYQbdBbtPSYr1BfnGKXOmgn7nwdOMSxiop3RytktiyjXPO7TntoZKaQe4Z0V9yI3MQkclMHB-5AEjxFMqQtyPryDLw-bptvvvm1tNcXnF8mH6CyiOi3A9pKaMZdNWjArnqyW1p_NKqMj0G8ZbWP6OpiQgpyw",
         "https://blogger.googleusercontent.com/img/a/AVvXsEi1qvtyGn7Mnwj6jpxRIg9MdCMzmjg0i3B6yKqt0GGUCf5Q0rj3vg9DgL4BjgBBKRuvfq5SsqkGbBKOXrq4lSBNdAytqW5meMJTbsj0fACE3ppkrxaaG4wqFZed-zI7KTl9XitsTXTKUv-xsH5TkUACTtUE1jQPa5bIGjBSL9C209KrAaD0dewKP8JiKcI=w480-h640",
@@ -286,17 +431,38 @@
       "address": "235 Geylang Road, Lor 9, S(389294)",
       "phone": "-",
       "openHours": {
-        "Mon": ["11:00", "04:00"],
-        "Tue": ["11:00", "04:00"],
-        "Wed": ["11:00", "04:00"],
-        "Thu": ["11:00", "04:00"],
-        "Fri": ["11:00", "04:00"],
-        "Sat": ["11:00", "04:00"],
-        "Sun": ["11:00", "04:00"]
+        "Mon": [
+          "11:00",
+          "04:00"
+        ],
+        "Tue": [
+          "11:00",
+          "04:00"
+        ],
+        "Wed": [
+          "11:00",
+          "04:00"
+        ],
+        "Thu": [
+          "11:00",
+          "04:00"
+        ],
+        "Fri": [
+          "11:00",
+          "04:00"
+        ],
+        "Sat": [
+          "11:00",
+          "04:00"
+        ],
+        "Sun": [
+          "11:00",
+          "04:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "FRESH-FROG-PORRIDGE-JB",
       "name": "Fresh Frog Porridge",
       "country": "Malaysia",
       "lat": 1.485208,
@@ -310,10 +476,10 @@
       "price": 3,
       "website": "https://geylanglor9.com/",
       "facebook": "https://www.facebook.com/geylanglor9/",
-      "tag":[
+      "tag": [
         "Dinner",
         "Supper"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEjIHAGg0VNe6Dr391LfwDhtRw_1NPTHQkdvmSh2K_p6tjs4pibfGWfK7PqD29YbLRnNOSO9PgbYfvIqamoAxQKEOLXj3__tnT7JfeobR46cTKAi6oXPD91dXMtYfLh62styuktojf8f3ZG8lg0TJKhs4XKuKg6Su8sE0gMald19MmMOBcfQgybIT4EYdu0=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEjgRi2dhqd6eiF-7XRkJOVdWwXMI7HHoXS9uu9jhcXzLzheX5mleNyuu00XOzhVEXPj3zCgQa0PuRTkZykRxSjnunnYB5BdoCwQpZbEzMSrOA1yEA6CRLE9zuuFM0B3HqJ1jxs5vWasGPFJw-9UFZY2PX3W7ZGraciwGbJTAHOPe2SHvpr0KurPDpKsvw4"
@@ -321,18 +487,38 @@
       "address": "12, Jalan Serigala Century Garden, 80250 Johor Bahru, Johor",
       "phone": "-",
       "openHours": {
-        "Mon": ["18:00", "04:00"],
-        "Tue": ["18:00", "04:00"],
-        "Wed": ["18:00", "04:00"],
-        "Thu": ["18:00", "04:00"],
-        "Fri": ["18:00", "04:00"],
-        "Sat": ["18:00", "04:00"],
-        "Sun": ["18:00", "04:00"]
+        "Mon": [
+          "18:00",
+          "04:00"
+        ],
+        "Tue": [
+          "18:00",
+          "04:00"
+        ],
+        "Wed": [
+          "18:00",
+          "04:00"
+        ],
+        "Thu": [
+          "18:00",
+          "04:00"
+        ],
+        "Fri": [
+          "18:00",
+          "04:00"
+        ],
+        "Sat": [
+          "18:00",
+          "04:00"
+        ],
+        "Sun": [
+          "18:00",
+          "04:00"
+        ]
       }
     },
-    
-    
     {
+      "FoodID": "GIMEE-FACE-491-JURONG-WEST-AVE-1",
       "name": "Gimee Face (491 Jurong West Ave 1)",
       "country": "Singapore",
       "lat": 1.349558,
@@ -346,26 +532,47 @@
       "diet": "Any",
       "price": 2,
       "facebook": "https://www.facebook.com/GimeeFace",
-      "tag":[
+      "tag": [
         "Supper"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEimTdcR83S54HFtAQDRZFruSbDzjWDzKv8Kt6axGIhqf1aDNZ_IO-By9ISKNe77k-rbqOnp1zRliNrdrzRa74xSTait0_GsehCVmtc85wQ42pMwu5X8es5QawtkjA-CLoxjdeBRVRY0R4fvfBXzJtWgamtQEWzZ-JlZNVndYnu_sLLGhyq-MRxOh1Rbnzw"
       ],
       "address": "491 Jurong West Ave 1, #01-173, S(640491)",
       "phone": "-",
       "openHours": {
-        "Mon": ["00:00", "23:59"],
-        "Tue": ["00:00", "23:59"],
-        "Wed": ["00:00", "23:59"],
-        "Thu": ["00:00", "23:59"],
-        "Fri": ["00:00", "23:59"],
-        "Sat": ["00:00", "23:59"],
-        "Sun": ["00:00", "23:59"]
+        "Mon": [
+          "00:00",
+          "23:59"
+        ],
+        "Tue": [
+          "00:00",
+          "23:59"
+        ],
+        "Wed": [
+          "00:00",
+          "23:59"
+        ],
+        "Thu": [
+          "00:00",
+          "23:59"
+        ],
+        "Fri": [
+          "00:00",
+          "23:59"
+        ],
+        "Sat": [
+          "00:00",
+          "23:59"
+        ],
+        "Sun": [
+          "00:00",
+          "23:59"
+        ]
       }
     },
-    
     {
+      "FoodID": "FAMOUS-EUNOS-BAK-CHOR-MEE-EUNOS",
       "name": "Famous Eunos Bak Chor Mee (Eunos)",
       "country": "Singapore",
       "lat": 1.320068,
@@ -387,21 +594,42 @@
       "address": "7 Eunos Crescent, Hong Lee Coffee Shop, S(400007)",
       "phone": "-",
       "openHours": {
-        "Mon": ["06:00", "19:30"],
-        "Tue": ["06:00", "19:30"],
-        "Wed": ["06:00", "19:30"],
-        "Thu": ["06:00", "19:30"],
-        "Fri": ["06:00", "19:30"],
-        "Sat": ["06:00", "19:30"],
-        "Sun": ["06:00", "19:30"]
+        "Mon": [
+          "06:00",
+          "19:30"
+        ],
+        "Tue": [
+          "06:00",
+          "19:30"
+        ],
+        "Wed": [
+          "06:00",
+          "19:30"
+        ],
+        "Thu": [
+          "06:00",
+          "19:30"
+        ],
+        "Fri": [
+          "06:00",
+          "19:30"
+        ],
+        "Sat": [
+          "06:00",
+          "19:30"
+        ],
+        "Sun": [
+          "06:00",
+          "19:30"
+        ]
       }
     },
-    
     {
+      "FoodID": "DO-ME-CHICKEN-CUTLET",
       "name": "Do & Me Chicken Cutlet",
-      "country": "Singapore",      
+      "country": "Singapore",
       "lat": 1.422716,
-      "lng": 103.84030,
+      "lng": 103.8403,
       "rating": 4,
       "wait": 5,
       "diningSpot": "Coffee Shop",
@@ -420,17 +648,35 @@
       "address": "654 Yishun Ave 4, S(760654)",
       "phone": "-",
       "openHours": {
-        "Mon": ["11:00", "22:00"],
-        "Tue": ["11:00", "22:00"],
-        "Wed": ["11:00", "22:00"],
+        "Mon": [
+          "11:00",
+          "22:00"
+        ],
+        "Tue": [
+          "11:00",
+          "22:00"
+        ],
+        "Wed": [
+          "11:00",
+          "22:00"
+        ],
         "Thu": "Closed",
-        "Fri": ["11:00", "22:00"],
-        "Sat": ["11:00", "22:00"],
-        "Sun": ["11:00", "22:00"]
+        "Fri": [
+          "11:00",
+          "22:00"
+        ],
+        "Sat": [
+          "11:00",
+          "22:00"
+        ],
+        "Sun": [
+          "11:00",
+          "22:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "GOLDEN-ROOSTER-TOA-PAYOH",
       "name": "Golden Rooster (Toa Payoh)",
       "country": "Singapore",
       "lat": 1.334564,
@@ -446,26 +692,47 @@
       "foodType": "",
       "diet": "Any",
       "price": 2,
-      "tag":[
+      "tag": [
         "Supper"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEi02nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk08pH8"
       ],
       "address": "78C Toa Payoh Central, #01-77, S(313078)",
       "phone": "-",
       "openHours": {
-        "Mon": ["11:30", "01:00"],
-        "Tue": ["11:30", "01:00"],
-        "Wed": ["11:30", "01:00"],
-        "Thu": ["11:30", "01:00"],
-        "Fri": ["11:30", "01:00"],
-        "Sat": ["11:30", "01:00"],
-        "Sun": ["11:30", "01:00"]
+        "Mon": [
+          "11:30",
+          "01:00"
+        ],
+        "Tue": [
+          "11:30",
+          "01:00"
+        ],
+        "Wed": [
+          "11:30",
+          "01:00"
+        ],
+        "Thu": [
+          "11:30",
+          "01:00"
+        ],
+        "Fri": [
+          "11:30",
+          "01:00"
+        ],
+        "Sat": [
+          "11:30",
+          "01:00"
+        ],
+        "Sun": [
+          "11:30",
+          "01:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "NO-1-WESTERN-FOOD",
       "name": "No 1 Western Food",
       "country": "Singapore",
       "lat": 1.297458,
@@ -474,7 +741,7 @@
       "wait": 5,
       "diningSpot": "Hawker",
       "cuisine": "Western Food",
-       "dish": [
+      "dish": [
         "Chicken Chop",
         "Chicken Cutlet"
       ],
@@ -487,17 +754,32 @@
       "address": "38A Margaret Dr, Margaret Dr Food Centre, #02-30, S(142038)",
       "phone": "+65 8474 3930",
       "openHours": {
-        "Mon": ["11:00", "19:00"],
-        "Tue": ["11:00", "19:00"],
+        "Mon": [
+          "11:00",
+          "19:00"
+        ],
+        "Tue": [
+          "11:00",
+          "19:00"
+        ],
         "Wed": "Closed",
         "Thu": "Closed",
-        "Fri": ["11:00", "19:00"],
-        "Sat": ["11:00", "19:00"],
-        "Sun": ["11:00", "19:00"]
+        "Fri": [
+          "11:00",
+          "19:00"
+        ],
+        "Sat": [
+          "11:00",
+          "19:00"
+        ],
+        "Sun": [
+          "11:00",
+          "19:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "APOLLO-WESTERN-FOOD",
       "name": "Apollo Western Food",
       "country": "Singapore",
       "lat": 1.354101,
@@ -524,17 +806,30 @@
       "openHours": {
         "Mon": "Closed",
         "Tue": "Closed",
-        "Wed": ["12:00", "20:15"],
-        "Thu": ["12:00", "20:15"],
-        "Fri": ["12:00", "20:15"],
-        "Sat": ["11:00", "19:00"],
-        "Sun": ["11:00", "19:00"]
+        "Wed": [
+          "12:00",
+          "20:15"
+        ],
+        "Thu": [
+          "12:00",
+          "20:15"
+        ],
+        "Fri": [
+          "12:00",
+          "20:15"
+        ],
+        "Sat": [
+          "11:00",
+          "19:00"
+        ],
+        "Sun": [
+          "11:00",
+          "19:00"
+        ]
       }
     },
-    
-
-    
     {
+      "FoodID": "CHINDAMANI-INDIAN-FOOD-FOOD-STALL-SERANGOON",
       "name": "Chindamani indian food Food Stall (Serangoon)",
       "country": "Singapore",
       "lat": 1.369785,
@@ -554,17 +849,38 @@
       "phone": "-",
       "facebook": "https://www.facebook.com/profile.php?id=100063722283440&locale=en_GB#",
       "openHours": {
-        "Mon": ["06:00", "21:00"],
-        "Tue": ["06:00", "21:00"],
-        "Wed": ["06:00", "21:00"],
-        "Thu": ["06:00", "21:00"],
-        "Fri": ["06:00", "21:00"],
-        "Sat": ["06:00", "21:00"],
-        "Sun": ["06:00", "21:00"]
+        "Mon": [
+          "06:00",
+          "21:00"
+        ],
+        "Tue": [
+          "06:00",
+          "21:00"
+        ],
+        "Wed": [
+          "06:00",
+          "21:00"
+        ],
+        "Thu": [
+          "06:00",
+          "21:00"
+        ],
+        "Fri": [
+          "06:00",
+          "21:00"
+        ],
+        "Sat": [
+          "06:00",
+          "21:00"
+        ],
+        "Sun": [
+          "06:00",
+          "21:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "THE-ROTI-PRATA-HOUSE",
       "name": "The Roti Prata House",
       "country": "Singapore",
       "lat": 1.353804,
@@ -577,9 +893,9 @@
       "foodType": "",
       "diet": "Any",
       "price": 2,
-      "tag":[
+      "tag": [
         "Supper"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiplW6X2kjMpyxZ0L5tztRB4P9gZDBddMtikRGrA3mGXYdOxK8FuIyft-xZuwMUVvSMdNGiI8EZhY9c1po9YB_AKoDIOGfMsVi0XoUVgX5p4W7hb9HCJXi3CMQywfDMzJkyx2KijelMG4g8GbV7VrFVSihIGS72TGJLMIM5ORO-q6MDR4_Q7Fsv4EwYYGA=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEjEQrBhu83jkIVKBkOTNcbx5Jeiv3dGBiCcSYuMPTL5zIjEGVfbxO3s75t7IjGEj2qkIdxwIgJXJKG8KNLvTaVMINvMKdBP5T1IasLUussls6gQ-41zVJdhdartvs2fPhc4ALwq7bC-KSCX37uTfUoCH3LMfreABxz5eQ5ux2Ay97CJYnMTWI2_3WzhUZQ"
@@ -588,20 +904,41 @@
       "phone": "+65 9138 9696",
       "website": "https://therotipratahouse.sg/",
       "openHours": {
-        "Mon": ["07:00", "02:00"],
-        "Tue": ["07:00", "02:00"],
-        "Wed": ["07:00", "02:00"],
-        "Thu": ["07:00", "02:00"],
-        "Fri": ["07:00", "02:00"],
-        "Sat": ["07:00", "02:00"],
-        "Sun": ["07:00", "02:00"]
+        "Mon": [
+          "07:00",
+          "02:00"
+        ],
+        "Tue": [
+          "07:00",
+          "02:00"
+        ],
+        "Wed": [
+          "07:00",
+          "02:00"
+        ],
+        "Thu": [
+          "07:00",
+          "02:00"
+        ],
+        "Fri": [
+          "07:00",
+          "02:00"
+        ],
+        "Sat": [
+          "07:00",
+          "02:00"
+        ],
+        "Sun": [
+          "07:00",
+          "02:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "SPRINGLEAF-PRATA",
       "name": "Springleaf Prata",
       "country": "Singapore",
-      "lat": 1.315710,
+      "lat": 1.31571,
       "lng": 103.757656,
       "rating": 5,
       "wait": 5,
@@ -611,10 +948,10 @@
       "foodType": "",
       "diet": "Any",
       "price": 2,
-      "tag":[
+      "tag": [
         "Michelin Guide",
         "Supper"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgGCd4o6sAfd-N-eHeUIe_hV0YM4I7xfq8vYWy3CHHTS5vAcAZ_wnsByhq7KuGgtSJ7Qb9OUQOwxnGwt_ro0gibGlOJXo4yIutaYH8NufGUFhvkK2EWhOH3JliqSgWSoAS5eu9sMUJy3SShQ4vnNiiJnOe882RH3U2_ICYuwx4fcbvb3CLDyQIFsMMAQA4=w480-h640"
       ],
@@ -622,17 +959,38 @@
       "phone": "+65 6996 4962",
       "website": "https://spplace.com/",
       "openHours": {
-        "Mon": ["00:00", "23:59"],
-        "Tue": ["00:00", "23:59"],
-        "Wed": ["00:00", "23:59"],
-        "Thu": ["00:00", "23:59"],
-        "Fri": ["00:00", "23:59"],
-        "Sat": ["00:00", "23:59"],
-        "Sun": ["00:00", "23:59"]
+        "Mon": [
+          "00:00",
+          "23:59"
+        ],
+        "Tue": [
+          "00:00",
+          "23:59"
+        ],
+        "Wed": [
+          "00:00",
+          "23:59"
+        ],
+        "Thu": [
+          "00:00",
+          "23:59"
+        ],
+        "Fri": [
+          "00:00",
+          "23:59"
+        ],
+        "Sat": [
+          "00:00",
+          "23:59"
+        ],
+        "Sun": [
+          "00:00",
+          "23:59"
+        ]
       }
     },
-    
     {
+      "FoodID": "CASUARINA-PRATA",
       "name": "Casuarina Prata",
       "country": "Singapore",
       "lat": 1.330386,
@@ -644,9 +1002,9 @@
       "dish": "Prata",
       "foodType": "",
       "diet": "Any",
-      "tag":[
+      "tag": [
         "Supper"
-        ],
+      ],
       "price": 2,
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgHOtZX1xhi6TKOVEgBWzSL2g-5ToAVfz2YTBh2jA8EtOdPYValtH-26_FwbVQQ21loCIIKgfzTFg4hU_aSppCYRapdisX0QF--1mxuhkctYxUNMZ1bS4UaGbj7ce9Bl71HmI4_I2kegMX9aUioJMgVqEMMbeYK7XfZO95fnPfN_CGjFJclQbHR100uAhs=w480-h640"
@@ -655,17 +1013,38 @@
       "phone": "+65 6285 9001",
       "website": "https://casuarinacatering.com/",
       "openHours": {
-        "Mon": ["10:00", "23:00"],
-        "Tue": ["10:00", "23:00"],
-        "Wed": ["10:00", "23:00"],
-        "Thu": ["10:00", "23:00"],
-        "Fri": ["10:00", "00:00"],
-        "Sat": ["08:00", "00:00"],
-        "Sun": ["08:00", "00:00"]
+        "Mon": [
+          "10:00",
+          "23:00"
+        ],
+        "Tue": [
+          "10:00",
+          "23:00"
+        ],
+        "Wed": [
+          "10:00",
+          "23:00"
+        ],
+        "Thu": [
+          "10:00",
+          "23:00"
+        ],
+        "Fri": [
+          "10:00",
+          "00:00"
+        ],
+        "Sat": [
+          "08:00",
+          "00:00"
+        ],
+        "Sun": [
+          "08:00",
+          "00:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "CHONG-PANG-NASI-LEMAK",
       "name": "Chong Pang Nasi Lemak",
       "country": "Singapore",
       "lat": 1.428008,
@@ -678,9 +1057,9 @@
       "foodType": "Rice",
       "diet": "Any",
       "price": 2,
-      "tag":[
+      "tag": [
         "Supper"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX08_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
@@ -689,37 +1068,79 @@
       "phone": "-",
       "openHours": {
         "Mon": [
-          ["00:00", "06:00"],
-          ["17:00", "23:59"]
+          [
+            "00:00",
+            "06:00"
+          ],
+          [
+            "17:00",
+            "23:59"
+          ]
         ],
         "Tue": [
-          ["00:00", "06:00"],
-          ["17:00", "23:59"]
+          [
+            "00:00",
+            "06:00"
+          ],
+          [
+            "17:00",
+            "23:59"
+          ]
         ],
         "Wed": [
-          ["00:00", "06:00"],
-          ["17:00", "23:59"]
+          [
+            "00:00",
+            "06:00"
+          ],
+          [
+            "17:00",
+            "23:59"
+          ]
         ],
         "Thu": [
-          ["00:00", "06:00"],
-          ["17:00", "23:59"]
+          [
+            "00:00",
+            "06:00"
+          ],
+          [
+            "17:00",
+            "23:59"
+          ]
         ],
         "Fri": [
-          ["00:00", "06:00"],
-          ["17:00", "23:59"]
+          [
+            "00:00",
+            "06:00"
+          ],
+          [
+            "17:00",
+            "23:59"
+          ]
         ],
         "Sat": [
-          ["00:00", "06:00"],
-          ["17:00", "23:59"]
+          [
+            "00:00",
+            "06:00"
+          ],
+          [
+            "17:00",
+            "23:59"
+          ]
         ],
         "Sun": [
-          ["00:00", "06:00"],
-          ["17:00", "23:59"]
+          [
+            "00:00",
+            "06:00"
+          ],
+          [
+            "17:00",
+            "23:59"
+          ]
         ]
       }
     },
-    
     {
+      "FoodID": "XIANG-FENG-NASI-LEMAK",
       "name": "Xiang Feng Nasi Lemak",
       "country": "Singapore",
       "lat": 1.345696,
@@ -740,17 +1161,35 @@
       "phone": "+65 9786 7919",
       "facebook": "https://www.facebook.com/xiangfengnasilemak/",
       "openHours": {
-        "Mon": ["07:30", "14:30"],
-        "Tue": ["07:30", "14:30"],
-        "Wed": ["07:30", "14:30"],
-        "Thu": ["07:30", "14:30"],
-        "Fri": ["07:30", "14:30"],
+        "Mon": [
+          "07:30",
+          "14:30"
+        ],
+        "Tue": [
+          "07:30",
+          "14:30"
+        ],
+        "Wed": [
+          "07:30",
+          "14:30"
+        ],
+        "Thu": [
+          "07:30",
+          "14:30"
+        ],
+        "Fri": [
+          "07:30",
+          "14:30"
+        ],
         "Sat": "Closed",
-        "Sun": ["07:30", "14:30"]
+        "Sun": [
+          "07:30",
+          "14:30"
+        ]
       }
     },
-    
     {
+      "FoodID": "PONGGOL-NASI-LEMAK",
       "name": "Ponggol Nasi Lemak",
       "country": "Singapore",
       "lat": 1.312857,
@@ -775,21 +1214,39 @@
       "phone": "+65 6293 0020",
       "website": "https://www.ponggolnasilemak.com.sg/",
       "openHours": {
-        "Mon": ["11:00", "21:00"],
-        "Tue": ["11:00", "21:00"],
-        "Wed": ["11:00", "21:00"],
+        "Mon": [
+          "11:00",
+          "21:00"
+        ],
+        "Tue": [
+          "11:00",
+          "21:00"
+        ],
+        "Wed": [
+          "11:00",
+          "21:00"
+        ],
         "Thu": "Closed",
-        "Fri": ["11:00", "21:00"],
-        "Sat": ["11:00", "21:00"],
-        "Sun": ["11:00", "21:00"]
+        "Fri": [
+          "11:00",
+          "21:00"
+        ],
+        "Sat": [
+          "11:00",
+          "21:00"
+        ],
+        "Sun": [
+          "11:00",
+          "21:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "BOON-LAY-POWER-NASI-LEMAK",
       "name": "Boon Lay Power Nasi Lemak",
       "country": "Singapore",
       "lat": 1.345696,
-      "lng": 103.71300,
+      "lng": 103.713,
       "rating": 5,
       "wait": 5,
       "diningSpot": "Hawker",
@@ -798,9 +1255,9 @@
       "foodType": "Rice",
       "diet": "Halal",
       "price": 2,
-      "tag":[
+      "tag": [
         "Supper"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
@@ -810,19 +1267,40 @@
       "phone": "-",
       "website": "https://powernasilemak.oddle.me/en_SG",
       "openHours": {
-        "Mon": ["07:00", "03:30"],
-        "Tue": ["07:00", "03:30"],
-        "Wed": ["07:00", "03:30"],
-        "Thu": ["07:00", "03:30"],
-        "Fri": ["07:00", "03:30"],
-        "Sat": ["07:00", "03:30"],
-        "Sun": ["07:00", "03:30"]
+        "Mon": [
+          "07:00",
+          "03:30"
+        ],
+        "Tue": [
+          "07:00",
+          "03:30"
+        ],
+        "Wed": [
+          "07:00",
+          "03:30"
+        ],
+        "Thu": [
+          "07:00",
+          "03:30"
+        ],
+        "Fri": [
+          "07:00",
+          "03:30"
+        ],
+        "Sat": [
+          "07:00",
+          "03:30"
+        ],
+        "Sun": [
+          "07:00",
+          "03:30"
+        ]
       }
     },
-    
     {
+      "FoodID": "TONG-KEE-CHICKEN-RICE",
       "name": "Tong Kee Chicken Rice",
-      "country": "Singapore",      
+      "country": "Singapore",
       "lat": 1.297458,
       "lng": 103.804915,
       "rating": 5,
@@ -844,17 +1322,32 @@
       "openHours": {
         "Mon": "Closed",
         "Tue": "Closed",
-        "Wed": ["09:30", "19:00"],
-        "Thu": ["09:30", "19:00"],
-        "Fri": ["09:30", "19:00"],
-        "Sat": ["09:30", "19:00"],
-        "Sun": ["09:30", "19:00"]
+        "Wed": [
+          "09:30",
+          "19:00"
+        ],
+        "Thu": [
+          "09:30",
+          "19:00"
+        ],
+        "Fri": [
+          "09:30",
+          "19:00"
+        ],
+        "Sat": [
+          "09:30",
+          "19:00"
+        ],
+        "Sun": [
+          "09:30",
+          "19:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "VICTOR-FAMOUS-FRIED-CHICKEN-WING-RICE-HAINANESE-CHICKEN-RICE",
       "name": "Victor Famous Fried Chicken Wing Rice & Hainanese Chicken Rice",
-      "country": "Singapore",      
+      "country": "Singapore",
       "lat": 1.307283,
       "lng": 103.855189,
       "rating": 5,
@@ -872,17 +1365,38 @@
       "address": "638 Veerasamy Rd, Yi He Eating House, #01-101, S(200638)",
       "phone": "-",
       "openHours": {
-        "Mon": ["11:30", "18:00"],
-        "Tue": ["11:30", "18:00"],
-        "Wed": ["11:30", "18:00"],
-        "Thu": ["11:30", "18:00"],
-        "Fri": ["11:30", "18:00"],
-        "Sat": ["11:30", "18:00"],
-        "Sun": ["11:30", "18:00"]
+        "Mon": [
+          "11:30",
+          "18:00"
+        ],
+        "Tue": [
+          "11:30",
+          "18:00"
+        ],
+        "Wed": [
+          "11:30",
+          "18:00"
+        ],
+        "Thu": [
+          "11:30",
+          "18:00"
+        ],
+        "Fri": [
+          "11:30",
+          "18:00"
+        ],
+        "Sat": [
+          "11:30",
+          "18:00"
+        ],
+        "Sun": [
+          "11:30",
+          "18:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "HAINANESE-DELICACY",
       "name": "Hainanese Delicacy",
       "country": "Singapore",
       "lat": 1.307255,
@@ -904,17 +1418,38 @@
       "phone": "+65 6734 0639",
       "facebook": "https://www.facebook.com/HainaneseDelicacySG/",
       "openHours": {
-        "Mon": ["11:00", "20:00"],
-        "Tue": ["11:00", "20:00"],
-        "Wed": ["11:00", "20:00"],
-        "Thu": ["11:00", "20:00"],
-        "Fri": ["11:00", "20:00"],
-        "Sat": ["11:00", "20:00"],
-        "Sun": ["11:00", "20:00"]
+        "Mon": [
+          "11:00",
+          "20:00"
+        ],
+        "Tue": [
+          "11:00",
+          "20:00"
+        ],
+        "Wed": [
+          "11:00",
+          "20:00"
+        ],
+        "Thu": [
+          "11:00",
+          "20:00"
+        ],
+        "Fri": [
+          "11:00",
+          "20:00"
+        ],
+        "Sat": [
+          "11:00",
+          "20:00"
+        ],
+        "Sun": [
+          "11:00",
+          "20:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "DELICIOUS-BONELESS-CHICKEN-RICE",
       "name": "Delicious Boneless Chicken Rice",
       "country": "Singapore",
       "lat": 1.304743,
@@ -937,19 +1472,37 @@
       "phone": "+65 9826 5197",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["11:00", "19:00"],
-        "Wed": ["11:00", "19:00"],
-        "Thu": ["11:00", "19:00"],
-        "Fri": ["11:00", "19:00"],
-        "Sat": ["11:00", "19:00"],
-        "Sun": ["11:00", "19:00"]
+        "Tue": [
+          "11:00",
+          "19:00"
+        ],
+        "Wed": [
+          "11:00",
+          "19:00"
+        ],
+        "Thu": [
+          "11:00",
+          "19:00"
+        ],
+        "Fri": [
+          "11:00",
+          "19:00"
+        ],
+        "Sat": [
+          "11:00",
+          "19:00"
+        ],
+        "Sun": [
+          "11:00",
+          "19:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "HUP-HONG-CHICKEN-RICE",
       "name": "Hup Hong Chicken Rice",
       "country": "Singapore",
-      "lat": 1.343440,
+      "lat": 1.34344,
       "lng": 103.738142,
       "rating": 5,
       "wait": 5,
@@ -966,20 +1519,38 @@
       "phone": "-",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["10:30", "17:30"],
-        "Wed": ["10:30", "17:30"],
-        "Thu": ["10:30", "17:30"],
-        "Fri": ["10:30", "17:30"],
-        "Sat": ["10:30", "17:30"],
-        "Sun": ["10:30", "17:30"]
+        "Tue": [
+          "10:30",
+          "17:30"
+        ],
+        "Wed": [
+          "10:30",
+          "17:30"
+        ],
+        "Thu": [
+          "10:30",
+          "17:30"
+        ],
+        "Fri": [
+          "10:30",
+          "17:30"
+        ],
+        "Sat": [
+          "10:30",
+          "17:30"
+        ],
+        "Sun": [
+          "10:30",
+          "17:30"
+        ]
       }
     },
-    
     {
+      "FoodID": "MARGARET-DR-SIN-KEE-CHICKEN-RICE",
       "name": "Margaret Dr Sin Kee Chicken Rice",
       "country": "Singapore",
       "lat": 1.307296,
-      "lng": 103.793460,
+      "lng": 103.79346,
       "rating": 4,
       "wait": 10,
       "diningSpot": "Coffee Shop",
@@ -988,9 +1559,9 @@
       "foodType": "Rice",
       "diet": "Any",
       "price": 2,
-      "tag":[
+      "tag": [
         "Michelin Guide"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEgwhrkKqBldReFxSHZhgtrb0Km6vM_3njDHEzAtxhYo4hPGQtNRVcbD7Ptl-9EaulAQIUo9DcTpUyew7krXqaPM2wz83d8ubeybYHX9viXltoP1sman3QzyPd3zGwz4d-BfASuH8TIvZ50wR6xe-DNtgcUczJ_NGOEhyXNfLrFNdKpX2Mji6geeEK3IJtw=w480-h640"
       ],
@@ -998,20 +1569,38 @@
       "phone": "+65 8428 7865",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["11:00", "20:00"],
-        "Wed": ["11:00", "20:00"],
-        "Thu": ["11:00", "20:00"],
-        "Fri": ["11:00", "20:00"],
-        "Sat": ["11:00", "20:00"],
-        "Sun": ["11:00", "20:00"]
+        "Tue": [
+          "11:00",
+          "20:00"
+        ],
+        "Wed": [
+          "11:00",
+          "20:00"
+        ],
+        "Thu": [
+          "11:00",
+          "20:00"
+        ],
+        "Fri": [
+          "11:00",
+          "20:00"
+        ],
+        "Sat": [
+          "11:00",
+          "20:00"
+        ],
+        "Sun": [
+          "11:00",
+          "20:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "MENG-KEE-FRIED-KWAY-TEOW",
       "name": "Meng Kee Fried Kway Teow",
       "country": "Singapore",
       "lat": 1.288079,
-      "lng": 103.829560,
+      "lng": 103.82956,
       "rating": 4,
       "wait": 10,
       "diningSpot": "Hawker",
@@ -1027,20 +1616,37 @@
       "phone": "-",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["09:00", "15:00"],
-        "Wed": ["09:00", "15:00"],
-        "Thu": ["09:00", "15:00"],
-        "Fri": ["09:00", "15:00"],
-        "Sat": ["09:00", "15:00"],
-        "Sun": ["Closed"]
+        "Tue": [
+          "09:00",
+          "15:00"
+        ],
+        "Wed": [
+          "09:00",
+          "15:00"
+        ],
+        "Thu": [
+          "09:00",
+          "15:00"
+        ],
+        "Fri": [
+          "09:00",
+          "15:00"
+        ],
+        "Sat": [
+          "09:00",
+          "15:00"
+        ],
+        "Sun": [
+          "Closed"
+        ]
       }
     },
-    
     {
+      "FoodID": "18-ZION-RD-FRIED-KWAY-TIAO",
       "name": "18 Zion Rd Fried Kway Tiao",
       "country": "Singapore",
       "lat": 1.292469,
-      "lng": 103.830930,
+      "lng": 103.83093,
       "rating": 4,
       "wait": 10,
       "diningSpot": "Hawker",
@@ -1055,20 +1661,37 @@
       "address": "70 Zion Rd, Zion Riverside Food Centre, #01-17, S(247792)",
       "phone": "+65 9868 5507",
       "openHours": {
-        "Mon": ["12:30", "21:00"],
+        "Mon": [
+          "12:30",
+          "21:00"
+        ],
         "Tue": "Closed",
-        "Wed": ["09:00", "15:00"],
-        "Thu": ["09:00", "15:00"],
-        "Fri": ["09:00", "15:00"],
-        "Sat": ["09:00", "15:00"],
-        "Sun": ["Closed"]
+        "Wed": [
+          "09:00",
+          "15:00"
+        ],
+        "Thu": [
+          "09:00",
+          "15:00"
+        ],
+        "Fri": [
+          "09:00",
+          "15:00"
+        ],
+        "Sat": [
+          "09:00",
+          "15:00"
+        ],
+        "Sun": [
+          "Closed"
+        ]
       }
     },
-    
     {
+      "FoodID": "TUAN-YUAN-PORK-RIBS-SOUP",
       "name": "Tuan Yuan Pork Ribs Soup",
       "country": "Singapore",
-      "lat": 1.281780,
+      "lat": 1.28178,
       "lng": 103.829136,
       "rating": 5,
       "wait": 10,
@@ -1078,9 +1701,9 @@
       "foodType": "Rice",
       "diet": "Any",
       "price": 3,
-      "tag":[
+      "tag": [
         "Michelin Guide"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEiHiqBkcP8vD1VpuUTcF3qgWik36Fss0myQIGgIqL9GsEHZ0IqvrEb19yuivjqzu73IcpZGizrj1bTEKuFP3EBbRGycL0hWrG8Ojn5zy0MSFRiktf3zGQSp0w22aQ1XUPfBNolR81MC8TiFeKQ_uOYxPjk4tk8DAmzssDYV08dxdUqUC3XxiBvxqksYzx0=w480-h640"
       ],
@@ -1089,33 +1712,69 @@
       "openHours": {
         "Mon": "Closed",
         "Tue": [
-          ["11:00", "14:30"],
-          ["17:00", "21:30"]
+          [
+            "11:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "21:30"
+          ]
         ],
         "Wed": [
-          ["11:00", "14:30"],
-          ["17:00", "21:30"]
+          [
+            "11:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "21:30"
+          ]
         ],
         "Thu": [
-          ["11:00", "14:30"],
-          ["17:00", "21:30"]
+          [
+            "11:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "21:30"
+          ]
         ],
         "Fri": [
-          ["11:00", "14:30"],
-          ["17:00", "21:30"]
+          [
+            "11:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "21:30"
+          ]
         ],
         "Sat": [
-          ["11:00", "14:30"],
-          ["17:00", "21:30"]
+          [
+            "11:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "21:30"
+          ]
         ],
         "Sun": [
-          ["11:00", "14:30"],
-          ["17:00", "21:30"]
+          [
+            "11:00",
+            "14:30"
+          ],
+          [
+            "17:00",
+            "21:30"
+          ]
         ]
       }
     },
-    
     {
+      "FoodID": "178-LOR-MEE",
       "name": "178 Lor Mee",
       "country": "Singapore",
       "lat": 1.284329,
@@ -1136,16 +1795,31 @@
       "phone": "-",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["07:00", "13:45"],
+        "Tue": [
+          "07:00",
+          "13:45"
+        ],
         "Wed": "Closed",
-        "Thu": ["07:00", "13:45"],
-        "Fri": ["07:00", "13:45"],
-        "Sat": ["07:00", "13:45"],
-        "Sun": ["07:00", "13:45"]
+        "Thu": [
+          "07:00",
+          "13:45"
+        ],
+        "Fri": [
+          "07:00",
+          "13:45"
+        ],
+        "Sat": [
+          "07:00",
+          "13:45"
+        ],
+        "Sun": [
+          "07:00",
+          "13:45"
+        ]
       }
     },
-    
     {
+      "FoodID": "FENG-ZHEN-LOR-MEE",
       "name": "Feng Zhen Lor Mee",
       "country": "Singapore",
       "lat": 1.335654,
@@ -1167,17 +1841,29 @@
       "address": "80 Jurong East Street 21, Devan Nair Institute, #01-05, S(609607)",
       "phone": "+65 9450 8541",
       "openHours": {
-        "Mon": ["07:30", "14:00"],
-        "Tue": ["07:30", "14:00"],
+        "Mon": [
+          "07:30",
+          "14:00"
+        ],
+        "Tue": [
+          "07:30",
+          "14:00"
+        ],
         "Wed": "Closed",
-        "Thu": ["07:30", "14:00"],
-        "Fri": ["07:30", "14:00"],
+        "Thu": [
+          "07:30",
+          "14:00"
+        ],
+        "Fri": [
+          "07:30",
+          "14:00"
+        ],
         "Sat": "Closed",
         "Sun": "Closed"
       }
     },
-    
     {
+      "FoodID": "TIONG-BAHRU-LOR-MEE",
       "name": "Tiong Bahru Lor Mee",
       "lat": 1.284329,
       "lng": 103.832161,
@@ -1196,20 +1882,38 @@
       "phone": "-",
       "openHours": {
         "Mon": "Closed",
-        "Tue": ["07:00", "19:00"],
-        "Wed": ["07:00", "19:00"],
-        "Thu": ["07:00", "19:00"],
-        "Fri": ["07:00", "19:00"],
-        "Sat": ["07:00", "19:00"],
-        "Sun": ["07:00", "19:00"]
+        "Tue": [
+          "07:00",
+          "19:00"
+        ],
+        "Wed": [
+          "07:00",
+          "19:00"
+        ],
+        "Thu": [
+          "07:00",
+          "19:00"
+        ],
+        "Fri": [
+          "07:00",
+          "19:00"
+        ],
+        "Sat": [
+          "07:00",
+          "19:00"
+        ],
+        "Sun": [
+          "07:00",
+          "19:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "CHEF-WANG-FRIED-RICE",
       "name": "Chef Wang Fried Rice",
       "country": "Singapore",
       "lat": 1.288079,
-      "lng": 103.829560,
+      "lng": 103.82956,
       "rating": 4,
       "wait": 10,
       "diningSpot": "Hawker",
@@ -1224,35 +1928,71 @@
       "address": "8A Beo Crescent Mkt, Beo Crescent Market, #01-71, S169982",
       "phone": "-",
       "openHours": {
-      "Mon": [
-        ["10:00", "15:00"],
-        ["16:30", "21:00"]
-      ],
-      "Tue": [
-        ["10:00", "15:00"],
-        ["16:30", "21:00"]
-      ],
-      "Wed": [
-        ["10:00", "15:00"],
-        ["16:30", "21:00"]
-      ],
-      "Thu": [
-        ["10:00", "15:00"],
-        ["16:30", "21:00"]
-      ],
-      "Fri": [
-        ["10:00", "15:00"],
-        ["16:30", "21:00"]
-      ],
-      "Sat": [
-      ["10:00", "15:00"],
-      ["16:30", "21:00"]
-      ],
-      "Sun": "Closed"
+        "Mon": [
+          [
+            "10:00",
+            "15:00"
+          ],
+          [
+            "16:30",
+            "21:00"
+          ]
+        ],
+        "Tue": [
+          [
+            "10:00",
+            "15:00"
+          ],
+          [
+            "16:30",
+            "21:00"
+          ]
+        ],
+        "Wed": [
+          [
+            "10:00",
+            "15:00"
+          ],
+          [
+            "16:30",
+            "21:00"
+          ]
+        ],
+        "Thu": [
+          [
+            "10:00",
+            "15:00"
+          ],
+          [
+            "16:30",
+            "21:00"
+          ]
+        ],
+        "Fri": [
+          [
+            "10:00",
+            "15:00"
+          ],
+          [
+            "16:30",
+            "21:00"
+          ]
+        ],
+        "Sat": [
+          [
+            "10:00",
+            "15:00"
+          ],
+          [
+            "16:30",
+            "21:00"
+          ]
+        ],
+        "Sun": "Closed"
       }
     },
-    
     {
+      "FoodID": "RESTORAN-KAK-KAK",
       "name": "Restoran Kak Kak, 佳佳点心茶楼",
       "country": "Malaysia",
       "lat": 1.480711,
@@ -1264,9 +2004,9 @@
       "dish": "Tim Sum",
       "diet": "Any",
       "price": 1,
-      "tag":[
+      "tag": [
         "Hidden Gem"
-        ],
+      ],
       "imgs": [
         "https://blogger.googleusercontent.com/img/a/AVvXsEjOhuQstIvzeW5EaXwHoGjLxpp4rFdpxLDwZiQXeV9vq2PpkQz5sysZ1q9f8yJ-m65N_POP596s8Kplg4u1DIsZkjC-lYcc2XJsae5xe0RGBVAvEtEpyfa60vABPNmNIF6uVRc0FAnUCzlQ19-CilvqZN9d6K62_G7PUdhKmpZbTJyK-tc0OB93tx-yTcQ=w480-h640",
         "https://blogger.googleusercontent.com/img/a/AVvXsEi6RacAWKIA2cBKGMZM4RNJFSu24HguaoV4hDWLl-VKCR6Rxt1oQTKmJvd3geNzU_7AUEWvnW98q4a2y5PVdzKonfA2xK0X8y6zDgXPqUgO5cLvMmK2eMQYtWjY5bU6KGevFAXvfGjEsgvXICIBTqciaqK-W_RsoMRM5L-Qs50YVyzsofeDVcZ6TwriDJM"
@@ -1274,20 +2014,38 @@
       "address": "9, Jalan Maju, Taman Maju Jaya, 80400 Johor Bahru, Johor, Malaysia",
       "phone": "+60 11-6518 9328",
       "openHours": {
-        "Mon": ["06:00", "13:00"],
+        "Mon": [
+          "06:00",
+          "13:00"
+        ],
         "Tue": "Closed",
-        "Wed": ["06:00", "13:00"],
-        "Thu": ["06:00", "13:00"],
-        "Fri": ["06:00", "13:00"],
-        "Sat": ["06:00", "13:00"],
-        "Sun": ["06:00", "13:00"]
+        "Wed": [
+          "06:00",
+          "13:00"
+        ],
+        "Thu": [
+          "06:00",
+          "13:00"
+        ],
+        "Fri": [
+          "06:00",
+          "13:00"
+        ],
+        "Sat": [
+          "06:00",
+          "13:00"
+        ],
+        "Sun": [
+          "06:00",
+          "13:00"
+        ]
       }
     },
-    
     {
+      "FoodID": "NIC-TOM-EATERY",
       "name": "Nic & Tom Eatery - 少年食堂",
       "country": "Singapore",
-      "lat": 1.281620,
+      "lat": 1.28162,
       "lng": 103.844572,
       "rating": 5,
       "wait": 5,
@@ -1306,15 +2064,30 @@
       "openHours": {
         "Mon": "Closed",
         "Tue": "Closed",
-        "Wed": ["10:30", "22:30"],
-        "Thu": ["10:30", "22:30"],
-        "Fri": ["10:30", "22:30"],
-        "Sat": ["10:30", "22:30"],
-        "Sun": ["10:30", "22:30"]
+        "Wed": [
+          "10:30",
+          "22:30"
+        ],
+        "Thu": [
+          "10:30",
+          "22:30"
+        ],
+        "Fri": [
+          "10:30",
+          "22:30"
+        ],
+        "Sat": [
+          "10:30",
+          "22:30"
+        ],
+        "Sun": [
+          "10:30",
+          "22:30"
+        ]
       }
     },
-    
     {
+      "FoodID": "RESTORAN-LEE",
       "name": "Restoran Lee",
       "country": "Malaysia",
       "lat": 2.250465,
@@ -1340,15 +2113,30 @@
       "openHours": {
         "Mon": "Closed",
         "Tue": "Closed",
-        "Wed": ["10:30", "22:30"],
-        "Thu": ["10:30", "22:30"],
-        "Fri": ["10:30", "22:30"],
-        "Sat": ["10:30", "22:30"],
-        "Sun": ["10:30", "22:30"]
+        "Wed": [
+          "10:30",
+          "22:30"
+        ],
+        "Thu": [
+          "10:30",
+          "22:30"
+        ],
+        "Fri": [
+          "10:30",
+          "22:30"
+        ],
+        "Sat": [
+          "10:30",
+          "22:30"
+        ],
+        "Sun": [
+          "10:30",
+          "22:30"
+        ]
       }
     },
-    
     {
+      "FoodID": "RESTORAN-DI-HWANG-YA",
       "name": "Restoran Di Hwang Ya",
       "country": "Malaysia",
       "lat": 2.250465,
@@ -1367,15 +2155,35 @@
       "address": "KSL City Mall, 33, Jalan Seladang, L2-132, Johor Bahru 80250",
       "phone": "-",
       "openHours": {
-        "Mon": ["08:00", "18:00"],
-        "Tue": ["08:00", "18:00"],
-        "Wed": ["08:00", "18:00"],
-        "Thu": ["08:00", "18:00"],
-        "Fri": ["08:00", "18:00"],
-        "Sat": ["08:00", "18:00"],
-        "Sun": ["08:00", "18:00"]
+        "Mon": [
+          "08:00",
+          "18:00"
+        ],
+        "Tue": [
+          "08:00",
+          "18:00"
+        ],
+        "Wed": [
+          "08:00",
+          "18:00"
+        ],
+        "Thu": [
+          "08:00",
+          "18:00"
+        ],
+        "Fri": [
+          "08:00",
+          "18:00"
+        ],
+        "Sat": [
+          "08:00",
+          "18:00"
+        ],
+        "Sun": [
+          "08:00",
+          "18:00"
+        ]
       }
     }
-    
   ]
 }
