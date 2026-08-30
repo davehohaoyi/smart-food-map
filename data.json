@@ -1,2189 +1,2189 @@
 {
-  "stalls": [
-    {
-      "FoodID": "BLANCO-PRAWN-NOODLE-HOUSE",
-      "name": "Blanco Prawn Noodle House",
-      "country": "Singapore",
-      "lat": 1.396071,
-      "lng": 103.873012,
-      "rating": 3,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Prawn Noodle",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 2,
-      "tag": [
-        "Local Favourite"
-      ],
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/07/blanco-prawn-noodle-house.html",
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEge-As2SnFOqXRFjT5LAuYn0TXzv7LcnrKicrRk24a1jNR5vz_djwtPHcUPNlhtrKPv7f_ruK7F2lSqVavJC_H_Hhq7HWl-g0pzRCSaTmWm1ljL2zkygozkAWiV3xe0rGpIiTRIDowUGLrYgiRWFhsnuaxz4jode-ZnRkPAnSQN6Chwlfeg9VUq5XwZnbM"
-      ],
-      "address": "235 Jalan Kayu, S(799459)",
-      "phone": "+65 8920 4175",
-      "openHours": {
-        "Mon": [
-          "07:00",
-          "16:00"
-        ],
-        "Tue": "Closed",
-        "Wed": [
-          "07:00",
-          "16:00"
-        ],
-        "Thu": [
-          "07:00",
-          "16:00"
-        ],
-        "Fri": [
-          "07:00",
-          "16:00"
-        ],
-        "Sat": [
-          "07:00",
-          "16:00"
-        ],
-        "Sun": [
-          "07:00",
-          "16:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "ZION-RD-BIG-PRAWN-NOODLE",
-      "name": "Zion Rd Big Prawn Noodle",
-      "country": "Singapore",
-      "lat": 1.292469,
-      "lng": 103.83093,
-      "rating": 4,
-      "wait": 10,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Prawn Noodle",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 3,
-      "tag": [
-        "Michelin Guide"
-      ],
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/08/zion-rd-big-prawn-noodle.html",
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjRV5s7KcrVyvWaF57ZoAR3LSdWRtPugeY7XfgdNu9KTMRZcg30NEqa_PED-sdoDpGN9yNAwRJsvn2wO-wRoWByWs7Iz7cZ96PFk6WOVP-zlfXNJB6FWuIvWeGhAP2FKR8_QjwUycgsx8mXupJkNNULeMXacIDXuuxAHiq33hhtw7lZykY-eeUqYpdwrJ4=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgVLrbn1TB_lBKW0boLczT_5YyZncndlCfph7g_cnFpvcda7YzGcf5A-JLpsia2__Hybg3bFhYOvEXaOSj0cYMu0x-e6PzVUkwUPf_1xk1AEf1Yv-jxskPuDpTdIgQgNCxwvwKyrG19EjMNG7v5W0OjqawAcdBEG_8NxFd0hjnUdLLNMt_-BNkDE5KMWSI=w640-h480"
-      ],
-      "address": "70 Zion Rd, Zion Riverside Food Centre, #01-04, S(247792)",
-      "phone": "+65 8920 4175",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "16:30",
-          "03:00"
-        ],
-        "Wed": [
-          "16:30",
-          "03:00"
-        ],
-        "Thu": [
-          "16:30",
-          "03:00"
-        ],
-        "Fri": [
-          "16:30",
-          "03:00"
-        ],
-        "Sat": [
-          "16:30",
-          "03:00"
-        ],
-        "Sun": [
-          "16:30",
-          "03:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "RESTORAN-WOON-59",
-      "name": "Restoran Woon 59",
-      "country": "Malaysia",
-      "lat": 1.486651,
-      "lng": 103.769483,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Abalone Noodle",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "facebook": "https://www.facebook.com/carrotcubes/",
-      "price": 2,
-      "tag": [
-        "Hidden Gem",
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhnL-bcen_eP2fwKZyHYYlr-T5l6OtHAYNO_bygpwM4SqVx0VUa6DEUCo91XcxF5fQQ1KIGPHAtrNxUHtNI_f0eoluTaNlcbW9TOFUKDg0N10_FmkQSZxV4NkQqznYpNZYR24oGdkmgkYxEGb2bT696Q0vEWnPOFDXwY0h_8VGJn5YOpOcswEdWKLNmy_U=w480-h640"
-      ],
-      "address": "14 Jalan Kelewang ,Taman Sri Terbau, Johor Bahru, Malaysia)",
-      "phone": "+60 13-559 9959",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "00:00",
-          "23:59"
-        ],
-        "Wed": [
-          "00:00",
-          "23:59"
-        ],
-        "Thu": [
-          "00:00",
-          "23:59"
-        ],
-        "Fri": [
-          "00:00",
-          "23:59"
-        ],
-        "Sat": [
-          "00:00",
-          "23:59"
-        ],
-        "Sun": [
-          "00:00",
-          "23:59"
-        ]
-      }
-    },
-    {
-      "FoodID": "RESTORAN-AH-PIAO",
-      "name": "Restoran Ah Piao",
-      "country": "Malaysia",
-      "lat": 1.486474,
-      "lng": 103.769335,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Abalone Noodle",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "facebook": "https://www.facebook.com/ahpiawnoodlehouse/?_rdr",
-      "price": 2,
-      "tag": [
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiTtv7vhqhNbxiGNhvfcYqTGT12NkKL8iUT2ZE-PaEk4078UIBa1KfsbzQj5O3UQZmvAdh0i25JGUNw0l_eAUS_HNVYtoAYzmQgQdRPDpcGpior1t1qyuYCGqegOIsmxL7XPqvVscMUpUg34RjssxBUu3LXV8pX4-p9rIRmiZso2uecEM8U2P_S3_LN3mw"
-      ],
-      "address": "20, 12, Jalan Kelewang, Taman Sri Tebrau, 80050 Johor Bahru, Johor Darul Ta'zim, Malaysia",
-      "phone": "+60 12-775 0995",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          [
-            "11:30",
-            "15:00"
-          ],
-          [
-            "18:00",
-            "21:30"
-          ]
-        ],
-        "Wed": [
-          [
-            "11:30",
-            "15:00"
-          ],
-          [
-            "18:00",
-            "21:30"
-          ]
-        ],
-        "Thu": [
-          [
-            "11:30",
-            "15:00"
-          ],
-          [
-            "18:00",
-            "21:30"
-          ]
-        ],
-        "Fri": [
-          [
-            "11:30",
-            "15:00"
-          ],
-          [
-            "18:00",
-            "21:30"
-          ]
-        ],
-        "Sat": [
-          [
-            "11:30",
-            "15:00"
-          ],
-          [
-            "18:00",
-            "21:30"
-          ]
-        ],
-        "Sun": [
-          [
-            "11:30",
-            "15:00"
-          ],
-          [
-            "18:00",
-            "21:30"
-          ]
-        ]
-      }
-    },
-    {
-      "FoodID": "CARROT-CUBES",
-      "name": "Carrot Cubes",
-      "country": "Singapore",
-      "lat": 1.375677,
-      "lng": 103.900883,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Carrot Cake",
-      "foodType": "Rice Cake",
-      "diet": "Any",
-      "price": 2,
-      "facebook": "https://www.facebook.com/carrotcubes/",
-      "tag": [
-        "Local Favourite",
-        "Breakfast"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
-      ],
-      "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
-      "phone": "+65 9188 7670",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "07:00",
-          "14:45"
-        ],
-        "Wed": [
-          "07:00",
-          "14:45"
-        ],
-        "Thu": [
-          "07:00",
-          "14:45"
-        ],
-        "Fri": [
-          "07:00",
-          "14:45"
-        ],
-        "Sat": [
-          "07:00",
-          "14:45"
-        ],
-        "Sun": [
-          "07:00",
-          "14:45"
-        ]
-      }
-    },
-    {
-      "FoodID": "CHEY-SUA-CARROT-CAKE",
-      "name": "Chey Sua Carrot Cake, 青山菜头粿",
-      "country": "Singapore",
-      "lat": 1.3381,
-      "lng": 103.844727,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Carrot Cake",
-      "foodType": "Rice Cake",
-      "diet": "Any",
-      "price": 2,
-      "facebook": "https://www.facebook.com/p/Chey-Sua-Carrot-Cake-100057385842875/?locale=zh_CN",
-      "tag": [
-        "Michelin Guide",
-        "Breakfast"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEguLEZ4-XQMjip8o9pTEMh9P_JIkLR7c7e0rqSj7_j5U3H9md7LwP1xnCLzGHyi71RtVlB1ZxQI1QssAWJxnysu5gb-hDJXG3-a3gXaq4sQ0sv8ppopdWMPbv42g2wPB7pztGip_WNeHXm7Ztec0JLkzT9rFccjaRYfoZ2usxv_RZfvUQj7ha2CBeXcnX8"
-      ],
-      "address": "127 Toa Payoh Lor 1, Mkt & Food Cente, #02-30, S310127)",
-      "phone": "-",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
-        "Wed": [
-          "06:30",
-          "13:00"
-        ],
-        "Thu": [
-          "06:30",
-          "13:00"
-        ],
-        "Fri": [
-          "06:30",
-          "13:00"
-        ],
-        "Sat": [
-          "06:30",
-          "13:00"
-        ],
-        "Sun": [
-          "06:30",
-          "13:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "HAI-NAN-ZAI",
-      "name": "Hai Nan Zai",
-      "country": "Singapore",
-      "lat": 1.431841,
-      "lng": 103.828153,
-      "rating": 3,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": [
-        "Carrot Cake",
-        "Fried Kway Teow"
-      ],
-      "foodType": [
-        "Rice Cake",
-        "Noodle"
-      ],
-      "diet": "Any",
-      "price": 1,
-      "tag": [
-        "Michelin Guide"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgq3hJ7vJRJ8J-IdlhRtk0-8zrJYu5dWjrTGN-caF17kiECv7C2bp_v2LocndAKC3wqGhsek3_aEwHicYA-Oqpmw7CcvfAzO3HEH7IRHMczt7D0eWtgIWL9j0KmRI4aRVGyFoB4MNOfL7L1kd5wN6DYgiLqL-L2OGVxFzRfLaG31w9PbR5frXjzM3nzAVo=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEihQg3b007bKSzu9iEuOiiZwriS3c_pdWobfBp9iWu5aqygZRvfsYcnsEonP0i6tDwRJgWJ1vA-q5756ndKQjcViIL1xBKicNQ8fJaZOd8ZdfSXqBs4U_sRPaVB5gXrnZX82u4whKMogKktcvy4NJE0XUx0_ppYYCKkM2JN24cTzMwnuWr660jpGy3dHEI"
-      ],
-      "address": "105 Yishun Ring Road, Chong Pang Market & Food Centre, #01-129, S(760105)",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "08:30",
-          "21:00"
-        ],
-        "Tue": [
-          "08:30",
-          "21:00"
-        ],
-        "Wed": [
-          "08:30",
-          "21:00"
-        ],
-        "Thu": [
-          "08:30",
-          "21:00"
-        ],
-        "Fri": [
-          "08:30",
-          "21:00"
-        ],
-        "Sat": [
-          "08:30",
-          "21:00"
-        ],
-        "Sun": [
-          "08:30",
-          "21:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "FRESH-FROG-PORRIDGE-GEYLANG",
-      "name": "Fresh Frog Porridge",
-      "country": "Singapore",
-      "lat": 1.312264,
-      "lng": 103.87654,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Frog Porridge",
-      "diet": "Any",
-      "price": 3,
-      "website": "https://geylanglor9.com/",
-      "facebook": "https://www.facebook.com/geylanglor9/",
-      "tag": [
-        "Dinner",
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgLu_rYgNLlhcib7Dhwk77vq4fUtAInH5taYQbdBbtPSYr1BfnGKXOmgn7nwdOMSxiop3RytktiyjXPO7TntoZKaQe4Z0V9yI3MQkclMHB-5AEjxFMqQtyPryDLw-bptvvvm1tNcXnF8mH6CyiOi3A9pKaMZdNWjArnqyW1p_NKqMj0G8ZbWP6OpiQgpyw",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEi1qvtyGn7Mnwj6jpxRIg9MdCMzmjg0i3B6yKqt0GGUCf5Q0rj3vg9DgL4BjgBBKRuvfq5SsqkGbBKOXrq4lSBNdAytqW5meMJTbsj0fACE3ppkrxaaG4wqFZed-zI7KTl9XitsTXTKUv-xsH5TkUACTtUE1jQPa5bIGjBSL9C209KrAaD0dewKP8JiKcI=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiH06rXXbxgdImaSG66-ahhU4GJiIjIlUUbRPk7Lra34OQxgDklLLzua_vdTJlOMMm2VMmNQBJndJsQ5C7gQC_WNQrwyhMuoyIco85Awhx2ZSIgNJB9LGDKiKtxuD8t_zJgXpuyJAP2yzCCpF9IMp556JZxxsx9Vchjoz1Zquoo2EvjPCG9nsxw7UWdJsw",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEg5mabYCqW2nDxqugb14ZjMIGGv5ZgNVbPM4McLBvX_dA4IYjOxrnEwhLWxiLuMEJLMm9-IJrZQgwhYlEWMRFp0xfKOS8UE_Aj3w0ewmEc4ZTSfxM6JIi-UOkxBvmAKAEX_YlDjR_8g3uPwxnzK139mJe7siIMdGzyc0KQu853BTshQcgh8jmWsLxDPbCc"
-      ],
-      "address": "235 Geylang Road, Lor 9, S(389294)",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "11:00",
-          "04:00"
-        ],
-        "Tue": [
-          "11:00",
-          "04:00"
-        ],
-        "Wed": [
-          "11:00",
-          "04:00"
-        ],
-        "Thu": [
-          "11:00",
-          "04:00"
-        ],
-        "Fri": [
-          "11:00",
-          "04:00"
-        ],
-        "Sat": [
-          "11:00",
-          "04:00"
-        ],
-        "Sun": [
-          "11:00",
-          "04:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "FRESH-FROG-PORRIDGE-JB",
-      "name": "Fresh Frog Porridge",
-      "country": "Malaysia",
-      "lat": 1.485208,
-      "lng": 103.760759,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Frog Porridge",
-      "diet": "Any",
-      "price": 3,
-      "website": "https://geylanglor9.com/",
-      "facebook": "https://www.facebook.com/geylanglor9/",
-      "tag": [
-        "Dinner",
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjIHAGg0VNe6Dr391LfwDhtRw_1NPTHQkdvmSh2K_p6tjs4pibfGWfK7PqD29YbLRnNOSO9PgbYfvIqamoAxQKEOLXj3__tnT7JfeobR46cTKAi6oXPD91dXMtYfLh62styuktojf8f3ZG8lg0TJKhs4XKuKg6Su8sE0gMald19MmMOBcfQgybIT4EYdu0=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjgRi2dhqd6eiF-7XRkJOVdWwXMI7HHoXS9uu9jhcXzLzheX5mleNyuu00XOzhVEXPj3zCgQa0PuRTkZykRxSjnunnYB5BdoCwQpZbEzMSrOA1yEA6CRLE9zuuFM0B3HqJ1jxs5vWasGPFJw-9UFZY2PX3W7ZGraciwGbJTAHOPe2SHvpr0KurPDpKsvw4"
-      ],
-      "address": "12, Jalan Serigala Century Garden, 80250 Johor Bahru, Johor",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "18:00",
-          "04:00"
-        ],
-        "Tue": [
-          "18:00",
-          "04:00"
-        ],
-        "Wed": [
-          "18:00",
-          "04:00"
-        ],
-        "Thu": [
-          "18:00",
-          "04:00"
-        ],
-        "Fri": [
-          "18:00",
-          "04:00"
-        ],
-        "Sat": [
-          "18:00",
-          "04:00"
-        ],
-        "Sun": [
-          "18:00",
-          "04:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "GIMEE-FACE-491-JURONG-WEST-AVE-1",
-      "name": "Gimee Face (491 Jurong West Ave 1)",
-      "country": "Singapore",
-      "lat": 1.349558,
-      "lng": 103.726632,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Bak Chor Mee",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 2,
-      "facebook": "https://www.facebook.com/GimeeFace",
-      "tag": [
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEimTdcR83S54HFtAQDRZFruSbDzjWDzKv8Kt6axGIhqf1aDNZ_IO-By9ISKNe77k-rbqOnp1zRliNrdrzRa74xSTait0_GsehCVmtc85wQ42pMwu5X8es5QawtkjA-CLoxjdeBRVRY0R4fvfBXzJtWgamtQEWzZ-JlZNVndYnu_sLLGhyq-MRxOh1Rbnzw"
-      ],
-      "address": "491 Jurong West Ave 1, #01-173, S(640491)",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "00:00",
-          "23:59"
-        ],
-        "Tue": [
-          "00:00",
-          "23:59"
-        ],
-        "Wed": [
-          "00:00",
-          "23:59"
-        ],
-        "Thu": [
-          "00:00",
-          "23:59"
-        ],
-        "Fri": [
-          "00:00",
-          "23:59"
-        ],
-        "Sat": [
-          "00:00",
-          "23:59"
-        ],
-        "Sun": [
-          "00:00",
-          "23:59"
-        ]
-      }
-    },
-    {
-      "FoodID": "FAMOUS-EUNOS-BAK-CHOR-MEE-EUNOS",
-      "name": "Famous Eunos Bak Chor Mee (Eunos)",
-      "country": "Singapore",
-      "lat": 1.320068,
-      "lng": 103.903586,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Bak Chor Mee",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 1,
-      "facebook": "https://www.facebook.com/famouseunosbakchormee/",
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/07/famous-eunos-bak-chor-mee-eunos.html",
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgozmjPO8vnM3oCRuaCg9E7dESv1m_BrF0g4OhpwrvvFA5VKiFZ_r_jyT_D-zlNa9Yyquau-R7_Xr3RPTaykw7X7DOBZie1hLJci4xiFjbrfvx36Z-MIQdeaNQMBphJtISgCWFawHHbJj5p53uopdOEVN0ohMtR6qAgNNJTcmOMO3AWIH0kk7iecZxTrTA",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgclyVjrUkpktgYz8AEVSAkO7gWORnzY1qWgZx-Cu8mrq094H1p0BUjN7HUhAeu5kpm3ErUNLTwMdUK6ki67Id5eRYqdF4IemEaRgdRwgObBEli_v9OlD0aZxqJdnbd5XRL_J_uQ63CnNl4lR94Xe7Kry_8RulGhcdkRtbfMam_Gv0s5CNprggouLfZ6Qs"
-      ],
-      "address": "7 Eunos Crescent, Hong Lee Coffee Shop, S(400007)",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "06:00",
-          "19:30"
-        ],
-        "Tue": [
-          "06:00",
-          "19:30"
-        ],
-        "Wed": [
-          "06:00",
-          "19:30"
-        ],
-        "Thu": [
-          "06:00",
-          "19:30"
-        ],
-        "Fri": [
-          "06:00",
-          "19:30"
-        ],
-        "Sat": [
-          "06:00",
-          "19:30"
-        ],
-        "Sun": [
-          "06:00",
-          "19:30"
-        ]
-      }
-    },
-    {
-      "FoodID": "DO-ME-CHICKEN-CUTLET",
-      "name": "Do & Me Chicken Cutlet",
-      "country": "Singapore",
-      "lat": 1.422716,
-      "lng": 103.8403,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Western Food",
-      "dish": [
-        "Chicken Chop",
-        "Chicken Cutlet"
-      ],
-      "foodType": "",
-      "diet": "Any",
-      "price": 2,
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/07/do-me-chicken-cutlet.html",
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEi02nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk08pH8"
-      ],
-      "address": "654 Yishun Ave 4, S(760654)",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "11:00",
-          "22:00"
-        ],
-        "Tue": [
-          "11:00",
-          "22:00"
-        ],
-        "Wed": [
-          "11:00",
-          "22:00"
-        ],
-        "Thu": "Closed",
-        "Fri": [
-          "11:00",
-          "22:00"
-        ],
-        "Sat": [
-          "11:00",
-          "22:00"
-        ],
-        "Sun": [
-          "11:00",
-          "22:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "GOLDEN-ROOSTER-TOA-PAYOH",
-      "name": "Golden Rooster (Toa Payoh)",
-      "country": "Singapore",
-      "lat": 1.334564,
-      "lng": 103.849678,
-      "rating": 3,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Western Food",
-      "dish": [
-        "Chicken Chop",
-        "Chicken Cutlet"
-      ],
-      "foodType": "",
-      "diet": "Any",
-      "price": 2,
-      "tag": [
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEi02nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk08pH8"
-      ],
-      "address": "78C Toa Payoh Central, #01-77, S(313078)",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "11:30",
-          "01:00"
-        ],
-        "Tue": [
-          "11:30",
-          "01:00"
-        ],
-        "Wed": [
-          "11:30",
-          "01:00"
-        ],
-        "Thu": [
-          "11:30",
-          "01:00"
-        ],
-        "Fri": [
-          "11:30",
-          "01:00"
-        ],
-        "Sat": [
-          "11:30",
-          "01:00"
-        ],
-        "Sun": [
-          "11:30",
-          "01:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "NO-1-WESTERN-FOOD",
-      "name": "No 1 Western Food",
-      "country": "Singapore",
-      "lat": 1.297458,
-      "lng": 103.804915,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Western Food",
-      "dish": [
-        "Chicken Chop",
-        "Chicken Cutlet"
-      ],
-      "foodType": "",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjtqgGkQ-Nxk186XtTH9peEp-e7GjkTShenx5k-KoYTiYMxQp1eVv7dByu2cjzwupKJe9nnDarKvScfFglW7EZQ2fZeGQKOl-OM2hIwWho-2fww3ejU0KgCoqy38MSAd7q68f6vUE5dHrfMEOXVUnQ6k85MJBw3bpzsqIK31gC6P_5nrRBsYO7hX3df43w=w480-h640"
-      ],
-      "address": "38A Margaret Dr, Margaret Dr Food Centre, #02-30, S(142038)",
-      "phone": "+65 8474 3930",
-      "openHours": {
-        "Mon": [
-          "11:00",
-          "19:00"
-        ],
-        "Tue": [
-          "11:00",
-          "19:00"
-        ],
-        "Wed": "Closed",
-        "Thu": "Closed",
-        "Fri": [
-          "11:00",
-          "19:00"
-        ],
-        "Sat": [
-          "11:00",
-          "19:00"
-        ],
-        "Sun": [
-          "11:00",
-          "19:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "APOLLO-WESTERN-FOOD",
-      "name": "Apollo Western Food",
-      "country": "Singapore",
-      "lat": 1.354101,
-      "lng": 103.89009,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Western Food",
-      "dish": [
-        "Chicken Chop",
-        "Chicken Cutlet"
-      ],
-      "foodType": "",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgNjWe4zwuPtN54jXGvvoa1eW7d5EPx2C1cvXNJLumokr2W02xo4Jh4qhKDwwVIktMYVKtYUFgxCvSKl3fLVewbRJAbETjPUbX07-WedZJRwNLAU2xDZMtbqQgZ5JFBGMllqrBkADIoNkKpPBmaTqzdOay2AmjqlAC8YPgtDi3XygcNNRDWnoczOWGUjRw=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEj763zIHphBlyb34rC9d2i3fWyNwc9aD6_wdil-hccGaXSiPoYV7CoNob5iWb2fTfjKD0CS5CTdtVJiL0uRnHeGmKAv-nKkpaX9paSFsQvo1xTpUmgKgK7_2EvXbE610y_wkAWCL1_9f8jLpJtppPxVNfawWTqxZycH7gK5WWQujSNIyiW3Vs_syvwkww4",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhLHpY6VRIbjQPkVkAgEqkA4fpm_t6WxFEPuu4g5OYtOdVTw2scybw-OEBlwSQpCxW2S8m5PBlmsozZR6z_gBe-9q1InHoAOU3qFpuCWByo5vVaL44I0C_mEbhNCbaFTultR3h1w-3OUH3DMGH_pRFTRG-wPgpC6ypjXKpCGJJoQ4b_FzYJ2dEgBPg_vRc=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEh2RK1YGdiZRUrUXZs1SYRAZxL33pPiAR4GiYYVLgdBak_AWrEt5RCPOwcBQYolAXrBKiaLALunpFUezdFhJB1pPNZrMX5Dy1JtVA9T_wgn6zQrbhUqd6XeiUew9K1JKN-CVDmo9c7hxmSGc531x_lJuPe8Z_ErENmi3lyaYUoOiTyg-oijIRNDNUiJkKA=w480-h640"
-      ],
-      "address": "105 Hougang Ave 1, Hainanese Village Ctr, #02-32, S530105)",
-      "phone": "-",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
-        "Wed": [
-          "12:00",
-          "20:15"
-        ],
-        "Thu": [
-          "12:00",
-          "20:15"
-        ],
-        "Fri": [
-          "12:00",
-          "20:15"
-        ],
-        "Sat": [
-          "11:00",
-          "19:00"
-        ],
-        "Sun": [
-          "11:00",
-          "19:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "CHINDAMANI-INDIAN-FOOD-FOOD-STALL-SERANGOON",
-      "name": "Chindamani indian food Food Stall (Serangoon)",
-      "country": "Singapore",
-      "lat": 1.369785,
-      "lng": 103.873321,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Indian Food",
-      "dish": "Prata",
-      "foodType": "",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhWzJVqfzn2z2J6RYFQWoweoY6f-_LxklKVBBD5B_ZblH9XIDhXla5Wq-MSKjjtiS0FUzaX4CbS2ZV2aPHy3O3UQ3Y275stQfP8AsfKNBX7_aKZ7m2QX77Ao7CfcB30dOlxhu7tjI2tvJOn4ll6WWGcnxFLbDdFr-ocACyk9AKPzgWq4LnlUyM2Gz_Yc_k=w480-h640"
-      ],
-      "address": "151A Serangoon North Ave 1, #01-81, S(551151)",
-      "phone": "-",
-      "facebook": "https://www.facebook.com/profile.php?id=100063722283440&locale=en_GB#",
-      "openHours": {
-        "Mon": [
-          "06:00",
-          "21:00"
-        ],
-        "Tue": [
-          "06:00",
-          "21:00"
-        ],
-        "Wed": [
-          "06:00",
-          "21:00"
-        ],
-        "Thu": [
-          "06:00",
-          "21:00"
-        ],
-        "Fri": [
-          "06:00",
-          "21:00"
-        ],
-        "Sat": [
-          "06:00",
-          "21:00"
-        ],
-        "Sun": [
-          "06:00",
-          "21:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "THE-ROTI-PRATA-HOUSE",
-      "name": "The Roti Prata House",
-      "country": "Singapore",
-      "lat": 1.353804,
-      "lng": 103.834196,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Indian Food",
-      "dish": "Prata",
-      "foodType": "",
-      "diet": "Any",
-      "price": 2,
-      "tag": [
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiplW6X2kjMpyxZ0L5tztRB4P9gZDBddMtikRGrA3mGXYdOxK8FuIyft-xZuwMUVvSMdNGiI8EZhY9c1po9YB_AKoDIOGfMsVi0XoUVgX5p4W7hb9HCJXi3CMQywfDMzJkyx2KijelMG4g8GbV7VrFVSihIGS72TGJLMIM5ORO-q6MDR4_Q7Fsv4EwYYGA=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjEQrBhu83jkIVKBkOTNcbx5Jeiv3dGBiCcSYuMPTL5zIjEGVfbxO3s75t7IjGEj2qkIdxwIgJXJKG8KNLvTaVMINvMKdBP5T1IasLUussls6gQ-41zVJdhdartvs2fPhc4ALwq7bC-KSCX37uTfUoCH3LMfreABxz5eQ5ux2Ay97CJYnMTWI2_3WzhUZQ"
-      ],
-      "address": "246M Upper Thomson Rd, S(574370)",
-      "phone": "+65 9138 9696",
-      "website": "https://therotipratahouse.sg/",
-      "openHours": {
-        "Mon": [
-          "07:00",
-          "02:00"
-        ],
-        "Tue": [
-          "07:00",
-          "02:00"
-        ],
-        "Wed": [
-          "07:00",
-          "02:00"
-        ],
-        "Thu": [
-          "07:00",
-          "02:00"
-        ],
-        "Fri": [
-          "07:00",
-          "02:00"
-        ],
-        "Sat": [
-          "07:00",
-          "02:00"
-        ],
-        "Sun": [
-          "07:00",
-          "02:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "SPRINGLEAF-PRATA",
-      "name": "Springleaf Prata",
-      "country": "Singapore",
-      "lat": 1.31571,
-      "lng": 103.757656,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Indian Food",
-      "dish": "Prata",
-      "foodType": "",
-      "diet": "Any",
-      "price": 2,
-      "tag": [
-        "Michelin Guide",
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgGCd4o6sAfd-N-eHeUIe_hV0YM4I7xfq8vYWy3CHHTS5vAcAZ_wnsByhq7KuGgtSJ7Qb9OUQOwxnGwt_ro0gibGlOJXo4yIutaYH8NufGUFhvkK2EWhOH3JliqSgWSoAS5eu9sMUJy3SShQ4vnNiiJnOe882RH3U2_ICYuwx4fcbvb3CLDyQIFsMMAQA4=w480-h640"
-      ],
-      "address": "1 West Coast Dr, 01-108/109, NEWest, S(128020)",
-      "phone": "+65 6996 4962",
-      "website": "https://spplace.com/",
-      "openHours": {
-        "Mon": [
-          "00:00",
-          "23:59"
-        ],
-        "Tue": [
-          "00:00",
-          "23:59"
-        ],
-        "Wed": [
-          "00:00",
-          "23:59"
-        ],
-        "Thu": [
-          "00:00",
-          "23:59"
-        ],
-        "Fri": [
-          "00:00",
-          "23:59"
-        ],
-        "Sat": [
-          "00:00",
-          "23:59"
-        ],
-        "Sun": [
-          "00:00",
-          "23:59"
-        ]
-      }
-    },
-    {
-      "FoodID": "CASUARINA-PRATA",
-      "name": "Casuarina Prata",
-      "country": "Singapore",
-      "lat": 1.330386,
-      "lng": 103.875377,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Indian Food",
-      "dish": "Prata",
-      "foodType": "",
-      "diet": "Any",
-      "tag": [
-        "Supper"
-      ],
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgHOtZX1xhi6TKOVEgBWzSL2g-5ToAVfz2YTBh2jA8EtOdPYValtH-26_FwbVQQ21loCIIKgfzTFg4hU_aSppCYRapdisX0QF--1mxuhkctYxUNMZ1bS4UaGbj7ce9Bl71HmI4_I2kegMX9aUioJMgVqEMMbeYK7XfZO95fnPfN_CGjFJclQbHR100uAhs=w480-h640"
-      ],
-      "address": "187 Macpherson Road S(348545)",
-      "phone": "+65 6285 9001",
-      "website": "https://casuarinacatering.com/",
-      "openHours": {
-        "Mon": [
-          "10:00",
-          "23:00"
-        ],
-        "Tue": [
-          "10:00",
-          "23:00"
-        ],
-        "Wed": [
-          "10:00",
-          "23:00"
-        ],
-        "Thu": [
-          "10:00",
-          "23:00"
-        ],
-        "Fri": [
-          "10:00",
-          "00:00"
-        ],
-        "Sat": [
-          "08:00",
-          "00:00"
-        ],
-        "Sun": [
-          "08:00",
-          "00:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "CHONG-PANG-NASI-LEMAK",
-      "name": "Chong Pang Nasi Lemak",
-      "country": "Singapore",
-      "lat": 1.428008,
-      "lng": 103.827489,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Nasi Lemak",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "tag": [
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX08_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
-      ],
-      "address": "447 Sembawang Rd, S(758404)",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          [
-            "00:00",
-            "06:00"
-          ],
-          [
-            "17:00",
-            "23:59"
-          ]
-        ],
-        "Tue": [
-          [
-            "00:00",
-            "06:00"
-          ],
-          [
-            "17:00",
-            "23:59"
-          ]
-        ],
-        "Wed": [
-          [
-            "00:00",
-            "06:00"
-          ],
-          [
-            "17:00",
-            "23:59"
-          ]
-        ],
-        "Thu": [
-          [
-            "00:00",
-            "06:00"
-          ],
-          [
-            "17:00",
-            "23:59"
-          ]
-        ],
-        "Fri": [
-          [
-            "00:00",
-            "06:00"
-          ],
-          [
-            "17:00",
-            "23:59"
-          ]
-        ],
-        "Sat": [
-          [
-            "00:00",
-            "06:00"
-          ],
-          [
-            "17:00",
-            "23:59"
-          ]
-        ],
-        "Sun": [
-          [
-            "00:00",
-            "06:00"
-          ],
-          [
-            "17:00",
-            "23:59"
-          ]
-        ]
-      }
-    },
-    {
-      "FoodID": "XIANG-FENG-NASI-LEMAK",
-      "name": "Xiang Feng Nasi Lemak",
-      "country": "Singapore",
-      "lat": 1.345696,
-      "lng": 103.713077,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Nasi Lemak",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjbDGLViu61-QkCU1yINDtySdDRpB3hUXmdRa_81Ql5y52wcO2lfNG8038lBMuUQCJQgITMeJnESuZQtRF6NbnROpXDdo5aEc-m8eXKsUbjmBTD2oqLu-7iPK5DZg-bgMB3yMcnaCFdc7oOCA-v6E2uKCWt-YVTSF_VrCdZF8teJD117tRmc58Meytk-Vs",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjFC4LX8p8h6V_ttY9m37zjJjNZDbxbg_jzC48zGmWXxECebGea2eEhVhjFCgZL847MTaJzH2_-wrFgTxCczIfpBPLRfOUepJQOP3B6Ii32v0i6597oBMr8VdrtwxmzN6h6p92qh8-k10MLEt0zr4VkRQCRC2LBH0NjHXsK5SbnzLLUgQKYdjvdq3t2kOM=w480-h640"
-      ],
-      "address": "221B Boon Lay Pl, #01-126, S(642221)",
-      "phone": "+65 9786 7919",
-      "facebook": "https://www.facebook.com/xiangfengnasilemak/",
-      "openHours": {
-        "Mon": [
-          "07:30",
-          "14:30"
-        ],
-        "Tue": [
-          "07:30",
-          "14:30"
-        ],
-        "Wed": [
-          "07:30",
-          "14:30"
-        ],
-        "Thu": [
-          "07:30",
-          "14:30"
-        ],
-        "Fri": [
-          "07:30",
-          "14:30"
-        ],
-        "Sat": "Closed",
-        "Sun": [
-          "07:30",
-          "14:30"
-        ]
-      }
-    },
-    {
-      "FoodID": "PONGGOL-NASI-LEMAK",
-      "name": "Ponggol Nasi Lemak",
-      "country": "Singapore",
-      "lat": 1.312857,
-      "lng": 103.859696,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Nasi Lemak",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 3,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEj2ZneIGYWRLMMb7kE8FMYMab7Lv9rU17tMXsvERDg2vR8bZ3h1I2Lcl028eQ0jlCMRhZPI5T5myb_QUDh6OjRdQJ871pjtSRowrr9HGD-PymnMnmmE6eixi_Bu4PoonjOL9Snx_vHIkRiQKz4PesMGwBk1HND65fEXkSBNlxlZAZ53tOg67J_9wW0L_oQ=w640-h480",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEguz3jesd0OMaMEv0CiP7Sg0QlJhSydwAdm8_hnBQW_RoLLJaTxnEk-PFMVbsKPf8LJqsNPAPl_geUF1C-MeANoyzN6TfPJ5N4Iih1SsGP3HetJQoHwzNlZ-fKroj1QpQWq5xFzp6spn5ETXjfB1M0r58bpobT1-LYwYAL-n-MjcdX-LuixxY8Dyvzt908=w640-h480",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhddb31sdDGi88LFq6K-winyL5exwg-NENIIz6Kbz-EtMGNY9eCTqJXzbRY-pNDgJ7rSL8PVoubJuVWYUJ-PzgAhk4EF3JPaflHrqtTcR2vkUAP2LKEoD_8tUuTRsqNqIaEZdZ1vup5aNcL9leVbc-AH9g8GbZ8XpxlChoGsObThWmve0-L9HEBJF9Q7fk=w640-h480",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhQxRl77fdxBSrNzUvXNE7d8EL8ZB5bDXZcdX2hhc_GuK8SLOcdDwKNHjgS10S-cddA1NI6DF65vo71KZuygVyo91QsUBFRLkjjbUQ-O4GDEBMG8gbPLko4iE7VVmpZw6hfZ2eRlCwJkXGBR86QQDmuH4zY6v4Qt8zFCwbc12qmncvsSTa2ZTKobUd4r9Q=w640-h480",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiKsassz9iY4hw2pgCpQ-5X5jNj0YA8xi0J_VrgGUG1lDGp7vXqV31kVoC2AXLnYFLqTZGV5W4IngfdXyYeHS7DpMp0sVQDhzSac3a6Oy0RLBVeglnTJSNN1J0wr13cnQgJsv7Tc5KPosH9laPyl1UJ9m_T2d7j0op9jcRjAiBqIGptbWeNBjRj_ScxIuE=w640-h362",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjIcX6O0MvG_ZXpD5Wc3JNzSFe4xfL-Bh1dprghEkMCHULt9gtRQP6XhtZxQOUESyJXfnzBjZ3TZX4oS0WUS6qvh-adN3X3OaYfYJ8sMnnbTgl46iVWf4Ct1lAyVKHtKs7Kz5dcUnXUCctJYLKgDr5IWbeQpUPXs1w4-93rQszy_TjC6fS7rBVpYRLsXOc=w640-h368"
-      ],
-      "address": "371 Jln Besar, #01-01, Singapore 208998",
-      "phone": "+65 6293 0020",
-      "website": "https://www.ponggolnasilemak.com.sg/",
-      "openHours": {
-        "Mon": [
-          "11:00",
-          "21:00"
-        ],
-        "Tue": [
-          "11:00",
-          "21:00"
-        ],
-        "Wed": [
-          "11:00",
-          "21:00"
-        ],
-        "Thu": "Closed",
-        "Fri": [
-          "11:00",
-          "21:00"
-        ],
-        "Sat": [
-          "11:00",
-          "21:00"
-        ],
-        "Sun": [
-          "11:00",
-          "21:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "BOON-LAY-POWER-NASI-LEMAK",
-      "name": "Boon Lay Power Nasi Lemak",
-      "country": "Singapore",
-      "lat": 1.345696,
-      "lng": 103.713,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Malay Food",
-      "dish": "Nasi Lemak",
-      "foodType": "Rice",
-      "diet": "Halal",
-      "price": 2,
-      "tag": [
-        "Supper"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgLce5es6cM66RI8i2gEpjWH6Q4MvNkNeAyforKWK9d2QJvHYuQ-A4zenxHrFn4yZrJYm8LIEQ-3ZKQJF8mXeDcKTUBG6HpKseFHQwek-9tQNvzGobcqHkQ7-C9D7-AM5fdQaajT2DvxOrGRA88quAMKQm30hLJZae-YTeSmFw5tZHz35mDvV1JUTzybhM=w480-h640"
-      ],
-      "address": "221B Boon Lay Pl, #01-106, S(642221)",
-      "phone": "-",
-      "website": "https://powernasilemak.oddle.me/en_SG",
-      "openHours": {
-        "Mon": [
-          "07:00",
-          "03:30"
-        ],
-        "Tue": [
-          "07:00",
-          "03:30"
-        ],
-        "Wed": [
-          "07:00",
-          "03:30"
-        ],
-        "Thu": [
-          "07:00",
-          "03:30"
-        ],
-        "Fri": [
-          "07:00",
-          "03:30"
-        ],
-        "Sat": [
-          "07:00",
-          "03:30"
-        ],
-        "Sun": [
-          "07:00",
-          "03:30"
-        ]
-      }
-    },
-    {
-      "FoodID": "TONG-KEE-CHICKEN-RICE",
-      "name": "Tong Kee Chicken Rice",
-      "country": "Singapore",
-      "lat": 1.297458,
-      "lng": 103.804915,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Chicken Rice",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgLce5es6cM66RI8i2gEpjWH6Q4MvNkNeAyforKWK9d2QJvHYuQ-A4zenxHrFn4yZrJYm8LIEQ-3ZKQJF8mXeDcKTUBG6HpKseFHQwek-9tQNvzGobcqHkQ7-C9D7-AM5fdQaajT2DvxOrGRA88quAMKQm30hLJZae-YTeSmFw5tZHz35mDvV1JUTzybhM=w480-h640"
-      ],
-      "address": "221B Boon Lay Pl, #01-106, S(642221)",
-      "phone": "-",
-      "website": "https://powernasilemak.oddle.me/en_SG",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
-        "Wed": [
-          "09:30",
-          "19:00"
-        ],
-        "Thu": [
-          "09:30",
-          "19:00"
-        ],
-        "Fri": [
-          "09:30",
-          "19:00"
-        ],
-        "Sat": [
-          "09:30",
-          "19:00"
-        ],
-        "Sun": [
-          "09:30",
-          "19:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "VICTOR-FAMOUS-FRIED-CHICKEN-WING-RICE-HAINANESE-CHICKEN-RICE",
-      "name": "Victor Famous Fried Chicken Wing Rice & Hainanese Chicken Rice",
-      "country": "Singapore",
-      "lat": 1.307283,
-      "lng": 103.855189,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Chicken Rice",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiHTnlLQclMwHreCt39fa0En98llGnddh4VSpZURrdQwbe0jw7iV8VNjQ8ZvDduYdkW-qQH1NTzIYNS3w5iFA4YlVtZRWlLw9W02d_H0--44u_J21fwXdp3fZ1ZZoPSC0ufoP0lJWupLmvTip-H53n-INzfbdooKr-x-ZItCrGhEtAmhht5uh6V7NmVLkI=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjsfT14pTcyQvI3kc4HJmU7TR2LqzAlD9n-sAQrDQCnxg5HPLzM0CmovrKDG4WziXJSC8HSmqmMi08-80ZrC-jLnKc6FO4wf6tsNaDuDEw77KbZWfw2kAp0gsXfjMx_59SUsYy8iYZyOqsBJOCBzvqidBF2EQCVG32dwG3BcPlVR0HWv5Ut5cvYlXkXSEk=w480-h640"
-      ],
-      "address": "638 Veerasamy Rd, Yi He Eating House, #01-101, S(200638)",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "11:30",
-          "18:00"
-        ],
-        "Tue": [
-          "11:30",
-          "18:00"
-        ],
-        "Wed": [
-          "11:30",
-          "18:00"
-        ],
-        "Thu": [
-          "11:30",
-          "18:00"
-        ],
-        "Fri": [
-          "11:30",
-          "18:00"
-        ],
-        "Sat": [
-          "11:30",
-          "18:00"
-        ],
-        "Sun": [
-          "11:30",
-          "18:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "HAINANESE-DELICACY",
-      "name": "Hainanese Delicacy",
-      "country": "Singapore",
-      "lat": 1.307255,
-      "lng": 103.833353,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Chicken Rice",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgHqrCwxXt7pnQXTwGAR7521gGBHFL4UPkfxcbWRbV9RnuN7j9eTuU9ifJoOD8pcIBHG-nFm5k3c_MKI11w2sb-2i3de144tnR8whrEVvChIMiNkRIlZawYCl_HKHLEktOgkIAM_Im2rCwNMZbXrJtjfQXqT-I1tcjPTd75UePWkqO0cn_U1yos0FkBwxw=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgKIO2xjb_GX5q3d46XmPNAXkm0BFyxPJrn7A1jzHHLJKVVO3BRAZTj4kjRD9bwOo0BNoX0-d35R88zdGSnh8TPoqlE0WdJO4wqM_bRK7dItA6mpO5IwMeKxmGt3cuRBaqjZ3WqwxBudI_VAYrKxOw7zfEXVAyttiNJKz5Fbhpg_y8cx0_JQ0o-Cj4avdc=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgBg19SPYbTNxypRFCDfhsRxxMgqZ66nDD_9uqa1FEA6ifXL8PZmdU33n8gv2LAPT7xkPmEDtnzmBQCX7xEOAb4q5i1vZq7GLGr1wkppEfkCgOGVJIOdTsDJI1BsLROItRkYwEpiiHnjCFru6V9EcqkyG3OzGWD9hXKTiYiCW5FXJ2-Jwu-0bPqDOJ0IL8=w480-h640"
-      ],
-      "address": "14 Scotts Road, Far East Plaza, #05-116, S228213)",
-      "phone": "+65 6734 0639",
-      "facebook": "https://www.facebook.com/HainaneseDelicacySG/",
-      "openHours": {
-        "Mon": [
-          "11:00",
-          "20:00"
-        ],
-        "Tue": [
-          "11:00",
-          "20:00"
-        ],
-        "Wed": [
-          "11:00",
-          "20:00"
-        ],
-        "Thu": [
-          "11:00",
-          "20:00"
-        ],
-        "Fri": [
-          "11:00",
-          "20:00"
-        ],
-        "Sat": [
-          "11:00",
-          "20:00"
-        ],
-        "Sun": [
-          "11:00",
-          "20:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "DELICIOUS-BONELESS-CHICKEN-RICE",
-      "name": "Delicious Boneless Chicken Rice",
-      "country": "Singapore",
-      "lat": 1.304743,
-      "lng": 103.901457,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Chicken Rice",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "moreInfo": "https://lifeengrg.blogspot.com/2026/07/delicious-boneless-chicken-rice-in.html",
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjWgQgdWDLoInE_RQy3gYua7rwjc1lXGa8ug7FlNtJdHslry6wwdUSfV_h-a-Ms17IQ-D2FDcb_EpxtEuGHGgTO12AK50SbzEpl1GKM-qR2AdCm57zyrfAU-O5YJx2SfwrcVheB-veW1MHMHCmbwWCPjHtmOh7InyGnQZFXmX4s5me1oMCIU8-0twYhI4Y",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEi5hYtsBu4iVr6BbxV6GYTJS2gXE94_BSkwccnx1lsAQJTuKRECoJ6Viwcnvy1WnlpUmNlROHZIm6wdMEsHxjjlPbwb8WKhmlSh3HAU5wOhXKa-4sOWEmXuUYuCDO6jPmiZk679mtiFE18QRjzI3F0bEBjNi0vKVkNE4ZJR5l0Tidvp_B91VQs8B7Sl-iU=w640-h480",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEirGlwQGXYjzA_v3k7jJdzajR8lxB491RUkt0TXxKDPq9qHDo0F_XGC9jl9zzhbb2M0wH8DJZs3d20Udxezxmca6zFSscqtrFhoImPbGzEcO2g532Kdo0Cf0PgV6nAsPY-xuVaZPAKrDGsog8fJQX8kPSgsiLA0ZmwhbBo2813tCAQCh8fZDeoPTspdz5k=w480-h640"
-      ],
-      "address": "865 Mountbatten Rd, Katong Shopping Centre, #B1-8587, S437844",
-      "phone": "+65 9826 5197",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "11:00",
-          "19:00"
-        ],
-        "Wed": [
-          "11:00",
-          "19:00"
-        ],
-        "Thu": [
-          "11:00",
-          "19:00"
-        ],
-        "Fri": [
-          "11:00",
-          "19:00"
-        ],
-        "Sat": [
-          "11:00",
-          "19:00"
-        ],
-        "Sun": [
-          "11:00",
-          "19:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "HUP-HONG-CHICKEN-RICE",
-      "name": "Hup Hong Chicken Rice",
-      "country": "Singapore",
-      "lat": 1.34344,
-      "lng": 103.738142,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Chicken Rice",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEi_Dyxeum6nqSv2QHyQSLxCaztSwHVM0V4_hVLmilpe2xm7QeXgQKw6HV1e-lkik2cfbwDPKXB0dXJeR_LbSIUy367ALa7rXi1j7EBSAovD1Rpe1y8ZFcl8HKSDq8ycS5rUNFe3j3VN14gt3CgLqSIjHEOkSwDDX8JA-vWTLeWHhJmxbIyTbPJYyVzcz2Y"
-      ],
-      "address": "865254 Jurong East St 24, Yuhua Village Market & Food Centre, #01-51, S(600254)",
-      "phone": "-",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "10:30",
-          "17:30"
-        ],
-        "Wed": [
-          "10:30",
-          "17:30"
-        ],
-        "Thu": [
-          "10:30",
-          "17:30"
-        ],
-        "Fri": [
-          "10:30",
-          "17:30"
-        ],
-        "Sat": [
-          "10:30",
-          "17:30"
-        ],
-        "Sun": [
-          "10:30",
-          "17:30"
-        ]
-      }
-    },
-    {
-      "FoodID": "MARGARET-DR-SIN-KEE-CHICKEN-RICE",
-      "name": "Margaret Dr Sin Kee Chicken Rice",
-      "country": "Singapore",
-      "lat": 1.307296,
-      "lng": 103.79346,
-      "rating": 4,
-      "wait": 10,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Chicken Rice",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "tag": [
-        "Michelin Guide"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgwhrkKqBldReFxSHZhgtrb0Km6vM_3njDHEzAtxhYo4hPGQtNRVcbD7Ptl-9EaulAQIUo9DcTpUyew7krXqaPM2wz83d8ubeybYHX9viXltoP1sman3QzyPd3zGwz4d-BfASuH8TIvZ50wR6xe-DNtgcUczJ_NGOEhyXNfLrFNdKpX2Mji6geeEK3IJtw=w480-h640"
-      ],
-      "address": "40 Holland Drive, #01-39, S(270040)",
-      "phone": "+65 8428 7865",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "11:00",
-          "20:00"
-        ],
-        "Wed": [
-          "11:00",
-          "20:00"
-        ],
-        "Thu": [
-          "11:00",
-          "20:00"
-        ],
-        "Fri": [
-          "11:00",
-          "20:00"
-        ],
-        "Sat": [
-          "11:00",
-          "20:00"
-        ],
-        "Sun": [
-          "11:00",
-          "20:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "MENG-KEE-FRIED-KWAY-TEOW",
-      "name": "Meng Kee Fried Kway Teow",
-      "country": "Singapore",
-      "lat": 1.288079,
-      "lng": 103.82956,
-      "rating": 4,
-      "wait": 10,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Fried Kway Teow",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjpvjaYuz6zR7_6tVL0pJ9YCuFWBC0mSNz3phCvgCo8ITc7aljg0iEUGcc7ekndKIAXwWC1IWtVEBD_Qv8XIIzct-D3Wu3v60jz8JCDR_3gz2-n9bpReeS03dFx2uaZFFkhz4KFR1u8k7tUjEJfDOnPgssFVwwI32ay4p6Q06nMJ9ZXODX2v1wN4hSvDL8=w480-h640"
-      ],
-      "address": "2A Havelock Rd, #01-07, S(161022)",
-      "phone": "-",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "09:00",
-          "15:00"
-        ],
-        "Wed": [
-          "09:00",
-          "15:00"
-        ],
-        "Thu": [
-          "09:00",
-          "15:00"
-        ],
-        "Fri": [
-          "09:00",
-          "15:00"
-        ],
-        "Sat": [
-          "09:00",
-          "15:00"
-        ],
-        "Sun": [
-          "Closed"
-        ]
-      }
-    },
-    {
-      "FoodID": "18-ZION-RD-FRIED-KWAY-TIAO",
-      "name": "18 Zion Rd Fried Kway Tiao",
-      "country": "Singapore",
-      "lat": 1.292469,
-      "lng": 103.83093,
-      "rating": 4,
-      "wait": 10,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Fried Kway Teow",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEj-fSyFVezKQxSXYPiqO7ohGdGXYJ7PSWtwSUbAMOIYh1lQWla6xfIOowWCb6iLDJK-2LxCM0TApw76sd5WgizlYNdhlZis0yCvVUvzLUzRBo1XvJgyIk5LwOE5Bc2V-xjgkhmR8ae-gwvxwr1fjjvRd1VnjXC2boGEUqvFbgV8n_pj_tWPAoMdO87-vw4=w477-h640"
-      ],
-      "address": "70 Zion Rd, Zion Riverside Food Centre, #01-17, S(247792)",
-      "phone": "+65 9868 5507",
-      "openHours": {
-        "Mon": [
-          "12:30",
-          "21:00"
-        ],
-        "Tue": "Closed",
-        "Wed": [
-          "09:00",
-          "15:00"
-        ],
-        "Thu": [
-          "09:00",
-          "15:00"
-        ],
-        "Fri": [
-          "09:00",
-          "15:00"
-        ],
-        "Sat": [
-          "09:00",
-          "15:00"
-        ],
-        "Sun": [
-          "Closed"
-        ]
-      }
-    },
-    {
-      "FoodID": "TUAN-YUAN-PORK-RIBS-SOUP",
-      "name": "Tuan Yuan Pork Ribs Soup",
-      "country": "Singapore",
-      "lat": 1.28178,
-      "lng": 103.829136,
-      "rating": 5,
-      "wait": 10,
-      "diningSpot": "Restaurant",
-      "cuisine": "Chinese Food",
-      "dish": "Bak Kut Teh",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 3,
-      "tag": [
-        "Michelin Guide"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiHiqBkcP8vD1VpuUTcF3qgWik36Fss0myQIGgIqL9GsEHZ0IqvrEb19yuivjqzu73IcpZGizrj1bTEKuFP3EBbRGycL0hWrG8Ojn5zy0MSFRiktf3zGQSp0w22aQ1XUPfBNolR81MC8TiFeKQ_uOYxPjk4tk8DAmzssDYV08dxdUqUC3XxiBvxqksYzx0=w480-h640"
-      ],
-      "address": "127 Kim Tian Rd, #01-01, S(160127)",
-      "phone": "-",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          [
-            "11:00",
-            "14:30"
-          ],
-          [
-            "17:00",
-            "21:30"
-          ]
-        ],
-        "Wed": [
-          [
-            "11:00",
-            "14:30"
-          ],
-          [
-            "17:00",
-            "21:30"
-          ]
-        ],
-        "Thu": [
-          [
-            "11:00",
-            "14:30"
-          ],
-          [
-            "17:00",
-            "21:30"
-          ]
-        ],
-        "Fri": [
-          [
-            "11:00",
-            "14:30"
-          ],
-          [
-            "17:00",
-            "21:30"
-          ]
-        ],
-        "Sat": [
-          [
-            "11:00",
-            "14:30"
-          ],
-          [
-            "17:00",
-            "21:30"
-          ]
-        ],
-        "Sun": [
-          [
-            "11:00",
-            "14:30"
-          ],
-          [
-            "17:00",
-            "21:30"
-          ]
-        ]
-      }
-    },
-    {
-      "FoodID": "178-LOR-MEE",
-      "name": "178 Lor Mee",
-      "country": "Singapore",
-      "lat": 1.284329,
-      "lng": 103.832161,
-      "rating": 5,
-      "wait": 10,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Lor Mee",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 1,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEh8iIuqIeLupdzoAj8strcyELsWyw5wS9fAn3c3U_eSSv51pD_liCzrdA2sKkaYLKWkoSLYFj42eW7zTwK9i90dZgr5z-YNLKIpBjoNPMKB0qhaDMwiCABtwVIptecHwHuTUeVwuJ4bz-zcYDaU3tj1c1tflb4SutFFvjieFgsxXpJ0cNje7ocfRgfaDIg=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEhGoWCnoY8kCIwbLAui5lVC89GhpKUkRhFL4n2GXGLJc2z0Un-vOW0wIhvTu7q3xsnQvb-v-IFaO4wRllX0s7aJBDIezxdts5Rg5apQzw4pFBq5HJWRw6QCrUPy-wRpmP1IesVT9IO1AYlIlme4C3vfejUE526Srmg81z4SuoLIMr7G1IsKB3URJS7z7o8=w480-h6400"
-      ],
-      "address": "30 Seng Poh Rd, Tiong Bahru Market, #02-23, S(168898)",
-      "phone": "-",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "07:00",
-          "13:45"
-        ],
-        "Wed": "Closed",
-        "Thu": [
-          "07:00",
-          "13:45"
-        ],
-        "Fri": [
-          "07:00",
-          "13:45"
-        ],
-        "Sat": [
-          "07:00",
-          "13:45"
-        ],
-        "Sun": [
-          "07:00",
-          "13:45"
-        ]
-      }
-    },
-    {
-      "FoodID": "FENG-ZHEN-LOR-MEE",
-      "name": "Feng Zhen Lor Mee",
-      "country": "Singapore",
-      "lat": 1.335654,
-      "lng": 103.744401,
-      "rating": 5,
-      "wait": 10,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Lor Mee",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 2,
-      "facebook": "https://www.facebook.com/yewteefengzhendevannair/",
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiLqt4mPnRgrnYGVt8-vrCXpKBTs6G8qheAAV9iBX7n8hmdSMVy8eVdhEHGUzloj3EI6jil8GECOg8XYkRV4Mw1I7x7aI8aiVAy7shTm36BsK0bE7ac7AahJLF9UXRkIciZjZiVsQtuiumK0AxAfwnWw4Ex2BAqDSEYjujQMTI-O8NoLAF_28USArNFJHo=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEg33HmiC1V9V7tdJRBQwAXXkuLgHKaOL4vU7XbVJRriFfy6X1C9vpF1B_OqEvKLfXqDB254mrmE0FJJi5_QaDZcuqwZMx2lLY5MD6fv3qc8kQcScXua10BvY3IBjYxaYBdEHcRcjtBcuz2MTHRMxbqdHHNNeClJpuw4qsljywEeMfV3zTpRlkzfmt4OVMQ=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiyd074b8zopYoZmNvbrzbPjtAWd38KBcgc2i4hNpali1WVF45rCnzcSksI59zQ5awtSodvSefbgCjf5WyUb9uLL-6PqFtxiq6xiC7bt6B1gFOCjc5dqoO9HgbLLbnmEgl1nmV4AVZ3brDPRMx1nRCA1qGGofV1sdf6EsXMIm3g0MvVTE6Q4MIk7HFpIuQ=w480-h640"
-      ],
-      "address": "80 Jurong East Street 21, Devan Nair Institute, #01-05, S(609607)",
-      "phone": "+65 9450 8541",
-      "openHours": {
-        "Mon": [
-          "07:30",
-          "14:00"
-        ],
-        "Tue": [
-          "07:30",
-          "14:00"
-        ],
-        "Wed": "Closed",
-        "Thu": [
-          "07:30",
-          "14:00"
-        ],
-        "Fri": [
-          "07:30",
-          "14:00"
-        ],
-        "Sat": "Closed",
-        "Sun": "Closed"
-      }
-    },
-    {
-      "FoodID": "TIONG-BAHRU-LOR-MEE",
-      "name": "Tiong Bahru Lor Mee",
-      "lat": 1.284329,
-      "lng": 103.832161,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Lor Mee",
-      "foodType": "Noodle",
-      "diet": "Any",
-      "price": 1,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEg-nJHFPRtO4Nvm6hHxx4mTWdP-EzT-0HyxfY_nybJpVpnyJFBHUWSwweHLaI7Kvx2ceSfmiJpGw6ucCLFIBoXVEgyOOC3Dr_FIJ0OBfgUutJTwBxvpiEhYLN8NZ7qAX2M4GfBvJ78GZyfGLqxnUDpGudDrFh91bae1oPFlP4ga_WeM8iEcJ5QUjtscU-Q=w480-h640"
-      ],
-      "address": "30 Seng Poh Rd, Tiong Bahru Market, #02-80, S(168898)",
-      "phone": "-",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": [
-          "07:00",
-          "19:00"
-        ],
-        "Wed": [
-          "07:00",
-          "19:00"
-        ],
-        "Thu": [
-          "07:00",
-          "19:00"
-        ],
-        "Fri": [
-          "07:00",
-          "19:00"
-        ],
-        "Sat": [
-          "07:00",
-          "19:00"
-        ],
-        "Sun": [
-          "07:00",
-          "19:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "CHEF-WANG-FRIED-RICE",
-      "name": "Chef Wang Fried Rice",
-      "country": "Singapore",
-      "lat": 1.288079,
-      "lng": 103.82956,
-      "rating": 4,
-      "wait": 10,
-      "diningSpot": "Hawker",
-      "cuisine": "Chinese Food",
-      "dish": "Fried Rice",
-      "foodType": "Rice",
-      "diet": "Any",
-      "price": 2,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgf4ocUvgFv5UEcASxNE3tPqdZdijPmolOupxNCuUbdPOZ5YiI0Ewi4D3YhOaylRnC8CVan19oSEzA3hdwqzDwr9UQ8H9uRKUPaT4U9n4IXORJqGKNT_pn6Vq8-P4cp89Xk4kigP-SjB5fujDyyCE2JUVLN2lGx3CDp0fDanwDo2Tv33_SRRDuqm_uQ1t8=w480-h640"
-      ],
-      "address": "8A Beo Crescent Mkt, Beo Crescent Market, #01-71, S169982",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          [
-            "10:00",
-            "15:00"
-          ],
-          [
-            "16:30",
-            "21:00"
-          ]
-        ],
-        "Tue": [
-          [
-            "10:00",
-            "15:00"
-          ],
-          [
-            "16:30",
-            "21:00"
-          ]
-        ],
-        "Wed": [
-          [
-            "10:00",
-            "15:00"
-          ],
-          [
-            "16:30",
-            "21:00"
-          ]
-        ],
-        "Thu": [
-          [
-            "10:00",
-            "15:00"
-          ],
-          [
-            "16:30",
-            "21:00"
-          ]
-        ],
-        "Fri": [
-          [
-            "10:00",
-            "15:00"
-          ],
-          [
-            "16:30",
-            "21:00"
-          ]
-        ],
-        "Sat": [
-          [
-            "10:00",
-            "15:00"
-          ],
-          [
-            "16:30",
-            "21:00"
-          ]
-        ],
-        "Sun": "Closed"
-      }
-    },
-    {
-      "FoodID": "RESTORAN-KAK-KAK",
-      "name": "Restoran Kak Kak, 佳佳点心茶楼",
-      "country": "Malaysia",
-      "lat": 1.480711,
-      "lng": 103.765531,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Coffee Shop",
-      "cuisine": "Chinese Food",
-      "dish": "Tim Sum",
-      "diet": "Any",
-      "price": 1,
-      "tag": [
-        "Hidden Gem"
-      ],
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjOhuQstIvzeW5EaXwHoGjLxpp4rFdpxLDwZiQXeV9vq2PpkQz5sysZ1q9f8yJ-m65N_POP596s8Kplg4u1DIsZkjC-lYcc2XJsae5xe0RGBVAvEtEpyfa60vABPNmNIF6uVRc0FAnUCzlQ19-CilvqZN9d6K62_G7PUdhKmpZbTJyK-tc0OB93tx-yTcQ=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEi6RacAWKIA2cBKGMZM4RNJFSu24HguaoV4hDWLl-VKCR6Rxt1oQTKmJvd3geNzU_7AUEWvnW98q4a2y5PVdzKonfA2xK0X8y6zDgXPqUgO5cLvMmK2eMQYtWjY5bU6KGevFAXvfGjEsgvXICIBTqciaqK-W_RsoMRM5L-Qs50YVyzsofeDVcZ6TwriDJM"
-      ],
-      "address": "9, Jalan Maju, Taman Maju Jaya, 80400 Johor Bahru, Johor, Malaysia",
-      "phone": "+60 11-6518 9328",
-      "openHours": {
-        "Mon": [
-          "06:00",
-          "13:00"
-        ],
-        "Tue": "Closed",
-        "Wed": [
-          "06:00",
-          "13:00"
-        ],
-        "Thu": [
-          "06:00",
-          "13:00"
-        ],
-        "Fri": [
-          "06:00",
-          "13:00"
-        ],
-        "Sat": [
-          "06:00",
-          "13:00"
-        ],
-        "Sun": [
-          "06:00",
-          "13:00"
-        ]
-      }
-    },
-    {
-      "FoodID": "NIC-TOM-EATERY",
-      "name": "Nic & Tom Eatery - 少年食堂",
-      "country": "Singapore",
-      "lat": 1.28162,
-      "lng": 103.844572,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Restaurant",
-      "cuisine": "Chinese Food",
-      "dish": "Cheese Bee Hoon",
-      "foodType": "",
-      "diet": "Any",
-      "price": 3,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEiRuwPrK0l3p6VdB7Cv62VOL6i9vwdyBbwOr3apEZ9Ra6xatb6ylIqz0fClyNWdMuD4djTlH8BF6-dT2SUhyM0M-zzQY0cxQsfNcIAy4QNCFMZwud9tBSVXIL2bGkcnDXc2lKU3VJO5qCeZ2k1F2UC8g3_hj-nj1NdsrudBQsWn1Z78hjgslNcMkrRW4J8"
-      ],
-      "address": "6 Sago Street, S(059011)",
-      "phone": "+65 9138 9696",
-      "facebook": "https://www.facebook.com/nictomeatery",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
-        "Wed": [
-          "10:30",
-          "22:30"
-        ],
-        "Thu": [
-          "10:30",
-          "22:30"
-        ],
-        "Fri": [
-          "10:30",
-          "22:30"
-        ],
-        "Sat": [
-          "10:30",
-          "22:30"
-        ],
-        "Sun": [
-          "10:30",
-          "22:30"
-        ]
-      }
-    },
-    {
-      "FoodID": "RESTORAN-LEE",
-      "name": "Restoran Lee",
-      "country": "Malaysia",
-      "lat": 2.250465,
-      "lng": 102.288692,
-      "rating": 5,
-      "wait": 5,
-      "diningSpot": "Restaurant",
-      "cuisine": "Chinese Food",
-      "dish": "Cheese Bee Hoon",
-      "foodType": "",
-      "diet": "Any",
-      "price": 3,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEgOw9ZXfzRa-uDJgyvWoW55nhTTflranaRCZwXg3FnXSIxXRJQj_rHomdFIvjF42gLwEixb31jRzGcUy3Z-Vsc1KOP8C6kB-UuNCy9MivUADH4nfy461nfzOpYXPNlWEhf-MTV-gwzjCnQr48Q3LCror0DO8upP2hYH9thFNGICEJQsWxJIkYCylRDHDFQ=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEg4Nv7scXHwjjXGt6k1dXiKUTzCcT_rBekaW2foWyEiO6_KYp336kSVdGo6gK_s1heN9TZj-nVb2DIXSkIYXxZiDrl-sKBHPtAVoF2WsfmhozYbSBr1nAJEtuKvDNDtWk8wWw7erwGS49iuD2wifq2KtS6UyDajeOsmtczS0Dac_2h5bUpyep7HWpS3Z1c=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjoJN-BXOefwR0LI7k_BBJtl6soYsmNB2DFn9qvIokYGOvyuR64Bav8Wg7oIFJP7d0NlOmoaV_FqD5e_XfbqfVoI4o2dfrX8rt5KY_0QjkQkTfcJU1bYlT935jzJ39a1VL42Fmes_y4E56G5J4WcGr9KfkBH9gixwSZBpKpEM5QrEmqQBUv9PYx4y-HQGI=w480-h640",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjKOWfOXlZNgmbjHP7ew8RIvrVBEqdkaTcXaAVm7YFIdpporSCadBqeqzIZVhQC-LW4_4ZoRdhiDeAUvPi3BlcJFztEQIg596fRHGjrZIi77EU4hGIqg6dWlllhkHTCZrKIabFTNci-W6aSwCNb_fZ0yRqiikm18eg0WvTt1XF71Q3wMT6rFMP917qeUA0=w640-h378",
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjqjaMAvYtaZBuy5xclEz369zBbFuQll2kQy5nFbQXrNsHQ77FuuyZMSnDjJenLsoPZOBW90rwmHNKT5DZ_3NfWu1huMlo85FizZExil_xGenKzpMoOSPFFMwB_hKAQ9qFCfKOM7bSnhbIPdsa-5LtP4Rr-jJiwGkLZ5bPhb9GJ8Hr4H_QW-Yx1bn07jX0"
-      ],
-      "address": "28 & 30, Jalan Sri Ramo 3, Taman Muzattor Shah, Air Keroh, 75450",
-      "phone": "+606-231 6601",
-      "facebook": "https://www.facebook.com/feileeayerkeroh/",
-      "openHours": {
-        "Mon": "Closed",
-        "Tue": "Closed",
-        "Wed": [
-          "10:30",
-          "22:30"
-        ],
-        "Thu": [
-          "10:30",
-          "22:30"
-        ],
-        "Fri": [
-          "10:30",
-          "22:30"
-        ],
-        "Sat": [
-          "10:30",
-          "22:30"
-        ],
-        "Sun": [
-          "10:30",
-          "22:30"
-        ]
-      }
-    },
-    {
-      "FoodID": "RESTORAN-DI-HWANG-YA",
-      "name": "Restoran Di Hwang Ya",
-      "country": "Malaysia",
-      "lat": 2.250465,
-      "lng": 102.288692,
-      "rating": 4,
-      "wait": 5,
-      "diningSpot": "Restaurant",
-      "cuisine": "Chinese Food",
-      "dish": "Duck Rice",
-      "foodType": "",
-      "diet": "Any",
-      "price": 3,
-      "imgs": [
-        "https://blogger.googleusercontent.com/img/a/AVvXsEjWGPQ5gYTnPNMCqGXNPrmYNVrFNb4G7Q6SZ0BpElzNFSdmMJVEFHs4TRmzbWYiuFlNcahSTURCcvfbrmmTckcSxSdVHT75Gj-N7EZTS72igmTNEExIjjbTGi7d9KIciNKsuzvSCS0Hin-CrIsO_xYWlRF2ad-AqMTuDXR5D08woY-_VG85TGaR4gttLos=w480-h640"
-      ],
-      "address": "KSL City Mall, 33, Jalan Seladang, L2-132, Johor Bahru 80250",
-      "phone": "-",
-      "openHours": {
-        "Mon": [
-          "08:00",
-          "18:00"
-        ],
-        "Tue": [
-          "08:00",
-          "18:00"
-        ],
-        "Wed": [
-          "08:00",
-          "18:00"
-        ],
-        "Thu": [
-          "08:00",
-          "18:00"
-        ],
-        "Fri": [
-          "08:00",
-          "18:00"
-        ],
-        "Sat": [
-          "08:00",
-          "18:00"
-        ],
-        "Sun": [
-          "08:00",
-          "18:00"
-        ]
-      }
-    }
-  ]
+    "stalls": [
+        {
+            "FoodID": "178-LOR-MEE",
+            "name": "178 Lor Mee",
+            "country": "Singapore",
+            "lat": 1.284329,
+            "lng": 103.832161,
+            "rating": 5,
+            "wait": 10,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Lor Mee",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 1,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEh8iIuqIeLupdzoAj8strcyELsWyw5wS9fAn3c3U_eSSv51pD_liCzrdA2sKkaYLKWkoSLYFj42eW7zTwK9i90dZgr5z-YNLKIpBjoNPMKB0qhaDMwiCABtwVIptecHwHuTUeVwuJ4bz-zcYDaU3tj1c1tflb4SutFFvjieFgsxXpJ0cNje7ocfRgfaDIg=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEhGoWCnoY8kCIwbLAui5lVC89GhpKUkRhFL4n2GXGLJc2z0Un-vOW0wIhvTu7q3xsnQvb-v-IFaO4wRllX0s7aJBDIezxdts5Rg5apQzw4pFBq5HJWRw6QCrUPy-wRpmP1IesVT9IO1AYlIlme4C3vfejUE526Srmg81z4SuoLIMr7G1IsKB3URJS7z7o8=w480-h6400"
+            ],
+            "address": "30 Seng Poh Rd, Tiong Bahru Market, #02-23, S(168898)",
+            "phone": "-",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "07:00",
+                    "13:45"
+                ],
+                "Wed": "Closed",
+                "Thu": [
+                    "07:00",
+                    "13:45"
+                ],
+                "Fri": [
+                    "07:00",
+                    "13:45"
+                ],
+                "Sat": [
+                    "07:00",
+                    "13:45"
+                ],
+                "Sun": [
+                    "07:00",
+                    "13:45"
+                ]
+            }
+        },
+        {
+            "FoodID": "18-ZION-RD-FRIED-KWAY-TIAO",
+            "name": "18 Zion Rd Fried Kway Tiao",
+            "country": "Singapore",
+            "lat": 1.292469,
+            "lng": 103.83093,
+            "rating": 4,
+            "wait": 10,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Fried Kway Teow",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEj-fSyFVezKQxSXYPiqO7ohGdGXYJ7PSWtwSUbAMOIYh1lQWla6xfIOowWCb6iLDJK-2LxCM0TApw76sd5WgizlYNdhlZis0yCvVUvzLUzRBo1XvJgyIk5LwOE5Bc2V-xjgkhmR8ae-gwvxwr1fjjvRd1VnjXC2boGEUqvFbgV8n_pj_tWPAoMdO87-vw4=w477-h640"
+            ],
+            "address": "70 Zion Rd, Zion Riverside Food Centre, #01-17, S(247792)",
+            "phone": "+65 9868 5507",
+            "openHours": {
+                "Mon": [
+                    "12:30",
+                    "21:00"
+                ],
+                "Tue": "Closed",
+                "Wed": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Thu": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Fri": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Sat": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Sun": [
+                    "Closed"
+                ]
+            }
+        },
+        {
+            "FoodID": "APOLLO-WESTERN-FOOD",
+            "name": "Apollo Western Food",
+            "country": "Singapore",
+            "lat": 1.354101,
+            "lng": 103.89009,
+            "rating": 4,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Western Food",
+            "dish": [
+                "Chicken Chop",
+                "Chicken Cutlet"
+            ],
+            "foodType": "",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgNjWe4zwuPtN54jXGvvoa1eW7d5EPx2C1cvXNJLumokr2W02xo4Jh4qhKDwwVIktMYVKtYUFgxCvSKl3fLVewbRJAbETjPUbX07-WedZJRwNLAU2xDZMtbqQgZ5JFBGMllqrBkADIoNkKpPBmaTqzdOay2AmjqlAC8YPgtDi3XygcNNRDWnoczOWGUjRw=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEj763zIHphBlyb34rC9d2i3fWyNwc9aD6_wdil-hccGaXSiPoYV7CoNob5iWb2fTfjKD0CS5CTdtVJiL0uRnHeGmKAv-nKkpaX9paSFsQvo1xTpUmgKgK7_2EvXbE610y_wkAWCL1_9f8jLpJtppPxVNfawWTqxZycH7gK5WWQujSNIyiW3Vs_syvwkww4",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEhLHpY6VRIbjQPkVkAgEqkA4fpm_t6WxFEPuu4g5OYtOdVTw2scybw-OEBlwSQpCxW2S8m5PBlmsozZR6z_gBe-9q1InHoAOU3qFpuCWByo5vVaL44I0C_mEbhNCbaFTultR3h1w-3OUH3DMGH_pRFTRG-wPgpC6ypjXKpCGJJoQ4b_FzYJ2dEgBPg_vRc=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEh2RK1YGdiZRUrUXZs1SYRAZxL33pPiAR4GiYYVLgdBak_AWrEt5RCPOwcBQYolAXrBKiaLALunpFUezdFhJB1pPNZrMX5Dy1JtVA9T_wgn6zQrbhUqd6XeiUew9K1JKN-CVDmo9c7hxmSGc531x_lJuPe8Z_ErENmi3lyaYUoOiTyg-oijIRNDNUiJkKA=w480-h640"
+            ],
+            "address": "105 Hougang Ave 1, Hainanese Village Ctr, #02-32, S530105)",
+            "phone": "-",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": "Closed",
+                "Wed": [
+                    "12:00",
+                    "20:15"
+                ],
+                "Thu": [
+                    "12:00",
+                    "20:15"
+                ],
+                "Fri": [
+                    "12:00",
+                    "20:15"
+                ],
+                "Sat": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Sun": [
+                    "11:00",
+                    "19:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "BLANCO-PRAWN-NOODLE-HOUSE",
+            "name": "Blanco Prawn Noodle House",
+            "country": "Singapore",
+            "lat": 1.396071,
+            "lng": 103.873012,
+            "rating": 3,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Prawn Noodle",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 2,
+            "tag": [
+                "Local Favourite"
+            ],
+            "moreInfo": "https://lifeengrg.blogspot.com/2026/07/blanco-prawn-noodle-house.html",
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEge-As2SnFOqXRFjT5LAuYn0TXzv7LcnrKicrRk24a1jNR5vz_djwtPHcUPNlhtrKPv7f_ruK7F2lSqVavJC_H_Hhq7HWl-g0pzRCSaTmWm1ljL2zkygozkAWiV3xe0rGpIiTRIDowUGLrYgiRWFhsnuaxz4jode-ZnRkPAnSQN6Chwlfeg9VUq5XwZnbM"
+            ],
+            "address": "235 Jalan Kayu, S(799459)",
+            "phone": "+65 8920 4175",
+            "openHours": {
+                "Mon": [
+                    "07:00",
+                    "16:00"
+                ],
+                "Tue": "Closed",
+                "Wed": [
+                    "07:00",
+                    "16:00"
+                ],
+                "Thu": [
+                    "07:00",
+                    "16:00"
+                ],
+                "Fri": [
+                    "07:00",
+                    "16:00"
+                ],
+                "Sat": [
+                    "07:00",
+                    "16:00"
+                ],
+                "Sun": [
+                    "07:00",
+                    "16:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "BOON-LAY-POWER-NASI-LEMAK",
+            "name": "Boon Lay Power Nasi Lemak",
+            "country": "Singapore",
+            "lat": 1.345696,
+            "lng": 103.713,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Malay Food",
+            "dish": "Nasi Lemak",
+            "foodType": "Rice",
+            "diet": "Halal",
+            "price": 2,
+            "tag": [
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgLce5es6cM66RI8i2gEpjWH6Q4MvNkNeAyforKWK9d2QJvHYuQ-A4zenxHrFn4yZrJYm8LIEQ-3ZKQJF8mXeDcKTUBG6HpKseFHQwek-9tQNvzGobcqHkQ7-C9D7-AM5fdQaajT2DvxOrGRA88quAMKQm30hLJZae-YTeSmFw5tZHz35mDvV1JUTzybhM=w480-h640"
+            ],
+            "address": "221B Boon Lay Pl, #01-106, S(642221)",
+            "phone": "-",
+            "website": "https://powernasilemak.oddle.me/en_SG",
+            "openHours": {
+                "Mon": [
+                    "07:00",
+                    "03:30"
+                ],
+                "Tue": [
+                    "07:00",
+                    "03:30"
+                ],
+                "Wed": [
+                    "07:00",
+                    "03:30"
+                ],
+                "Thu": [
+                    "07:00",
+                    "03:30"
+                ],
+                "Fri": [
+                    "07:00",
+                    "03:30"
+                ],
+                "Sat": [
+                    "07:00",
+                    "03:30"
+                ],
+                "Sun": [
+                    "07:00",
+                    "03:30"
+                ]
+            }
+        },
+        {
+            "FoodID": "CARROT-CUBES",
+            "name": "Carrot Cubes",
+            "country": "Singapore",
+            "lat": 1.375677,
+            "lng": 103.900883,
+            "rating": 4,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Carrot Cake",
+            "foodType": "Rice Cake",
+            "diet": "Any",
+            "price": 2,
+            "facebook": "https://www.facebook.com/carrotcubes/",
+            "tag": [
+                "Local Favourite",
+                "Breakfast"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgyiznl39QNYPUZen2Y4_QJd7NF8HdenU1PsNYNodLufTt2vGmYsoAY1ZeGZLljlifXykLcR8ZPhjlX-bKKVBwinHRHMFVklX9d-xLFGOd2qxpCeHSIJPRKdp-F9jU2_1dR4yR2jkHu4gM8VxRycSa4E6FLAqDf5W50Jfn7CU9ux68VxHdROzlpzpcBQNQ"
+            ],
+            "address": "475 Upper Serangoon Crescent, Rong Yuan Coffeeshop, S(531475)",
+            "phone": "+65 9188 7670",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "07:00",
+                    "14:45"
+                ],
+                "Wed": [
+                    "07:00",
+                    "14:45"
+                ],
+                "Thu": [
+                    "07:00",
+                    "14:45"
+                ],
+                "Fri": [
+                    "07:00",
+                    "14:45"
+                ],
+                "Sat": [
+                    "07:00",
+                    "14:45"
+                ],
+                "Sun": [
+                    "07:00",
+                    "14:45"
+                ]
+            }
+        },
+        {
+            "FoodID": "CASUARINA-PRATA",
+            "name": "Casuarina Prata",
+            "country": "Singapore",
+            "lat": 1.330386,
+            "lng": 103.875377,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Indian Food",
+            "dish": "Prata",
+            "foodType": "",
+            "diet": "Any",
+            "tag": [
+                "Supper"
+            ],
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgHOtZX1xhi6TKOVEgBWzSL2g-5ToAVfz2YTBh2jA8EtOdPYValtH-26_FwbVQQ21loCIIKgfzTFg4hU_aSppCYRapdisX0QF--1mxuhkctYxUNMZ1bS4UaGbj7ce9Bl71HmI4_I2kegMX9aUioJMgVqEMMbeYK7XfZO95fnPfN_CGjFJclQbHR100uAhs=w480-h640"
+            ],
+            "address": "187 Macpherson Road S(348545)",
+            "phone": "+65 6285 9001",
+            "website": "https://casuarinacatering.com/",
+            "openHours": {
+                "Mon": [
+                    "10:00",
+                    "23:00"
+                ],
+                "Tue": [
+                    "10:00",
+                    "23:00"
+                ],
+                "Wed": [
+                    "10:00",
+                    "23:00"
+                ],
+                "Thu": [
+                    "10:00",
+                    "23:00"
+                ],
+                "Fri": [
+                    "10:00",
+                    "00:00"
+                ],
+                "Sat": [
+                    "08:00",
+                    "00:00"
+                ],
+                "Sun": [
+                    "08:00",
+                    "00:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "CHEF-WANG-FRIED-RICE",
+            "name": "Chef Wang Fried Rice",
+            "country": "Singapore",
+            "lat": 1.288079,
+            "lng": 103.82956,
+            "rating": 4,
+            "wait": 10,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Fried Rice",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgf4ocUvgFv5UEcASxNE3tPqdZdijPmolOupxNCuUbdPOZ5YiI0Ewi4D3YhOaylRnC8CVan19oSEzA3hdwqzDwr9UQ8H9uRKUPaT4U9n4IXORJqGKNT_pn6Vq8-P4cp89Xk4kigP-SjB5fujDyyCE2JUVLN2lGx3CDp0fDanwDo2Tv33_SRRDuqm_uQ1t8=w480-h640"
+            ],
+            "address": "8A Beo Crescent Mkt, Beo Crescent Market, #01-71, S169982",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    [
+                        "10:00",
+                        "15:00"
+                    ],
+                    [
+                        "16:30",
+                        "21:00"
+                    ]
+                ],
+                "Tue": [
+                    [
+                        "10:00",
+                        "15:00"
+                    ],
+                    [
+                        "16:30",
+                        "21:00"
+                    ]
+                ],
+                "Wed": [
+                    [
+                        "10:00",
+                        "15:00"
+                    ],
+                    [
+                        "16:30",
+                        "21:00"
+                    ]
+                ],
+                "Thu": [
+                    [
+                        "10:00",
+                        "15:00"
+                    ],
+                    [
+                        "16:30",
+                        "21:00"
+                    ]
+                ],
+                "Fri": [
+                    [
+                        "10:00",
+                        "15:00"
+                    ],
+                    [
+                        "16:30",
+                        "21:00"
+                    ]
+                ],
+                "Sat": [
+                    [
+                        "10:00",
+                        "15:00"
+                    ],
+                    [
+                        "16:30",
+                        "21:00"
+                    ]
+                ],
+                "Sun": "Closed"
+            }
+        },
+        {
+            "FoodID": "CHEY-SUA-CARROT-CAKE",
+            "name": "Chey Sua Carrot Cake, 青山菜头粿",
+            "country": "Singapore",
+            "lat": 1.3381,
+            "lng": 103.844727,
+            "rating": 4,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Carrot Cake",
+            "foodType": "Rice Cake",
+            "diet": "Any",
+            "price": 2,
+            "facebook": "https://www.facebook.com/p/Chey-Sua-Carrot-Cake-100057385842875/?locale=zh_CN",
+            "tag": [
+                "Michelin Guide",
+                "Breakfast"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEguLEZ4-XQMjip8o9pTEMh9P_JIkLR7c7e0rqSj7_j5U3H9md7LwP1xnCLzGHyi71RtVlB1ZxQI1QssAWJxnysu5gb-hDJXG3-a3gXaq4sQ0sv8ppopdWMPbv42g2wPB7pztGip_WNeHXm7Ztec0JLkzT9rFccjaRYfoZ2usxv_RZfvUQj7ha2CBeXcnX8"
+            ],
+            "address": "127 Toa Payoh Lor 1, Mkt & Food Cente, #02-30, S310127)",
+            "phone": "-",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": "Closed",
+                "Wed": [
+                    "06:30",
+                    "13:00"
+                ],
+                "Thu": [
+                    "06:30",
+                    "13:00"
+                ],
+                "Fri": [
+                    "06:30",
+                    "13:00"
+                ],
+                "Sat": [
+                    "06:30",
+                    "13:00"
+                ],
+                "Sun": [
+                    "06:30",
+                    "13:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "CHINDAMANI-INDIAN-FOOD-FOOD-STALL-SERANGOON",
+            "name": "Chindamani indian food Food Stall (Serangoon)",
+            "country": "Singapore",
+            "lat": 1.369785,
+            "lng": 103.873321,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Indian Food",
+            "dish": "Prata",
+            "foodType": "",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEhWzJVqfzn2z2J6RYFQWoweoY6f-_LxklKVBBD5B_ZblH9XIDhXla5Wq-MSKjjtiS0FUzaX4CbS2ZV2aPHy3O3UQ3Y275stQfP8AsfKNBX7_aKZ7m2QX77Ao7CfcB30dOlxhu7tjI2tvJOn4ll6WWGcnxFLbDdFr-ocACyk9AKPzgWq4LnlUyM2Gz_Yc_k=w480-h640"
+            ],
+            "address": "151A Serangoon North Ave 1, #01-81, S(551151)",
+            "phone": "-",
+            "facebook": "https://www.facebook.com/profile.php?id=100063722283440&locale=en_GB#",
+            "openHours": {
+                "Mon": [
+                    "06:00",
+                    "21:00"
+                ],
+                "Tue": [
+                    "06:00",
+                    "21:00"
+                ],
+                "Wed": [
+                    "06:00",
+                    "21:00"
+                ],
+                "Thu": [
+                    "06:00",
+                    "21:00"
+                ],
+                "Fri": [
+                    "06:00",
+                    "21:00"
+                ],
+                "Sat": [
+                    "06:00",
+                    "21:00"
+                ],
+                "Sun": [
+                    "06:00",
+                    "21:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "CHONG-PANG-NASI-LEMAK",
+            "name": "Chong Pang Nasi Lemak",
+            "country": "Singapore",
+            "lat": 1.428008,
+            "lng": 103.827489,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Nasi Lemak",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "tag": [
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEhXFDpQQYdS5TNJrkMSycxwJeikd73SiX08_JbLOqytMd0_TcKwPughmj5k8nckliY4Qy_8f5Ma6FzcDFn3zqhcEJUOeS_hpoPD2DocOZOMlBuGQVTS5IHefkXyUeSKmxGeOLfn_Zt602dMhPaUeZZQtzkirDHB5zt8doMSlP3cEt33cfDW2v-UTdaIez0=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjSeWSxp1rJnGeG47n2PYF3AXF3_4TtWYPjPe3MELFBw8u2hy2eh4H8-ccf1D3W8JsB8PNaZw9x6q7fumNjQK7JnKQY0wG_0uUpmBLn7vH200Tmdwj9BfYjYh6HLJkEDGRkTCTOFtUeWznQG4xKI4AQOEw3EIIGiRVAVSynYwc-x-md7Fee22bGz4kNtg8=w480-h640"
+            ],
+            "address": "447 Sembawang Rd, S(758404)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    [
+                        "00:00",
+                        "06:00"
+                    ],
+                    [
+                        "17:00",
+                        "23:59"
+                    ]
+                ],
+                "Tue": [
+                    [
+                        "00:00",
+                        "06:00"
+                    ],
+                    [
+                        "17:00",
+                        "23:59"
+                    ]
+                ],
+                "Wed": [
+                    [
+                        "00:00",
+                        "06:00"
+                    ],
+                    [
+                        "17:00",
+                        "23:59"
+                    ]
+                ],
+                "Thu": [
+                    [
+                        "00:00",
+                        "06:00"
+                    ],
+                    [
+                        "17:00",
+                        "23:59"
+                    ]
+                ],
+                "Fri": [
+                    [
+                        "00:00",
+                        "06:00"
+                    ],
+                    [
+                        "17:00",
+                        "23:59"
+                    ]
+                ],
+                "Sat": [
+                    [
+                        "00:00",
+                        "06:00"
+                    ],
+                    [
+                        "17:00",
+                        "23:59"
+                    ]
+                ],
+                "Sun": [
+                    [
+                        "00:00",
+                        "06:00"
+                    ],
+                    [
+                        "17:00",
+                        "23:59"
+                    ]
+                ]
+            }
+        },
+        {
+            "FoodID": "DELICIOUS-BONELESS-CHICKEN-RICE",
+            "name": "Delicious Boneless Chicken Rice",
+            "country": "Singapore",
+            "lat": 1.304743,
+            "lng": 103.901457,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Chicken Rice",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "moreInfo": "https://lifeengrg.blogspot.com/2026/07/delicious-boneless-chicken-rice-in.html",
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjWgQgdWDLoInE_RQy3gYua7rwjc1lXGa8ug7FlNtJdHslry6wwdUSfV_h-a-Ms17IQ-D2FDcb_EpxtEuGHGgTO12AK50SbzEpl1GKM-qR2AdCm57zyrfAU-O5YJx2SfwrcVheB-veW1MHMHCmbwWCPjHtmOh7InyGnQZFXmX4s5me1oMCIU8-0twYhI4Y",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEi5hYtsBu4iVr6BbxV6GYTJS2gXE94_BSkwccnx1lsAQJTuKRECoJ6Viwcnvy1WnlpUmNlROHZIm6wdMEsHxjjlPbwb8WKhmlSh3HAU5wOhXKa-4sOWEmXuUYuCDO6jPmiZk679mtiFE18QRjzI3F0bEBjNi0vKVkNE4ZJR5l0Tidvp_B91VQs8B7Sl-iU=w640-h480",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEirGlwQGXYjzA_v3k7jJdzajR8lxB491RUkt0TXxKDPq9qHDo0F_XGC9jl9zzhbb2M0wH8DJZs3d20Udxezxmca6zFSscqtrFhoImPbGzEcO2g532Kdo0Cf0PgV6nAsPY-xuVaZPAKrDGsog8fJQX8kPSgsiLA0ZmwhbBo2813tCAQCh8fZDeoPTspdz5k=w480-h640"
+            ],
+            "address": "865 Mountbatten Rd, Katong Shopping Centre, #B1-8587, S437844",
+            "phone": "+65 9826 5197",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Wed": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Thu": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Fri": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Sat": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Sun": [
+                    "11:00",
+                    "19:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "DO-ME-CHICKEN-CUTLET",
+            "name": "Do & Me Chicken Cutlet",
+            "country": "Singapore",
+            "lat": 1.422716,
+            "lng": 103.8403,
+            "rating": 4,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Western Food",
+            "dish": [
+                "Chicken Chop",
+                "Chicken Cutlet"
+            ],
+            "foodType": "",
+            "diet": "Any",
+            "price": 2,
+            "moreInfo": "https://lifeengrg.blogspot.com/2026/07/do-me-chicken-cutlet.html",
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEi02nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk08pH8"
+            ],
+            "address": "654 Yishun Ave 4, S(760654)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "11:00",
+                    "22:00"
+                ],
+                "Tue": [
+                    "11:00",
+                    "22:00"
+                ],
+                "Wed": [
+                    "11:00",
+                    "22:00"
+                ],
+                "Thu": "Closed",
+                "Fri": [
+                    "11:00",
+                    "22:00"
+                ],
+                "Sat": [
+                    "11:00",
+                    "22:00"
+                ],
+                "Sun": [
+                    "11:00",
+                    "22:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "FAMOUS-EUNOS-BAK-CHOR-MEE-EUNOS",
+            "name": "Famous Eunos Bak Chor Mee (Eunos)",
+            "country": "Singapore",
+            "lat": 1.320068,
+            "lng": 103.903586,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Bak Chor Mee",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 1,
+            "facebook": "https://www.facebook.com/famouseunosbakchormee/",
+            "moreInfo": "https://lifeengrg.blogspot.com/2026/07/famous-eunos-bak-chor-mee-eunos.html",
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgozmjPO8vnM3oCRuaCg9E7dESv1m_BrF0g4OhpwrvvFA5VKiFZ_r_jyT_D-zlNa9Yyquau-R7_Xr3RPTaykw7X7DOBZie1hLJci4xiFjbrfvx36Z-MIQdeaNQMBphJtISgCWFawHHbJj5p53uopdOEVN0ohMtR6qAgNNJTcmOMO3AWIH0kk7iecZxTrTA",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgclyVjrUkpktgYz8AEVSAkO7gWORnzY1qWgZx-Cu8mrq094H1p0BUjN7HUhAeu5kpm3ErUNLTwMdUK6ki67Id5eRYqdF4IemEaRgdRwgObBEli_v9OlD0aZxqJdnbd5XRL_J_uQ63CnNl4lR94Xe7Kry_8RulGhcdkRtbfMam_Gv0s5CNprggouLfZ6Qs"
+            ],
+            "address": "7 Eunos Crescent, Hong Lee Coffee Shop, S(400007)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Tue": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Wed": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Thu": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Fri": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Sat": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Sun": [
+                    "06:00",
+                    "19:30"
+                ]
+            }
+        },
+        {
+            "FoodID": "FENG-ZHEN-LOR-MEE",
+            "name": "Feng Zhen Lor Mee",
+            "country": "Singapore",
+            "lat": 1.335654,
+            "lng": 103.744401,
+            "rating": 5,
+            "wait": 10,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Lor Mee",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 2,
+            "facebook": "https://www.facebook.com/yewteefengzhendevannair/",
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiLqt4mPnRgrnYGVt8-vrCXpKBTs6G8qheAAV9iBX7n8hmdSMVy8eVdhEHGUzloj3EI6jil8GECOg8XYkRV4Mw1I7x7aI8aiVAy7shTm36BsK0bE7ac7AahJLF9UXRkIciZjZiVsQtuiumK0AxAfwnWw4Ex2BAqDSEYjujQMTI-O8NoLAF_28USArNFJHo=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEg33HmiC1V9V7tdJRBQwAXXkuLgHKaOL4vU7XbVJRriFfy6X1C9vpF1B_OqEvKLfXqDB254mrmE0FJJi5_QaDZcuqwZMx2lLY5MD6fv3qc8kQcScXua10BvY3IBjYxaYBdEHcRcjtBcuz2MTHRMxbqdHHNNeClJpuw4qsljywEeMfV3zTpRlkzfmt4OVMQ=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiyd074b8zopYoZmNvbrzbPjtAWd38KBcgc2i4hNpali1WVF45rCnzcSksI59zQ5awtSodvSefbgCjf5WyUb9uLL-6PqFtxiq6xiC7bt6B1gFOCjc5dqoO9HgbLLbnmEgl1nmV4AVZ3brDPRMx1nRCA1qGGofV1sdf6EsXMIm3g0MvVTE6Q4MIk7HFpIuQ=w480-h640"
+            ],
+            "address": "80 Jurong East Street 21, Devan Nair Institute, #01-05, S(609607)",
+            "phone": "+65 9450 8541",
+            "openHours": {
+                "Mon": [
+                    "07:30",
+                    "14:00"
+                ],
+                "Tue": [
+                    "07:30",
+                    "14:00"
+                ],
+                "Wed": "Closed",
+                "Thu": [
+                    "07:30",
+                    "14:00"
+                ],
+                "Fri": [
+                    "07:30",
+                    "14:00"
+                ],
+                "Sat": "Closed",
+                "Sun": "Closed"
+            }
+        },
+        {
+            "FoodID": "FRESH-FROG-PORRIDGE-GEYLANG",
+            "name": "Fresh Frog Porridge",
+            "country": "Singapore",
+            "lat": 1.312264,
+            "lng": 103.87654,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Frog Porridge",
+            "diet": "Any",
+            "price": 3,
+            "website": "https://geylanglor9.com/",
+            "facebook": "https://www.facebook.com/geylanglor9/",
+            "tag": [
+                "Dinner",
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgLu_rYgNLlhcib7Dhwk77vq4fUtAInH5taYQbdBbtPSYr1BfnGKXOmgn7nwdOMSxiop3RytktiyjXPO7TntoZKaQe4Z0V9yI3MQkclMHB-5AEjxFMqQtyPryDLw-bptvvvm1tNcXnF8mH6CyiOi3A9pKaMZdNWjArnqyW1p_NKqMj0G8ZbWP6OpiQgpyw",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEi1qvtyGn7Mnwj6jpxRIg9MdCMzmjg0i3B6yKqt0GGUCf5Q0rj3vg9DgL4BjgBBKRuvfq5SsqkGbBKOXrq4lSBNdAytqW5meMJTbsj0fACE3ppkrxaaG4wqFZed-zI7KTl9XitsTXTKUv-xsH5TkUACTtUE1jQPa5bIGjBSL9C209KrAaD0dewKP8JiKcI=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiH06rXXbxgdImaSG66-ahhU4GJiIjIlUUbRPk7Lra34OQxgDklLLzua_vdTJlOMMm2VMmNQBJndJsQ5C7gQC_WNQrwyhMuoyIco85Awhx2ZSIgNJB9LGDKiKtxuD8t_zJgXpuyJAP2yzCCpF9IMp556JZxxsx9Vchjoz1Zquoo2EvjPCG9nsxw7UWdJsw",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEg5mabYCqW2nDxqugb14ZjMIGGv5ZgNVbPM4McLBvX_dA4IYjOxrnEwhLWxiLuMEJLMm9-IJrZQgwhYlEWMRFp0xfKOS8UE_Aj3w0ewmEc4ZTSfxM6JIi-UOkxBvmAKAEX_YlDjR_8g3uPwxnzK139mJe7siIMdGzyc0KQu853BTshQcgh8jmWsLxDPbCc"
+            ],
+            "address": "235 Geylang Road, Lor 9, S(389294)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "11:00",
+                    "04:00"
+                ],
+                "Tue": [
+                    "11:00",
+                    "04:00"
+                ],
+                "Wed": [
+                    "11:00",
+                    "04:00"
+                ],
+                "Thu": [
+                    "11:00",
+                    "04:00"
+                ],
+                "Fri": [
+                    "11:00",
+                    "04:00"
+                ],
+                "Sat": [
+                    "11:00",
+                    "04:00"
+                ],
+                "Sun": [
+                    "11:00",
+                    "04:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "FRESH-FROG-PORRIDGE-JB",
+            "name": "Fresh Frog Porridge",
+            "country": "Malaysia",
+            "lat": 1.485208,
+            "lng": 103.760759,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Frog Porridge",
+            "diet": "Any",
+            "price": 3,
+            "website": "https://geylanglor9.com/",
+            "facebook": "https://www.facebook.com/geylanglor9/",
+            "tag": [
+                "Dinner",
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjIHAGg0VNe6Dr391LfwDhtRw_1NPTHQkdvmSh2K_p6tjs4pibfGWfK7PqD29YbLRnNOSO9PgbYfvIqamoAxQKEOLXj3__tnT7JfeobR46cTKAi6oXPD91dXMtYfLh62styuktojf8f3ZG8lg0TJKhs4XKuKg6Su8sE0gMald19MmMOBcfQgybIT4EYdu0=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjgRi2dhqd6eiF-7XRkJOVdWwXMI7HHoXS9uu9jhcXzLzheX5mleNyuu00XOzhVEXPj3zCgQa0PuRTkZykRxSjnunnYB5BdoCwQpZbEzMSrOA1yEA6CRLE9zuuFM0B3HqJ1jxs5vWasGPFJw-9UFZY2PX3W7ZGraciwGbJTAHOPe2SHvpr0KurPDpKsvw4"
+            ],
+            "address": "12, Jalan Serigala Century Garden, 80250 Johor Bahru, Johor",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "18:00",
+                    "04:00"
+                ],
+                "Tue": [
+                    "18:00",
+                    "04:00"
+                ],
+                "Wed": [
+                    "18:00",
+                    "04:00"
+                ],
+                "Thu": [
+                    "18:00",
+                    "04:00"
+                ],
+                "Fri": [
+                    "18:00",
+                    "04:00"
+                ],
+                "Sat": [
+                    "18:00",
+                    "04:00"
+                ],
+                "Sun": [
+                    "18:00",
+                    "04:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "GIMEE-FACE-491-JURONG-WEST-AVE-1",
+            "name": "Gimee Face (491 Jurong West Ave 1)",
+            "country": "Singapore",
+            "lat": 1.349558,
+            "lng": 103.726632,
+            "rating": 4,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Bak Chor Mee",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 2,
+            "facebook": "https://www.facebook.com/GimeeFace",
+            "tag": [
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEimTdcR83S54HFtAQDRZFruSbDzjWDzKv8Kt6axGIhqf1aDNZ_IO-By9ISKNe77k-rbqOnp1zRliNrdrzRa74xSTait0_GsehCVmtc85wQ42pMwu5X8es5QawtkjA-CLoxjdeBRVRY0R4fvfBXzJtWgamtQEWzZ-JlZNVndYnu_sLLGhyq-MRxOh1Rbnzw"
+            ],
+            "address": "491 Jurong West Ave 1, #01-173, S(640491)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Tue": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Wed": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Thu": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Fri": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Sat": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Sun": [
+                    "00:00",
+                    "23:59"
+                ]
+            }
+        },
+        {
+            "FoodID": "GOLDEN-ROOSTER-TOA-PAYOH",
+            "name": "Golden Rooster (Toa Payoh)",
+            "country": "Singapore",
+            "lat": 1.334564,
+            "lng": 103.849678,
+            "rating": 3,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Western Food",
+            "dish": [
+                "Chicken Chop",
+                "Chicken Cutlet"
+            ],
+            "foodType": "",
+            "diet": "Any",
+            "price": 2,
+            "tag": [
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEi02nEsaxhK3lha9yR6h3PntI_n-0j8LyW1O_VzBsi-mW926DhFm17X8ILgGbmjsUymWPoH8DCl_XgtYUvIjz3p8QvL6QeUhy1kKHdOIrb8AI5yQlpD3alPY6SYPTEwRnotKitA3evcXNnIWlwMApgoABPTfwAJ7OqJ8Y9YVVivUiV7bL765WG4Tk08pH8"
+            ],
+            "address": "78C Toa Payoh Central, #01-77, S(313078)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "11:30",
+                    "01:00"
+                ],
+                "Tue": [
+                    "11:30",
+                    "01:00"
+                ],
+                "Wed": [
+                    "11:30",
+                    "01:00"
+                ],
+                "Thu": [
+                    "11:30",
+                    "01:00"
+                ],
+                "Fri": [
+                    "11:30",
+                    "01:00"
+                ],
+                "Sat": [
+                    "11:30",
+                    "01:00"
+                ],
+                "Sun": [
+                    "11:30",
+                    "01:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "HAI-NAN-ZAI",
+            "name": "Hai Nan Zai",
+            "country": "Singapore",
+            "lat": 1.431841,
+            "lng": 103.828153,
+            "rating": 3,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": [
+                "Carrot Cake",
+                "Fried Kway Teow"
+            ],
+            "foodType": [
+                "Rice Cake",
+                "Noodle"
+            ],
+            "diet": "Any",
+            "price": 1,
+            "tag": [
+                "Michelin Guide"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgq3hJ7vJRJ8J-IdlhRtk0-8zrJYu5dWjrTGN-caF17kiECv7C2bp_v2LocndAKC3wqGhsek3_aEwHicYA-Oqpmw7CcvfAzO3HEH7IRHMczt7D0eWtgIWL9j0KmRI4aRVGyFoB4MNOfL7L1kd5wN6DYgiLqL-L2OGVxFzRfLaG31w9PbR5frXjzM3nzAVo=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEihQg3b007bKSzu9iEuOiiZwriS3c_pdWobfBp9iWu5aqygZRvfsYcnsEonP0i6tDwRJgWJ1vA-q5756ndKQjcViIL1xBKicNQ8fJaZOd8ZdfSXqBs4U_sRPaVB5gXrnZX82u4whKMogKktcvy4NJE0XUx0_ppYYCKkM2JN24cTzMwnuWr660jpGy3dHEI"
+            ],
+            "address": "105 Yishun Ring Road, Chong Pang Market & Food Centre, #01-129, S(760105)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "08:30",
+                    "21:00"
+                ],
+                "Tue": [
+                    "08:30",
+                    "21:00"
+                ],
+                "Wed": [
+                    "08:30",
+                    "21:00"
+                ],
+                "Thu": [
+                    "08:30",
+                    "21:00"
+                ],
+                "Fri": [
+                    "08:30",
+                    "21:00"
+                ],
+                "Sat": [
+                    "08:30",
+                    "21:00"
+                ],
+                "Sun": [
+                    "08:30",
+                    "21:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "HAINANESE-DELICACY",
+            "name": "Hainanese Delicacy",
+            "country": "Singapore",
+            "lat": 1.307255,
+            "lng": 103.833353,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Chicken Rice",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgHqrCwxXt7pnQXTwGAR7521gGBHFL4UPkfxcbWRbV9RnuN7j9eTuU9ifJoOD8pcIBHG-nFm5k3c_MKI11w2sb-2i3de144tnR8whrEVvChIMiNkRIlZawYCl_HKHLEktOgkIAM_Im2rCwNMZbXrJtjfQXqT-I1tcjPTd75UePWkqO0cn_U1yos0FkBwxw=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgKIO2xjb_GX5q3d46XmPNAXkm0BFyxPJrn7A1jzHHLJKVVO3BRAZTj4kjRD9bwOo0BNoX0-d35R88zdGSnh8TPoqlE0WdJO4wqM_bRK7dItA6mpO5IwMeKxmGt3cuRBaqjZ3WqwxBudI_VAYrKxOw7zfEXVAyttiNJKz5Fbhpg_y8cx0_JQ0o-Cj4avdc=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgBg19SPYbTNxypRFCDfhsRxxMgqZ66nDD_9uqa1FEA6ifXL8PZmdU33n8gv2LAPT7xkPmEDtnzmBQCX7xEOAb4q5i1vZq7GLGr1wkppEfkCgOGVJIOdTsDJI1BsLROItRkYwEpiiHnjCFru6V9EcqkyG3OzGWD9hXKTiYiCW5FXJ2-Jwu-0bPqDOJ0IL8=w480-h640"
+            ],
+            "address": "14 Scotts Road, Far East Plaza, #05-116, S228213)",
+            "phone": "+65 6734 0639",
+            "facebook": "https://www.facebook.com/HainaneseDelicacySG/",
+            "openHours": {
+                "Mon": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Tue": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Wed": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Thu": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Fri": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Sat": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Sun": [
+                    "11:00",
+                    "20:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "HUP-HONG-CHICKEN-RICE",
+            "name": "Hup Hong Chicken Rice",
+            "country": "Singapore",
+            "lat": 1.34344,
+            "lng": 103.738142,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Chicken Rice",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEi_Dyxeum6nqSv2QHyQSLxCaztSwHVM0V4_hVLmilpe2xm7QeXgQKw6HV1e-lkik2cfbwDPKXB0dXJeR_LbSIUy367ALa7rXi1j7EBSAovD1Rpe1y8ZFcl8HKSDq8ycS5rUNFe3j3VN14gt3CgLqSIjHEOkSwDDX8JA-vWTLeWHhJmxbIyTbPJYyVzcz2Y"
+            ],
+            "address": "865254 Jurong East St 24, Yuhua Village Market & Food Centre, #01-51, S(600254)",
+            "phone": "-",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "10:30",
+                    "17:30"
+                ],
+                "Wed": [
+                    "10:30",
+                    "17:30"
+                ],
+                "Thu": [
+                    "10:30",
+                    "17:30"
+                ],
+                "Fri": [
+                    "10:30",
+                    "17:30"
+                ],
+                "Sat": [
+                    "10:30",
+                    "17:30"
+                ],
+                "Sun": [
+                    "10:30",
+                    "17:30"
+                ]
+            }
+        },
+        {
+            "FoodID": "MARGARET-DR-SIN-KEE-CHICKEN-RICE",
+            "name": "Margaret Dr Sin Kee Chicken Rice",
+            "country": "Singapore",
+            "lat": 1.307296,
+            "lng": 103.79346,
+            "rating": 4,
+            "wait": 10,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Chicken Rice",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "tag": [
+                "Michelin Guide"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgwhrkKqBldReFxSHZhgtrb0Km6vM_3njDHEzAtxhYo4hPGQtNRVcbD7Ptl-9EaulAQIUo9DcTpUyew7krXqaPM2wz83d8ubeybYHX9viXltoP1sman3QzyPd3zGwz4d-BfASuH8TIvZ50wR6xe-DNtgcUczJ_NGOEhyXNfLrFNdKpX2Mji6geeEK3IJtw=w480-h640"
+            ],
+            "address": "40 Holland Drive, #01-39, S(270040)",
+            "phone": "+65 8428 7865",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Wed": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Thu": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Fri": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Sat": [
+                    "11:00",
+                    "20:00"
+                ],
+                "Sun": [
+                    "11:00",
+                    "20:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "MENG-KEE-FRIED-KWAY-TEOW",
+            "name": "Meng Kee Fried Kway Teow",
+            "country": "Singapore",
+            "lat": 1.288079,
+            "lng": 103.82956,
+            "rating": 4,
+            "wait": 10,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Fried Kway Teow",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjpvjaYuz6zR7_6tVL0pJ9YCuFWBC0mSNz3phCvgCo8ITc7aljg0iEUGcc7ekndKIAXwWC1IWtVEBD_Qv8XIIzct-D3Wu3v60jz8JCDR_3gz2-n9bpReeS03dFx2uaZFFkhz4KFR1u8k7tUjEJfDOnPgssFVwwI32ay4p6Q06nMJ9ZXODX2v1wN4hSvDL8=w480-h640"
+            ],
+            "address": "2A Havelock Rd, #01-07, S(161022)",
+            "phone": "-",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Wed": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Thu": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Fri": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Sat": [
+                    "09:00",
+                    "15:00"
+                ],
+                "Sun": [
+                    "Closed"
+                ]
+            }
+        },
+        {
+            "FoodID": "NIC-TOM-EATERY",
+            "name": "Nic & Tom Eatery - 少年食堂",
+            "country": "Singapore",
+            "lat": 1.28162,
+            "lng": 103.844572,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Restaurant",
+            "cuisine": "Chinese Food",
+            "dish": "Cheese Bee Hoon",
+            "foodType": "",
+            "diet": "Any",
+            "price": 3,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiRuwPrK0l3p6VdB7Cv62VOL6i9vwdyBbwOr3apEZ9Ra6xatb6ylIqz0fClyNWdMuD4djTlH8BF6-dT2SUhyM0M-zzQY0cxQsfNcIAy4QNCFMZwud9tBSVXIL2bGkcnDXc2lKU3VJO5qCeZ2k1F2UC8g3_hj-nj1NdsrudBQsWn1Z78hjgslNcMkrRW4J8"
+            ],
+            "address": "6 Sago Street, S(059011)",
+            "phone": "+65 9138 9696",
+            "facebook": "https://www.facebook.com/nictomeatery",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": "Closed",
+                "Wed": [
+                    "10:30",
+                    "22:30"
+                ],
+                "Thu": [
+                    "10:30",
+                    "22:30"
+                ],
+                "Fri": [
+                    "10:30",
+                    "22:30"
+                ],
+                "Sat": [
+                    "10:30",
+                    "22:30"
+                ],
+                "Sun": [
+                    "10:30",
+                    "22:30"
+                ]
+            }
+        },
+        {
+            "FoodID": "NO-1-WESTERN-FOOD",
+            "name": "No 1 Western Food",
+            "country": "Singapore",
+            "lat": 1.297458,
+            "lng": 103.804915,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Western Food",
+            "dish": [
+                "Chicken Chop",
+                "Chicken Cutlet"
+            ],
+            "foodType": "",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjtqgGkQ-Nxk186XtTH9peEp-e7GjkTShenx5k-KoYTiYMxQp1eVv7dByu2cjzwupKJe9nnDarKvScfFglW7EZQ2fZeGQKOl-OM2hIwWho-2fww3ejU0KgCoqy38MSAd7q68f6vUE5dHrfMEOXVUnQ6k85MJBw3bpzsqIK31gC6P_5nrRBsYO7hX3df43w=w480-h640"
+            ],
+            "address": "38A Margaret Dr, Margaret Dr Food Centre, #02-30, S(142038)",
+            "phone": "+65 8474 3930",
+            "openHours": {
+                "Mon": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Tue": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Wed": "Closed",
+                "Thu": "Closed",
+                "Fri": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Sat": [
+                    "11:00",
+                    "19:00"
+                ],
+                "Sun": [
+                    "11:00",
+                    "19:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "PONGGOL-NASI-LEMAK",
+            "name": "Ponggol Nasi Lemak",
+            "country": "Singapore",
+            "lat": 1.312857,
+            "lng": 103.859696,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Nasi Lemak",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 3,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEj2ZneIGYWRLMMb7kE8FMYMab7Lv9rU17tMXsvERDg2vR8bZ3h1I2Lcl028eQ0jlCMRhZPI5T5myb_QUDh6OjRdQJ871pjtSRowrr9HGD-PymnMnmmE6eixi_Bu4PoonjOL9Snx_vHIkRiQKz4PesMGwBk1HND65fEXkSBNlxlZAZ53tOg67J_9wW0L_oQ=w640-h480",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEguz3jesd0OMaMEv0CiP7Sg0QlJhSydwAdm8_hnBQW_RoLLJaTxnEk-PFMVbsKPf8LJqsNPAPl_geUF1C-MeANoyzN6TfPJ5N4Iih1SsGP3HetJQoHwzNlZ-fKroj1QpQWq5xFzp6spn5ETXjfB1M0r58bpobT1-LYwYAL-n-MjcdX-LuixxY8Dyvzt908=w640-h480",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEhddb31sdDGi88LFq6K-winyL5exwg-NENIIz6Kbz-EtMGNY9eCTqJXzbRY-pNDgJ7rSL8PVoubJuVWYUJ-PzgAhk4EF3JPaflHrqtTcR2vkUAP2LKEoD_8tUuTRsqNqIaEZdZ1vup5aNcL9leVbc-AH9g8GbZ8XpxlChoGsObThWmve0-L9HEBJF9Q7fk=w640-h480",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEhQxRl77fdxBSrNzUvXNE7d8EL8ZB5bDXZcdX2hhc_GuK8SLOcdDwKNHjgS10S-cddA1NI6DF65vo71KZuygVyo91QsUBFRLkjjbUQ-O4GDEBMG8gbPLko4iE7VVmpZw6hfZ2eRlCwJkXGBR86QQDmuH4zY6v4Qt8zFCwbc12qmncvsSTa2ZTKobUd4r9Q=w640-h480",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiKsassz9iY4hw2pgCpQ-5X5jNj0YA8xi0J_VrgGUG1lDGp7vXqV31kVoC2AXLnYFLqTZGV5W4IngfdXyYeHS7DpMp0sVQDhzSac3a6Oy0RLBVeglnTJSNN1J0wr13cnQgJsv7Tc5KPosH9laPyl1UJ9m_T2d7j0op9jcRjAiBqIGptbWeNBjRj_ScxIuE=w640-h362",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjIcX6O0MvG_ZXpD5Wc3JNzSFe4xfL-Bh1dprghEkMCHULt9gtRQP6XhtZxQOUESyJXfnzBjZ3TZX4oS0WUS6qvh-adN3X3OaYfYJ8sMnnbTgl46iVWf4Ct1lAyVKHtKs7Kz5dcUnXUCctJYLKgDr5IWbeQpUPXs1w4-93rQszy_TjC6fS7rBVpYRLsXOc=w640-h368"
+            ],
+            "address": "371 Jln Besar, #01-01, Singapore 208998",
+            "phone": "+65 6293 0020",
+            "website": "https://www.ponggolnasilemak.com.sg/",
+            "openHours": {
+                "Mon": [
+                    "11:00",
+                    "21:00"
+                ],
+                "Tue": [
+                    "11:00",
+                    "21:00"
+                ],
+                "Wed": [
+                    "11:00",
+                    "21:00"
+                ],
+                "Thu": "Closed",
+                "Fri": [
+                    "11:00",
+                    "21:00"
+                ],
+                "Sat": [
+                    "11:00",
+                    "21:00"
+                ],
+                "Sun": [
+                    "11:00",
+                    "21:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "RESTORAN-AH-PIAO",
+            "name": "Restoran Ah Piao",
+            "country": "Malaysia",
+            "lat": 1.486474,
+            "lng": 103.769335,
+            "rating": 4,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Abalone Noodle",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "facebook": "https://www.facebook.com/ahpiawnoodlehouse/?_rdr",
+            "price": 2,
+            "tag": [
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiTtv7vhqhNbxiGNhvfcYqTGT12NkKL8iUT2ZE-PaEk4078UIBa1KfsbzQj5O3UQZmvAdh0i25JGUNw0l_eAUS_HNVYtoAYzmQgQdRPDpcGpior1t1qyuYCGqegOIsmxL7XPqvVscMUpUg34RjssxBUu3LXV8pX4-p9rIRmiZso2uecEM8U2P_S3_LN3mw"
+            ],
+            "address": "20, 12, Jalan Kelewang, Taman Sri Tebrau, 80050 Johor Bahru, Johor Darul Ta'zim, Malaysia",
+            "phone": "+60 12-775 0995",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    [
+                        "11:30",
+                        "15:00"
+                    ],
+                    [
+                        "18:00",
+                        "21:30"
+                    ]
+                ],
+                "Wed": [
+                    [
+                        "11:30",
+                        "15:00"
+                    ],
+                    [
+                        "18:00",
+                        "21:30"
+                    ]
+                ],
+                "Thu": [
+                    [
+                        "11:30",
+                        "15:00"
+                    ],
+                    [
+                        "18:00",
+                        "21:30"
+                    ]
+                ],
+                "Fri": [
+                    [
+                        "11:30",
+                        "15:00"
+                    ],
+                    [
+                        "18:00",
+                        "21:30"
+                    ]
+                ],
+                "Sat": [
+                    [
+                        "11:30",
+                        "15:00"
+                    ],
+                    [
+                        "18:00",
+                        "21:30"
+                    ]
+                ],
+                "Sun": [
+                    [
+                        "11:30",
+                        "15:00"
+                    ],
+                    [
+                        "18:00",
+                        "21:30"
+                    ]
+                ]
+            }
+        },
+        {
+            "FoodID": "RESTORAN-DI-HWANG-YA",
+            "name": "Restoran Di Hwang Ya",
+            "country": "Malaysia",
+            "lat": 2.250465,
+            "lng": 102.288692,
+            "rating": 4,
+            "wait": 5,
+            "diningSpot": "Restaurant",
+            "cuisine": "Chinese Food",
+            "dish": "Duck Rice",
+            "foodType": "",
+            "diet": "Any",
+            "price": 3,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjWGPQ5gYTnPNMCqGXNPrmYNVrFNb4G7Q6SZ0BpElzNFSdmMJVEFHs4TRmzbWYiuFlNcahSTURCcvfbrmmTckcSxSdVHT75Gj-N7EZTS72igmTNEExIjjbTGi7d9KIciNKsuzvSCS0Hin-CrIsO_xYWlRF2ad-AqMTuDXR5D08woY-_VG85TGaR4gttLos=w480-h640"
+            ],
+            "address": "KSL City Mall, 33, Jalan Seladang, L2-132, Johor Bahru 80250",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "08:00",
+                    "18:00"
+                ],
+                "Tue": [
+                    "08:00",
+                    "18:00"
+                ],
+                "Wed": [
+                    "08:00",
+                    "18:00"
+                ],
+                "Thu": [
+                    "08:00",
+                    "18:00"
+                ],
+                "Fri": [
+                    "08:00",
+                    "18:00"
+                ],
+                "Sat": [
+                    "08:00",
+                    "18:00"
+                ],
+                "Sun": [
+                    "08:00",
+                    "18:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "RESTORAN-KAK-KAK",
+            "name": "Restoran Kak Kak, 佳佳点心茶楼",
+            "country": "Malaysia",
+            "lat": 1.480711,
+            "lng": 103.765531,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Tim Sum",
+            "diet": "Any",
+            "price": 1,
+            "tag": [
+                "Hidden Gem"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjOhuQstIvzeW5EaXwHoGjLxpp4rFdpxLDwZiQXeV9vq2PpkQz5sysZ1q9f8yJ-m65N_POP596s8Kplg4u1DIsZkjC-lYcc2XJsae5xe0RGBVAvEtEpyfa60vABPNmNIF6uVRc0FAnUCzlQ19-CilvqZN9d6K62_G7PUdhKmpZbTJyK-tc0OB93tx-yTcQ=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEi6RacAWKIA2cBKGMZM4RNJFSu24HguaoV4hDWLl-VKCR6Rxt1oQTKmJvd3geNzU_7AUEWvnW98q4a2y5PVdzKonfA2xK0X8y6zDgXPqUgO5cLvMmK2eMQYtWjY5bU6KGevFAXvfGjEsgvXICIBTqciaqK-W_RsoMRM5L-Qs50YVyzsofeDVcZ6TwriDJM"
+            ],
+            "address": "9, Jalan Maju, Taman Maju Jaya, 80400 Johor Bahru, Johor, Malaysia",
+            "phone": "+60 11-6518 9328",
+            "openHours": {
+                "Mon": [
+                    "06:00",
+                    "13:00"
+                ],
+                "Tue": "Closed",
+                "Wed": [
+                    "06:00",
+                    "13:00"
+                ],
+                "Thu": [
+                    "06:00",
+                    "13:00"
+                ],
+                "Fri": [
+                    "06:00",
+                    "13:00"
+                ],
+                "Sat": [
+                    "06:00",
+                    "13:00"
+                ],
+                "Sun": [
+                    "06:00",
+                    "13:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "RESTORAN-LEE",
+            "name": "Restoran Lee",
+            "country": "Malaysia",
+            "lat": 2.250465,
+            "lng": 102.288692,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Restaurant",
+            "cuisine": "Chinese Food",
+            "dish": "Cheese Bee Hoon",
+            "foodType": "",
+            "diet": "Any",
+            "price": 3,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgOw9ZXfzRa-uDJgyvWoW55nhTTflranaRCZwXg3FnXSIxXRJQj_rHomdFIvjF42gLwEixb31jRzGcUy3Z-Vsc1KOP8C6kB-UuNCy9MivUADH4nfy461nfzOpYXPNlWEhf-MTV-gwzjCnQr48Q3LCror0DO8upP2hYH9thFNGICEJQsWxJIkYCylRDHDFQ=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEg4Nv7scXHwjjXGt6k1dXiKUTzCcT_rBekaW2foWyEiO6_KYp336kSVdGo6gK_s1heN9TZj-nVb2DIXSkIYXxZiDrl-sKBHPtAVoF2WsfmhozYbSBr1nAJEtuKvDNDtWk8wWw7erwGS49iuD2wifq2KtS6UyDajeOsmtczS0Dac_2h5bUpyep7HWpS3Z1c=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjoJN-BXOefwR0LI7k_BBJtl6soYsmNB2DFn9qvIokYGOvyuR64Bav8Wg7oIFJP7d0NlOmoaV_FqD5e_XfbqfVoI4o2dfrX8rt5KY_0QjkQkTfcJU1bYlT935jzJ39a1VL42Fmes_y4E56G5J4WcGr9KfkBH9gixwSZBpKpEM5QrEmqQBUv9PYx4y-HQGI=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjKOWfOXlZNgmbjHP7ew8RIvrVBEqdkaTcXaAVm7YFIdpporSCadBqeqzIZVhQC-LW4_4ZoRdhiDeAUvPi3BlcJFztEQIg596fRHGjrZIi77EU4hGIqg6dWlllhkHTCZrKIabFTNci-W6aSwCNb_fZ0yRqiikm18eg0WvTt1XF71Q3wMT6rFMP917qeUA0=w640-h378",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjqjaMAvYtaZBuy5xclEz369zBbFuQll2kQy5nFbQXrNsHQ77FuuyZMSnDjJenLsoPZOBW90rwmHNKT5DZ_3NfWu1huMlo85FizZExil_xGenKzpMoOSPFFMwB_hKAQ9qFCfKOM7bSnhbIPdsa-5LtP4Rr-jJiwGkLZ5bPhb9GJ8Hr4H_QW-Yx1bn07jX0"
+            ],
+            "address": "28 & 30, Jalan Sri Ramo 3, Taman Muzattor Shah, Air Keroh, 75450",
+            "phone": "+606-231 6601",
+            "facebook": "https://www.facebook.com/feileeayerkeroh/",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": "Closed",
+                "Wed": [
+                    "10:30",
+                    "22:30"
+                ],
+                "Thu": [
+                    "10:30",
+                    "22:30"
+                ],
+                "Fri": [
+                    "10:30",
+                    "22:30"
+                ],
+                "Sat": [
+                    "10:30",
+                    "22:30"
+                ],
+                "Sun": [
+                    "10:30",
+                    "22:30"
+                ]
+            }
+        },
+        {
+            "FoodID": "RESTORAN-WOON-59",
+            "name": "Restoran Woon 59",
+            "country": "Malaysia",
+            "lat": 1.486651,
+            "lng": 103.769483,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Abalone Noodle",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "facebook": "https://www.facebook.com/carrotcubes/",
+            "price": 2,
+            "tag": [
+                "Hidden Gem",
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEhnL-bcen_eP2fwKZyHYYlr-T5l6OtHAYNO_bygpwM4SqVx0VUa6DEUCo91XcxF5fQQ1KIGPHAtrNxUHtNI_f0eoluTaNlcbW9TOFUKDg0N10_FmkQSZxV4NkQqznYpNZYR24oGdkmgkYxEGb2bT696Q0vEWnPOFDXwY0h_8VGJn5YOpOcswEdWKLNmy_U=w480-h640"
+            ],
+            "address": "14 Jalan Kelewang ,Taman Sri Terbau, Johor Bahru, Malaysia)",
+            "phone": "+60 13-559 9959",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Wed": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Thu": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Fri": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Sat": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Sun": [
+                    "00:00",
+                    "23:59"
+                ]
+            }
+        },
+        {
+            "FoodID": "SPRINGLEAF-PRATA",
+            "name": "Springleaf Prata",
+            "country": "Singapore",
+            "lat": 1.31571,
+            "lng": 103.757656,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Indian Food",
+            "dish": "Prata",
+            "foodType": "",
+            "diet": "Any",
+            "price": 2,
+            "tag": [
+                "Michelin Guide",
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgGCd4o6sAfd-N-eHeUIe_hV0YM4I7xfq8vYWy3CHHTS5vAcAZ_wnsByhq7KuGgtSJ7Qb9OUQOwxnGwt_ro0gibGlOJXo4yIutaYH8NufGUFhvkK2EWhOH3JliqSgWSoAS5eu9sMUJy3SShQ4vnNiiJnOe882RH3U2_ICYuwx4fcbvb3CLDyQIFsMMAQA4=w480-h640"
+            ],
+            "address": "1 West Coast Dr, 01-108/109, NEWest, S(128020)",
+            "phone": "+65 6996 4962",
+            "website": "https://spplace.com/",
+            "openHours": {
+                "Mon": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Tue": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Wed": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Thu": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Fri": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Sat": [
+                    "00:00",
+                    "23:59"
+                ],
+                "Sun": [
+                    "00:00",
+                    "23:59"
+                ]
+            }
+        },
+        {
+            "FoodID": "THE-ROTI-PRATA-HOUSE",
+            "name": "The Roti Prata House",
+            "country": "Singapore",
+            "lat": 1.353804,
+            "lng": 103.834196,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Indian Food",
+            "dish": "Prata",
+            "foodType": "",
+            "diet": "Any",
+            "price": 2,
+            "tag": [
+                "Supper"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiplW6X2kjMpyxZ0L5tztRB4P9gZDBddMtikRGrA3mGXYdOxK8FuIyft-xZuwMUVvSMdNGiI8EZhY9c1po9YB_AKoDIOGfMsVi0XoUVgX5p4W7hb9HCJXi3CMQywfDMzJkyx2KijelMG4g8GbV7VrFVSihIGS72TGJLMIM5ORO-q6MDR4_Q7Fsv4EwYYGA=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjEQrBhu83jkIVKBkOTNcbx5Jeiv3dGBiCcSYuMPTL5zIjEGVfbxO3s75t7IjGEj2qkIdxwIgJXJKG8KNLvTaVMINvMKdBP5T1IasLUussls6gQ-41zVJdhdartvs2fPhc4ALwq7bC-KSCX37uTfUoCH3LMfreABxz5eQ5ux2Ay97CJYnMTWI2_3WzhUZQ"
+            ],
+            "address": "246M Upper Thomson Rd, S(574370)",
+            "phone": "+65 9138 9696",
+            "website": "https://therotipratahouse.sg/",
+            "openHours": {
+                "Mon": [
+                    "07:00",
+                    "02:00"
+                ],
+                "Tue": [
+                    "07:00",
+                    "02:00"
+                ],
+                "Wed": [
+                    "07:00",
+                    "02:00"
+                ],
+                "Thu": [
+                    "07:00",
+                    "02:00"
+                ],
+                "Fri": [
+                    "07:00",
+                    "02:00"
+                ],
+                "Sat": [
+                    "07:00",
+                    "02:00"
+                ],
+                "Sun": [
+                    "07:00",
+                    "02:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "TIONG-BAHRU-LOR-MEE",
+            "name": "Tiong Bahru Lor Mee",
+            "lat": 1.284329,
+            "lng": 103.832161,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Lor Mee",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 1,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEg-nJHFPRtO4Nvm6hHxx4mTWdP-EzT-0HyxfY_nybJpVpnyJFBHUWSwweHLaI7Kvx2ceSfmiJpGw6ucCLFIBoXVEgyOOC3Dr_FIJ0OBfgUutJTwBxvpiEhYLN8NZ7qAX2M4GfBvJ78GZyfGLqxnUDpGudDrFh91bae1oPFlP4ga_WeM8iEcJ5QUjtscU-Q=w480-h640"
+            ],
+            "address": "30 Seng Poh Rd, Tiong Bahru Market, #02-80, S(168898)",
+            "phone": "-",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "07:00",
+                    "19:00"
+                ],
+                "Wed": [
+                    "07:00",
+                    "19:00"
+                ],
+                "Thu": [
+                    "07:00",
+                    "19:00"
+                ],
+                "Fri": [
+                    "07:00",
+                    "19:00"
+                ],
+                "Sat": [
+                    "07:00",
+                    "19:00"
+                ],
+                "Sun": [
+                    "07:00",
+                    "19:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "TONG-KEE-CHICKEN-RICE",
+            "name": "Tong Kee Chicken Rice",
+            "country": "Singapore",
+            "lat": 1.297458,
+            "lng": 103.804915,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Chicken Rice",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgLce5es6cM66RI8i2gEpjWH6Q4MvNkNeAyforKWK9d2QJvHYuQ-A4zenxHrFn4yZrJYm8LIEQ-3ZKQJF8mXeDcKTUBG6HpKseFHQwek-9tQNvzGobcqHkQ7-C9D7-AM5fdQaajT2DvxOrGRA88quAMKQm30hLJZae-YTeSmFw5tZHz35mDvV1JUTzybhM=w480-h640"
+            ],
+            "address": "221B Boon Lay Pl, #01-106, S(642221)",
+            "phone": "-",
+            "website": "https://powernasilemak.oddle.me/en_SG",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": "Closed",
+                "Wed": [
+                    "09:30",
+                    "19:00"
+                ],
+                "Thu": [
+                    "09:30",
+                    "19:00"
+                ],
+                "Fri": [
+                    "09:30",
+                    "19:00"
+                ],
+                "Sat": [
+                    "09:30",
+                    "19:00"
+                ],
+                "Sun": [
+                    "09:30",
+                    "19:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "TUAN-YUAN-PORK-RIBS-SOUP",
+            "name": "Tuan Yuan Pork Ribs Soup",
+            "country": "Singapore",
+            "lat": 1.28178,
+            "lng": 103.829136,
+            "rating": 5,
+            "wait": 10,
+            "diningSpot": "Restaurant",
+            "cuisine": "Chinese Food",
+            "dish": "Bak Kut Teh",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 3,
+            "tag": [
+                "Michelin Guide"
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiHiqBkcP8vD1VpuUTcF3qgWik36Fss0myQIGgIqL9GsEHZ0IqvrEb19yuivjqzu73IcpZGizrj1bTEKuFP3EBbRGycL0hWrG8Ojn5zy0MSFRiktf3zGQSp0w22aQ1XUPfBNolR81MC8TiFeKQ_uOYxPjk4tk8DAmzssDYV08dxdUqUC3XxiBvxqksYzx0=w480-h640"
+            ],
+            "address": "127 Kim Tian Rd, #01-01, S(160127)",
+            "phone": "-",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    [
+                        "11:00",
+                        "14:30"
+                    ],
+                    [
+                        "17:00",
+                        "21:30"
+                    ]
+                ],
+                "Wed": [
+                    [
+                        "11:00",
+                        "14:30"
+                    ],
+                    [
+                        "17:00",
+                        "21:30"
+                    ]
+                ],
+                "Thu": [
+                    [
+                        "11:00",
+                        "14:30"
+                    ],
+                    [
+                        "17:00",
+                        "21:30"
+                    ]
+                ],
+                "Fri": [
+                    [
+                        "11:00",
+                        "14:30"
+                    ],
+                    [
+                        "17:00",
+                        "21:30"
+                    ]
+                ],
+                "Sat": [
+                    [
+                        "11:00",
+                        "14:30"
+                    ],
+                    [
+                        "17:00",
+                        "21:30"
+                    ]
+                ],
+                "Sun": [
+                    [
+                        "11:00",
+                        "14:30"
+                    ],
+                    [
+                        "17:00",
+                        "21:30"
+                    ]
+                ]
+            }
+        },
+        {
+            "FoodID": "VICTOR-FAMOUS-FRIED-CHICKEN-WING-RICE-HAINANESE-CHICKEN-RICE",
+            "name": "Victor Famous Fried Chicken Wing Rice & Hainanese Chicken Rice",
+            "country": "Singapore",
+            "lat": 1.307283,
+            "lng": 103.855189,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Chicken Rice",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiHTnlLQclMwHreCt39fa0En98llGnddh4VSpZURrdQwbe0jw7iV8VNjQ8ZvDduYdkW-qQH1NTzIYNS3w5iFA4YlVtZRWlLw9W02d_H0--44u_J21fwXdp3fZ1ZZoPSC0ufoP0lJWupLmvTip-H53n-INzfbdooKr-x-ZItCrGhEtAmhht5uh6V7NmVLkI=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjsfT14pTcyQvI3kc4HJmU7TR2LqzAlD9n-sAQrDQCnxg5HPLzM0CmovrKDG4WziXJSC8HSmqmMi08-80ZrC-jLnKc6FO4wf6tsNaDuDEw77KbZWfw2kAp0gsXfjMx_59SUsYy8iYZyOqsBJOCBzvqidBF2EQCVG32dwG3BcPlVR0HWv5Ut5cvYlXkXSEk=w480-h640"
+            ],
+            "address": "638 Veerasamy Rd, Yi He Eating House, #01-101, S(200638)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "11:30",
+                    "18:00"
+                ],
+                "Tue": [
+                    "11:30",
+                    "18:00"
+                ],
+                "Wed": [
+                    "11:30",
+                    "18:00"
+                ],
+                "Thu": [
+                    "11:30",
+                    "18:00"
+                ],
+                "Fri": [
+                    "11:30",
+                    "18:00"
+                ],
+                "Sat": [
+                    "11:30",
+                    "18:00"
+                ],
+                "Sun": [
+                    "11:30",
+                    "18:00"
+                ]
+            }
+        },
+        {
+            "FoodID": "XIANG-FENG-NASI-LEMAK",
+            "name": "Xiang Feng Nasi Lemak",
+            "country": "Singapore",
+            "lat": 1.345696,
+            "lng": 103.713077,
+            "rating": 5,
+            "wait": 5,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Nasi Lemak",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjbDGLViu61-QkCU1yINDtySdDRpB3hUXmdRa_81Ql5y52wcO2lfNG8038lBMuUQCJQgITMeJnESuZQtRF6NbnROpXDdo5aEc-m8eXKsUbjmBTD2oqLu-7iPK5DZg-bgMB3yMcnaCFdc7oOCA-v6E2uKCWt-YVTSF_VrCdZF8teJD117tRmc58Meytk-Vs",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjFC4LX8p8h6V_ttY9m37zjJjNZDbxbg_jzC48zGmWXxECebGea2eEhVhjFCgZL847MTaJzH2_-wrFgTxCczIfpBPLRfOUepJQOP3B6Ii32v0i6597oBMr8VdrtwxmzN6h6p92qh8-k10MLEt0zr4VkRQCRC2LBH0NjHXsK5SbnzLLUgQKYdjvdq3t2kOM=w480-h640"
+            ],
+            "address": "221B Boon Lay Pl, #01-126, S(642221)",
+            "phone": "+65 9786 7919",
+            "facebook": "https://www.facebook.com/xiangfengnasilemak/",
+            "openHours": {
+                "Mon": [
+                    "07:30",
+                    "14:30"
+                ],
+                "Tue": [
+                    "07:30",
+                    "14:30"
+                ],
+                "Wed": [
+                    "07:30",
+                    "14:30"
+                ],
+                "Thu": [
+                    "07:30",
+                    "14:30"
+                ],
+                "Fri": [
+                    "07:30",
+                    "14:30"
+                ],
+                "Sat": "Closed",
+                "Sun": [
+                    "07:30",
+                    "14:30"
+                ]
+            }
+        },
+        {
+            "FoodID": "ZION-RD-BIG-PRAWN-NOODLE",
+            "name": "Zion Rd Big Prawn Noodle",
+            "country": "Singapore",
+            "lat": 1.292469,
+            "lng": 103.83093,
+            "rating": 4,
+            "wait": 10,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Prawn Noodle",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 3,
+            "tag": [
+                "Michelin Guide"
+            ],
+            "moreInfo": "https://lifeengrg.blogspot.com/2026/08/zion-rd-big-prawn-noodle.html",
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjRV5s7KcrVyvWaF57ZoAR3LSdWRtPugeY7XfgdNu9KTMRZcg30NEqa_PED-sdoDpGN9yNAwRJsvn2wO-wRoWByWs7Iz7cZ96PFk6WOVP-zlfXNJB6FWuIvWeGhAP2FKR8_QjwUycgsx8mXupJkNNULeMXacIDXuuxAHiq33hhtw7lZykY-eeUqYpdwrJ4=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEgVLrbn1TB_lBKW0boLczT_5YyZncndlCfph7g_cnFpvcda7YzGcf5A-JLpsia2__Hybg3bFhYOvEXaOSj0cYMu0x-e6PzVUkwUPf_1xk1AEf1Yv-jxskPuDpTdIgQgNCxwvwKyrG19EjMNG7v5W0OjqawAcdBEG_8NxFd0hjnUdLLNMt_-BNkDE5KMWSI=w640-h480"
+            ],
+            "address": "70 Zion Rd, Zion Riverside Food Centre, #01-04, S(247792)",
+            "phone": "+65 8920 4175",
+            "openHours": {
+                "Mon": "Closed",
+                "Tue": [
+                    "16:30",
+                    "03:00"
+                ],
+                "Wed": [
+                    "16:30",
+                    "03:00"
+                ],
+                "Thu": [
+                    "16:30",
+                    "03:00"
+                ],
+                "Fri": [
+                    "16:30",
+                    "03:00"
+                ],
+                "Sat": [
+                    "16:30",
+                    "03:00"
+                ],
+                "Sun": [
+                    "16:30",
+                    "03:00"
+                ]
+            }
+        }
+    ]
 }
