@@ -2084,6 +2084,60 @@
                 ]
             }
         },
+        
+        {
+            "FoodID": "925-CHICKEN-RICE",
+            "name": "925 Chicken Rice",
+            "country": "Singapore",
+            "lat": 1.333883,
+            "lng": 103.738998,
+            "rating": 4,
+            "wait": 5,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Chicken Rice",
+            "foodType": "Rice",
+            "diet": "Any",
+            "price": 2,
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiHTnlLQclMwHreCt39fa0En98llGnddh4VSpZURrdQwbe0jw7iV8VNjQ8ZvDduYdkW-qQH1NTzIYNS3w5iFA4YlVtZRWlLw9W02d_H0--44u_J21fwXdp3fZ1ZZoPSC0ufoP0lJWupLmvTip-H53n-INzfbdooKr-x-ZItCrGhEtAmhht5uh6V7NmVLkI=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEjsfT14pTcyQvI3kc4HJmU7TR2LqzAlD9n-sAQrDQCnxg5HPLzM0CmovrKDG4WziXJSC8HSmqmMi08-80ZrC-jLnKc6FO4wf6tsNaDuDEw77KbZWfw2kAp0gsXfjMx_59SUsYy8iYZyOqsBJOCBzvqidBF2EQCVG32dwG3BcPlVR0HWv5Ut5cvYlXkXSEk=w480-h640"
+            ],
+            "address": "132 Jurong Gateway Rd, #01-273, S(600132)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "10:10",
+                    "20:00"
+                ],
+                "Tue": [
+                    "10:10",
+                    "20:00"
+                ],
+                "Wed": [
+                    "10:10",
+                    "20:00"
+                ],
+                "Thu": [
+                    "10:10",
+                    "20:00"
+                ],
+                "Fri": [
+                    "10:10",
+                    "20:00"
+                ],
+                "Sat": [
+                    "10:10",
+                    "20:00"
+                ],
+                "Sun": [
+                    "10:10",
+                    "20:00"
+                ]
+            }
+        },
+        
+        
         {
             "FoodID": "XIANG-FENG-NASI-LEMAK",
             "name": "Xiang Feng Nasi Lemak",
