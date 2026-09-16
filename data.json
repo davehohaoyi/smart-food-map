@@ -2152,6 +2152,9 @@
             "foodType": "Rice",
             "diet": "Any",
             "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEjbDGLViu61-QkCU1yINDtySdDRpB3hUXmdRa_81Ql5y52wcO2lfNG8038lBMuUQCJQgITMeJnESuZQtRF6NbnROpXDdo5aEc-m8eXKsUbjmBTD2oqLu-7iPK5DZg-bgMB3yMcnaCFdc7oOCA-v6E2uKCWt-YVTSF_VrCdZF8teJD117tRmc58Meytk-Vs",
                 "https://blogger.googleusercontent.com/img/a/AVvXsEjFC4LX8p8h6V_ttY9m37zjJjNZDbxbg_jzC48zGmWXxECebGea2eEhVhjFCgZL847MTaJzH2_-wrFgTxCczIfpBPLRfOUepJQOP3B6Ii32v0i6597oBMr8VdrtwxmzN6h6p92qh8-k10MLEt0zr4VkRQCRC2LBH0NjHXsK5SbnzLLUgQKYdjvdq3t2kOM=w480-h640"
