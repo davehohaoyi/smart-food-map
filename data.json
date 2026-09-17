@@ -198,7 +198,7 @@
             "country": "Singapore",
             "lat": 1.345696,
             "lng": 103.713,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Hawker",
             "cuisine": "Malay Food",
@@ -306,7 +306,7 @@
             "country": "Singapore",
             "lat": 1.330386,
             "lng": 103.875377,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Indian Food",
@@ -492,7 +492,7 @@
             "country": "Singapore",
             "lat": 1.369785,
             "lng": 103.873321,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Indian Food",
@@ -543,7 +543,7 @@
             "country": "Singapore",
             "lat": 1.428008,
             "lng": 103.827489,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
@@ -639,7 +639,7 @@
             "country": "Singapore",
             "lat": 1.304743,
             "lng": 103.901457,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
@@ -647,6 +647,9 @@
             "foodType": "Rice",
             "diet": "Any",
             "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "moreInfo": "https://lifeengrg.blogspot.com/2026/07/delicious-boneless-chicken-rice-in.html",
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEjWgQgdWDLoInE_RQy3gYua7rwjc1lXGa8ug7FlNtJdHslry6wwdUSfV_h-a-Ms17IQ-D2FDcb_EpxtEuGHGgTO12AK50SbzEpl1GKM-qR2AdCm57zyrfAU-O5YJx2SfwrcVheB-veW1MHMHCmbwWCPjHtmOh7InyGnQZFXmX4s5me1oMCIU8-0twYhI4Y",
@@ -740,7 +743,7 @@
             "country": "Singapore",
             "lat": 1.320068,
             "lng": 103.903586,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
@@ -748,6 +751,9 @@
             "foodType": "Noodle",
             "diet": "Any",
             "price": 1,
+            "tag": [
+                "Hidden Gem"
+            ],
             "facebook": "https://www.facebook.com/famouseunosbakchormee/",
             "moreInfo": "https://lifeengrg.blogspot.com/2026/07/famous-eunos-bak-chor-mee-eunos.html",
             "imgs": [
@@ -793,14 +799,17 @@
             "country": "Singapore",
             "lat": 1.335654,
             "lng": 103.744401,
-            "rating": 5,
-            "wait": 10,
+            "rating": 4,
+            "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
             "dish": "Lor Mee",
             "foodType": "Noodle",
             "diet": "Any",
             "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "facebook": "https://www.facebook.com/yewteefengzhendevannair/",
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEiLqt4mPnRgrnYGVt8-vrCXpKBTs6G8qheAAV9iBX7n8hmdSMVy8eVdhEHGUzloj3EI6jil8GECOg8XYkRV4Mw1I7x7aI8aiVAy7shTm36BsK0bE7ac7AahJLF9UXRkIciZjZiVsQtuiumK0AxAfwnWw4Ex2BAqDSEYjujQMTI-O8NoLAF_28USArNFJHo=w480-h640",
@@ -837,13 +846,16 @@
             "country": "Singapore",
             "lat": 1.312264,
             "lng": 103.87654,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
             "dish": "Frog Porridge",
             "diet": "Any",
             "price": 3,
+            "tag": [
+                "Hidden Gem"
+            ],
             "website": "https://geylanglor9.com/",
             "facebook": "https://www.facebook.com/geylanglor9/",
             "tag": [
@@ -895,13 +907,16 @@
             "country": "Malaysia",
             "lat": 1.485208,
             "lng": 103.760759,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
             "dish": "Frog Porridge",
             "diet": "Any",
-            "price": 3,
+            "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "website": "https://geylanglor9.com/",
             "facebook": "https://www.facebook.com/geylanglor9/",
             "tag": [
@@ -1121,7 +1136,7 @@
             "country": "Singapore",
             "lat": 1.307255,
             "lng": 103.833353,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
@@ -1129,6 +1144,9 @@
             "foodType": "Rice",
             "diet": "Any",
             "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEgHqrCwxXt7pnQXTwGAR7521gGBHFL4UPkfxcbWRbV9RnuN7j9eTuU9ifJoOD8pcIBHG-nFm5k3c_MKI11w2sb-2i3de144tnR8whrEVvChIMiNkRIlZawYCl_HKHLEktOgkIAM_Im2rCwNMZbXrJtjfQXqT-I1tcjPTd75UePWkqO0cn_U1yos0FkBwxw=w480-h640",
                 "https://blogger.googleusercontent.com/img/a/AVvXsEgKIO2xjb_GX5q3d46XmPNAXkm0BFyxPJrn7A1jzHHLJKVVO3BRAZTj4kjRD9bwOo0BNoX0-d35R88zdGSnh8TPoqlE0WdJO4wqM_bRK7dItA6mpO5IwMeKxmGt3cuRBaqjZ3WqwxBudI_VAYrKxOw7zfEXVAyttiNJKz5Fbhpg_y8cx0_JQ0o-Cj4avdc=w480-h640",
@@ -1317,7 +1335,7 @@
             "country": "Singapore",
             "lat": 1.28162,
             "lng": 103.844572,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Restaurant",
             "cuisine": "Chinese Food",
@@ -1325,6 +1343,9 @@
             "foodType": "",
             "diet": "Any",
             "price": 3,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEiRuwPrK0l3p6VdB7Cv62VOL6i9vwdyBbwOr3apEZ9Ra6xatb6ylIqz0fClyNWdMuD4djTlH8BF6-dT2SUhyM0M-zzQY0cxQsfNcIAy4QNCFMZwud9tBSVXIL2bGkcnDXc2lKU3VJO5qCeZ2k1F2UC8g3_hj-nj1NdsrudBQsWn1Z78hjgslNcMkrRW4J8"
             ],
@@ -1362,7 +1383,7 @@
             "country": "Singapore",
             "lat": 1.297458,
             "lng": 103.804915,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Hawker",
             "cuisine": "Western Food",
@@ -1373,6 +1394,9 @@
             "foodType": "",
             "diet": "Any",
             "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEjtqgGkQ-Nxk186XtTH9peEp-e7GjkTShenx5k-KoYTiYMxQp1eVv7dByu2cjzwupKJe9nnDarKvScfFglW7EZQ2fZeGQKOl-OM2hIwWho-2fww3ejU0KgCoqy38MSAd7q68f6vUE5dHrfMEOXVUnQ6k85MJBw3bpzsqIK31gC6P_5nrRBsYO7hX3df43w=w480-h640"
             ],
@@ -1409,7 +1433,7 @@
             "country": "Singapore",
             "lat": 1.312857,
             "lng": 103.859696,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Hawker",
             "cuisine": "Chinese Food",
@@ -1417,6 +1441,9 @@
             "foodType": "Rice",
             "diet": "Any",
             "price": 3,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEj2ZneIGYWRLMMb7kE8FMYMab7Lv9rU17tMXsvERDg2vR8bZ3h1I2Lcl028eQ0jlCMRhZPI5T5myb_QUDh6OjRdQJ871pjtSRowrr9HGD-PymnMnmmE6eixi_Bu4PoonjOL9Snx_vHIkRiQKz4PesMGwBk1HND65fEXkSBNlxlZAZ53tOg67J_9wW0L_oQ=w640-h480",
                 "https://blogger.googleusercontent.com/img/a/AVvXsEguz3jesd0OMaMEv0CiP7Sg0QlJhSydwAdm8_hnBQW_RoLLJaTxnEk-PFMVbsKPf8LJqsNPAPl_geUF1C-MeANoyzN6TfPJ5N4Iih1SsGP3HetJQoHwzNlZ-fKroj1QpQWq5xFzp6spn5ETXjfB1M0r58bpobT1-LYwYAL-n-MjcdX-LuixxY8Dyvzt908=w640-h480",
@@ -1599,7 +1626,7 @@
             "country": "Malaysia",
             "lat": 1.480711,
             "lng": 103.765531,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
@@ -1649,7 +1676,7 @@
             "country": "Malaysia",
             "lat": 2.250465,
             "lng": 102.288692,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Restaurant",
             "cuisine": "Chinese Food",
@@ -1657,6 +1684,9 @@
             "foodType": "",
             "diet": "Any",
             "price": 3,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEgOw9ZXfzRa-uDJgyvWoW55nhTTflranaRCZwXg3FnXSIxXRJQj_rHomdFIvjF42gLwEixb31jRzGcUy3Z-Vsc1KOP8C6kB-UuNCy9MivUADH4nfy461nfzOpYXPNlWEhf-MTV-gwzjCnQr48Q3LCror0DO8upP2hYH9thFNGICEJQsWxJIkYCylRDHDFQ=w480-h640",
                 "https://blogger.googleusercontent.com/img/a/AVvXsEg4Nv7scXHwjjXGt6k1dXiKUTzCcT_rBekaW2foWyEiO6_KYp336kSVdGo6gK_s1heN9TZj-nVb2DIXSkIYXxZiDrl-sKBHPtAVoF2WsfmhozYbSBr1nAJEtuKvDNDtWk8wWw7erwGS49iuD2wifq2KtS6UyDajeOsmtczS0Dac_2h5bUpyep7HWpS3Z1c=w480-h640",
@@ -1698,7 +1728,7 @@
             "country": "Malaysia",
             "lat": 1.486651,
             "lng": 103.769483,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
@@ -1805,7 +1835,7 @@
             "country": "Singapore",
             "lat": 1.353804,
             "lng": 103.834196,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Indian Food",
@@ -1813,6 +1843,9 @@
             "foodType": "",
             "diet": "Any",
             "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "tag": [
                 "Supper"
             ],
@@ -1859,7 +1892,7 @@
             "name": "Tiong Bahru Lor Mee",
             "lat": 1.284329,
             "lng": 103.832161,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Hawker",
             "cuisine": "Chinese Food",
@@ -1867,6 +1900,9 @@
             "foodType": "Noodle",
             "diet": "Any",
             "price": 1,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEg-nJHFPRtO4Nvm6hHxx4mTWdP-EzT-0HyxfY_nybJpVpnyJFBHUWSwweHLaI7Kvx2ceSfmiJpGw6ucCLFIBoXVEgyOOC3Dr_FIJ0OBfgUutJTwBxvpiEhYLN8NZ7qAX2M4GfBvJ78GZyfGLqxnUDpGudDrFh91bae1oPFlP4ga_WeM8iEcJ5QUjtscU-Q=w480-h640"
             ],
@@ -1906,7 +1942,7 @@
             "country": "Singapore",
             "lat": 1.297458,
             "lng": 103.804915,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Hawker",
             "cuisine": "Chinese Food",
@@ -1914,6 +1950,9 @@
             "foodType": "Rice",
             "diet": "Any",
             "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEjeimiUWXEhWLHvpMJXRyaS3cCZObVqfo_8v0VqhNzB2i6OWckUI0KB2K7Oxm53z_J50b_VaR7ZXt_TrngxXvbW94woMS0ldIddS1H3Y8cyz_2fDWVIExlCQwf1KHH7TexQo7RMD9aI1N4YAtUWuu9N-DY8da2wTbMGUpSm351CSOFjBjnSqNaI3kVHK2w=w480-h640",
                 "https://blogger.googleusercontent.com/img/a/AVvXsEicR9b08eEsRSQBxp6g0l-N_7Ks_rz5UwS5yVzmAWZutuIlGZWkieCeUthLRb6GOsmG59rGfs_0GapDePR0LKq5EA_9-W0NgrjqNLZ-BErsmrDvQaYJxjLnonyvYAboGeN5PNrxX5QmfGiEwaRcvTsf_MlFVXt4XTchiGmRomQTXkho6wQeiC88kL6pedw=w640-h480",
@@ -2039,7 +2078,7 @@
             "country": "Singapore",
             "lat": 1.307283,
             "lng": 103.855189,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Coffee Shop",
             "cuisine": "Chinese Food",
@@ -2047,6 +2086,9 @@
             "foodType": "Rice",
             "diet": "Any",
             "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
             "imgs": [
                 "https://blogger.googleusercontent.com/img/a/AVvXsEiHTnlLQclMwHreCt39fa0En98llGnddh4VSpZURrdQwbe0jw7iV8VNjQ8ZvDduYdkW-qQH1NTzIYNS3w5iFA4YlVtZRWlLw9W02d_H0--44u_J21fwXdp3fZ1ZZoPSC0ufoP0lJWupLmvTip-H53n-INzfbdooKr-x-ZItCrGhEtAmhht5uh6V7NmVLkI=w480-h640",
                 "https://blogger.googleusercontent.com/img/a/AVvXsEjsfT14pTcyQvI3kc4HJmU7TR2LqzAlD9n-sAQrDQCnxg5HPLzM0CmovrKDG4WziXJSC8HSmqmMi08-80ZrC-jLnKc6FO4wf6tsNaDuDEw77KbZWfw2kAp0gsXfjMx_59SUsYy8iYZyOqsBJOCBzvqidBF2EQCVG32dwG3BcPlVR0HWv5Ut5cvYlXkXSEk=w480-h640"
@@ -2144,7 +2186,7 @@
             "country": "Singapore",
             "lat": 1.345696,
             "lng": 103.713077,
-            "rating": 5,
+            "rating": 4,
             "wait": 5,
             "diningSpot": "Hawker",
             "cuisine": "Chinese Food",
