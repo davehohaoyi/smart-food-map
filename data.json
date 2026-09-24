@@ -793,6 +793,64 @@
                 ]
             }
         },
+        
+        {
+            "FoodID": "KOK-KEE",
+            "name": "Kok Kee",
+            "country": "Singapore",
+            "lat": 1.312528,
+            "lng": 103.85996,
+            "rating": 4,
+            "wait": 10,
+            "diningSpot": "Coffee Shop",
+            "cuisine": "Chinese Food",
+            "dish": "Wanton Noodle",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 2,
+            "tag": [
+                "Hidden Gem"
+            ],
+            "website": "https://kokkeewontonnoodle.com.sg",
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/a/AVvXsEh9QKUZ8Q3c9XucHQdsn21jraICnqOPSuxr87EbAnzc_eD-uT2tMlH7gSwf4Gp_dfm3FKv6AfYdc2sHktGyTOWUdDnzscXpY-MODNwk-GY6LlrOaLHGLsEIbgfJxr_WHDzat3Pz_6HSoZyQ6Eoxs5gnWSWhew1EUzwc-nV0UAALvfMRNtdl-ldFiJ8UTW8=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEiHKDDO5pILZnQB9SS_tt7eZdQpEC2ecufRQJJgEQ5toHuevQpgMsgg7Ev9a5t9-39eFDsSOt46_r0YJt45VREKAjqlB5J7AH9b4rvMqNm3R0asCcL-BEYC-lBjpg6rhVfu0c_OfRAz1C4Cou7mYpU_ONKa3wZdqVGzwtPQAPWV18rniHHxb3y4IvDdDKk=w480-h640",
+                "https://blogger.googleusercontent.com/img/a/AVvXsEhV0A36On1rFOU93xX2KiCrzJKXui5Jzm8cAovAy33FjyCYYv3ZFYkh3tsHFYkWGjeSlezVXEfRjn8HraxzqTBcSOsvqTdkkguCCc05GwIjz-MBNfA1b7emtQOrwsmym3eXxwq4rvW105U5bV-7MUK4D0GEXxUaj3JRjj9496fXH0iYCaSdp8fvgqekn0A"
+            ],
+            "address": "7 Eunos Crescent, Hong Lee Coffee Shop, S(400007)",
+            "phone": "-",
+            "openHours": {
+                "Mon": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Tue": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Wed": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Thu": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Fri": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Sat": [
+                    "06:00",
+                    "19:30"
+                ],
+                "Sun": [
+                    "06:00",
+                    "19:30"
+                ]
+            }
+        },
+        
         {
             "FoodID": "FENG-ZHEN-LOR-MEE",
             "name": "Feng Zhen Lor Mee",
