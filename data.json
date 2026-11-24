@@ -2289,6 +2289,54 @@
                 ]
             }
         },
+        
+        {
+            "FoodID": "YONG-CHUN-WAN-TON",
+            "name": "Yong Chun Wan Ton Noodle",
+            "country": "Singapore",
+            "lat": 1.285179,
+            "lng": 103.822293,
+            "rating": 5,
+            "wait": 10,
+            "diningSpot": "Hawker",
+            "cuisine": "Chinese Food",
+            "dish": "Wanton Noodle",
+            "foodType": "Noodle",
+            "diet": "Any",
+            "price": 2,
+            "tag": [
+            ],
+            "imgs": [
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjjU1UXTLXfNRa8wyDi2oENjzqBcYLcjKXApfxPqZ5iXED8wwwAHvEhptkdzu7PV80Ap-q0prvmu0bEc-vf4ZhfiWRDuNRzrd6uuUQGKORs9dvPY4r3RiCg_VIXg0YGaI7Ef1bw_brbWnV9TGpbkREvGOeyy0TCa6jUcI9SwbNXJEo-1RDHkWNsq2dH7SI/w640-h480/2026-11-18_12.05.38.jpg",
+                "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEifgBGWSNlMHem3uCMNabKOImN5GnLCzSN5GeanA6lGO0L3aaJoY-vT3uzYnLLfdNZ_ApKdaeyXu3RZmWcPsXJ15Rdb2OSgquKqvOD3R100UfPleUqwmj3cE3t8BXmmdG7Nwp3w8-ly19zKsCkwTP28ZB2xr6exrNyNSLRJ_6sZgBPUIdfc3xGOJL6CO_s/s1600/2026-11-18_11.52.22.jpg"
+            ],
+            "address": "15 Bukit Merah Vieww, #01-56, S(151115)",
+            "phone": "+65 9786 7919",
+            "openHours": {
+                "Mon": [
+                    "05:30",
+                    "12:30"
+                ],
+                "Tue": [
+                    "05:30",
+                    "12:30"
+                ],
+                "Wed": [
+                    "05:30",
+                    "12:30"
+                ],
+                "Thu": "Closed",
+                "Fri": [
+                    "05:30",
+                    "12:30"
+                ],
+                "Sat": "Closed",
+                "Sun": [
+                    "05:30",
+                    "12:30"
+                ]
+            }
+        },
         {
             "FoodID": "ZION-RD-BIG-PRAWN-NOODLE",
             "name": "Zion Rd Big Prawn Noodle",
